@@ -1,0 +1,191 @@
+header {
+    width: 100%;
+    height: fit-content;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+.brand .logo {
+    height: 8em;
+    filter: invert(1);
+    display: block;
+    margin: auto;
+}
+
+.brand .title {
+    line-height: 2em;
+    font-size: 2.5em;
+    margin: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+}
+
+.brand {
+    height: auto;
+}
+
+body {
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-family: 'Montserrat', var(--font-family-sans-serif);
+    color: white;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #424242;
+    overflow: hidden;
+    /* font-family: 'Space Mono', var(--font-family-sans-serif); */
+}
+
+.container {
+    width: calc(100vw - 8em);
+    height: calc(100vh - 8em);
+    overflow: hidden;
+    background: black;
+    padding: 4em;
+}
+
+::-webkit-scrollbar {
+      /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+/* optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+
+
+.background {
+    position: absolute;
+    z-index: 0;
+    width: calc(100vw - 8em);
+    height: calc(100vh - 8em);
+    filter: sepia(0.5)  hue-rotate(130deg);
+    background: url('/img/background-o.JPG');
+    background-position: center;
+    background-size: cover;
+}
+
+main {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    flex-wrap: nowrap;
+    width: max-content;
+    min-width: 100%;
+    left: 0;
+    justify-content: center;
+}
+
+footer {
+    position: absolute;
+    z-index: 1;
+    bottom: 1.3em;
+    font-size: 1em;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #b9d2d2;
+}
+
+article.project {
+    max-width: 400px;
+    width: 90%;
+    height: 12em;
+    margin: 0 1em;
+    overflow: hidden;
+    position: relative;
+    border-radius: 0;
+    text-align: right;
+    cursor: pointer;
+    user-select: none;
+    transform-style: preserve-3d;
+    box-shadow: none;
+    transition: 0.5s ease;
+    /* filter: invert(1); */
+}
+
+
+
+.project .project-bg {
+    height: 100%;
+    width: 100%;
+    background-size: 110%;
+    background-position: center;
+    filter: contrast(1.5) brightness(0.5) sepia(0.8) hue-rotate(270deg);
+    transition: 0.5s ease all;
+    position: absolute;
+}
+
+.project .project-title {
+    position: absolute;
+    height: 80%;
+    width: 90%;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 5%;
+    overflow: hidden;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.5em;
+    word-spacing: -0.2em;
+    transform: translateZ(0px);
+    transition: 0.5s ease all;
+}
+
+.project .project-description {
+    position: relative;
+    display: none;
+}
+
+.container * {
+    /* transform-style: preserve-3d; */
+}
+
+.background-blur {
+    position: absolute;
+    z-index: 0;
+    filter: sepia(0.5) hue-rotate(130deg) brightness(0.5) blur(20px);
+    background: url('/img/background-o.JPG');
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    transform: scale(1.1);
+    background-position: center;
+    background-size: cover;
+}
+
+main.bottom {
+    bottom: 11em;
+}
+
+main.top {
+    top: 11em;
+}
+
+.project:hover .project-bg {
+    background-size: 100%;
+    filter: contrast(1.5) brightness(0.3) sepia(0.8) hue-rotate(270deg);
+    background-position-y: calc(50% + 10px);
+}
+
+.project:hover .project-title {
+    transform: translateY(-10px) translateZ(-20px);
+}
+
+article.project:hover {
+}
+
+footer .copyright {}
