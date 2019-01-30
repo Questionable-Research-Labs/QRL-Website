@@ -67,7 +67,7 @@ body {
     width: calc(100vw - 8em);
     height: calc(100vh - 8em);
     filter: sepia(0.5)  hue-rotate(130deg);
-    background: url('/img/background-o.JPG');
+    background: url('/img/background-o.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -157,7 +157,7 @@ article.project {
     position: absolute;
     z-index: 0;
     filter: sepia(0.5) hue-rotate(130deg) brightness(0.5) blur(20px);
-    background: url('/img/background-o.JPG');
+    background: url('/img/background-o.jpg');
     width: 100%;
     height: 100%;
     top: 0;
