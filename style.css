@@ -246,6 +246,7 @@ footer .copyright {}
     mix-blend-mode: color;
     filter: blur(27px);
     transform: scale(4);
+    opacity: 0.5;
 }
 
 @keyframes bob {
