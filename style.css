@@ -283,6 +283,7 @@ footer .copyright {}
 @media (max-width: 1070px) {
 	header {
 	    position: relative;
+	    filter: contrast(0.5) brightness(2) drop-shadow(0px 0px 30px black);
 	}
 
 	.projects-wrapper, .projects-wrapper main {
