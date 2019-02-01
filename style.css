@@ -3,24 +3,6 @@
 	--page-margin: 4em;
 	--top-bottom-projects-margin: 8em;
 }
-@media (max-width:1200px) {
-	/* Performance & Style Optimisations for smaller devices */
-	:root {
-		--page-margin: 2em;
-		--top-bottom-projects-margin: 4em;
-	}
-
-	.brand .title {
-		font-size: 1.5em !important;
-	}
-}
-
-@media (max-width:600px) {
-	/* Performance & Style Optimisations for smaller devices */
-	:root {
-		--background-ani-color: url('/img/gradient-random.jpg');
-	}
-}
 
 header {
     width: 100%;
@@ -273,3 +255,75 @@ footer .copyright {}
 .project:nth-of-type(3) .project-bg-overlay {background-position: top right;}
 .project:nth-of-type(4) .project-bg-overlay {background-position: bottom left;}
 .project:nth-of-type(5) .project-bg-overlay {background-position: bottom right;}
+
+@media (max-width:1430px) {
+	.brand .title {
+		font-size: 1.5em !important;
+	}
+
+	article.project {
+		width: 300px;
+		height: 140px;
+		font-size: 0.8em;
+	}
+}
+
+/* Performance & Style Optimisations for smaller devices */
+@media (max-width:1200px) {
+	:root {
+		--page-margin: 2em;
+		--top-bottom-projects-margin: 4em;
+	}
+
+	.brand .title {
+		font-size: 1.5em !important;
+	}
+}
+
+@media (max-width: 1070px) {
+	header {
+	    position: relative;
+	}
+
+	.projects-wrapper, .projects-wrapper main {
+	    position: relative;
+	    left: 0 !important;
+	    top: 0 !important;
+	    width: 100%;
+	    flex-wrap: wrap;
+	}
+
+	.brand {
+	    height: auto;
+	    padding: 3em 0;
+	}
+
+	article.project {
+	    margin-bottom: 2em;
+	}
+
+	.container {
+		overflow-y: auto;
+	}
+
+	.background {
+		position: fixed;
+	}
+}
+
+@media (max-width:700px) {
+	:root {
+		--background-ani-color: url('/img/gradient-random.jpg');
+	}
+
+	article.project {
+		width: 100%;
+		max-width: 100%;
+	}
+
+	.project .project-title {
+		padding: 0 1.5em;
+		width: calc(100% - 3em);
+		height: 100%;
+	}
+}
