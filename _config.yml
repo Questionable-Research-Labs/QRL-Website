@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+# Setup
+title:        Questionable Research Labs
+tagline:      QRL Tagline here
+description:  A short description of your site's purpose
+show_downloads: false
+baseurl:      "https://qrl.zac.nz/"
+paginate:     1
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
