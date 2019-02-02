@@ -2,10 +2,6 @@
 title: A large cat
 author: Questionable Research Labs
 date: July 31, 2018
-output:
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: github
 ---
 
 In this project we explore the variations of large cats and their affect on neighbourhoods. Using the latest in experiemental science and cryptology, 500+ cats were released into the wild...
