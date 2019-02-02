@@ -6,8 +6,3 @@
 .page-header {
     background: url('/img/background-o.jpg');
 }
-
-a#skip-to-content {
-    position: absolute;
-    color: transparent;
-}
