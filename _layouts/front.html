@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Primary Meta Tags -->
+	<title>Questionable Research Labs | QRL</title>
+	<meta name="title" content="Questionable Research Labs | QRL">
+	<meta name="description" content="An assembly of projects blah blah blah exciting text introducing the site thank you very much. Also make it long but not so long as to be cut off please.">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<!-- CSS -->
+	<!--  - Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Space+Mono|Montserrat:200,400,600,900" rel="stylesheet">
+	<!--  - Library Styles -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/overlayscrollbars/1.6.2/css/OverlayScrollbars.min.css" />
+	<!--  - Page Styles -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+	<div class="container">
+	<div class="background-blur"></div>
+	<div class="background"></div>
+
+	<header>
+		<div class="brand">
+			<!-- <img class="logo" src="img/logo.svg"> -->
+			<div class="logo-clip"></div>
+			<h1 class="title">Questionable<br/>Research<br/>Labs</h1>
+		</div>
+	</header>
+
+	<div class="projects-wrapper top">
+	{% assign sorted_projects = site.projects | sort:'order' %}
+	<main class="top">
+		{% for project in sorted_projects limit: 3 %}
+		<a href="{{project.url}}"><article class="project">
+			<div class="project-bg" style="background-image: url({{project.image}});"></div>
+			<div class="project-bg-overlay"></div>
+			<h1 class="project-title">{{project.title}}</h1>
+		</article></a>
+		{% endfor %}
+	</main>
+	</div>
+
+	<div class="projects-wrapper bottom">
+	<main class="bottom">
+		{% for project in sorted_projects offset: 3 %}
+		<a href="{{project.url}}"><article class="project">
+			<div class="project-bg" style="background-image: url({{project.image}});"></div>
+			<div class="project-bg-overlay"></div>
+			<h1 class="project-title">{{project.title}}</h1>
+		</article></a>
+		{% endfor %}
+	</main>
+	</div>
+
+	<footer>
+		<!-- 
+		<div class="image-src">
+			General terms of use https://eol.jsc.nasa.gov/FAQ/ - image ISS042-E-178671
+			Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center
+		</div>
+		 -->
+		<div class="copyright">
+			Copyright &copy; Questionable Research Labs 2019
+		</div>
+	</footer>
+	</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/overlayscrollbars/1.6.2/js/OverlayScrollbars.min.js"></script>
+<!-- SVG Filters and Masks -->
+<svg style="display: none;">
+	<filter id="svg-colored-shadow" x="-150%" y="-150%" width="300%" height="300%" color-interpolation-filters="sRGB">
+		<feOffset result="offOut" in="SourceGraphic" dx="0" dy="0"></feOffset>
+		<feGaussianBlur result="blurOut" in="offOut" stdDeviation="80"></feGaussianBlur>
+		<feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+		<feComponentTransfer>
+			<feFuncA type="linear" slope="1"></feFuncA>
+		</feComponentTransfer>
+		<feMerge>
+			<feMergeNode></feMergeNode>
+			<feMergeNode in="SourceGraphic"></feMergeNode>
+			<feMergeNode in="SourceGraphic"></feMergeNode>
+			<feMergeNode in="SourceGraphic"></feMergeNode>
+		</feMerge>
+	</filter>
+</svg>
+<svg width="0" height="0" viewBox="0 0 80 171.75">
+  <defs>
+    <clipPath id="logoClip">
+		<path d="M32.5,121.75a7.5,7.5,0,0,0,15,0L55,40.18a15,15,0,0,0-30,0"/><path d="M47.5,121.75a7.5,7.5,0,0,1-15,0C32.5,80,65,61.63,65,40a25,25,0,0,0-50,0h0A7.5,7.5,0,0,1,0,40H0a40,40,0,0,1,80,0C80,65,47.5,80,47.5,121.75Z"/><circle cx="40" cy="156.75" r="15"/>
+    </clipPath>
+  </defs>
+</svg>
+</body>
+</html>

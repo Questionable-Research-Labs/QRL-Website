@@ -1,8 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-
-.page-header {
-    background: url('/img/background-o.jpg');
-}

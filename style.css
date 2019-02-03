@@ -6,7 +6,7 @@
 
 header {
     width: 100%;
-    height: fit-content;
+    height: 50vh;
     position: absolute;
     z-index: 1;
     text-align: center;
@@ -78,7 +78,7 @@ body {
 .container {
     width: calc(100vw - (var(--page-margin) * 2));
     height: calc(100vh - (var(--page-margin) * 2));
-    min-height: 800px;
+    min-height: 1010px;
     overflow: hidden;
     background: black;
     padding: var(--page-margin);
@@ -121,6 +121,7 @@ footer {
 }
 
 article.project {
+    color: white;
     max-width: 400px;
     width: 400px;
     height: 12em;
@@ -144,7 +145,7 @@ article.project {
     width: 100%;
     background-size: 110%;
     background-position: center;
-    filter: contrast(1.5) brightness(0.5) grayscale();
+    filter: contrast(1.5) brightness(0.5) grayscale(1);
     transition: 0.5s ease all;
     position: absolute;
 }
@@ -198,7 +199,7 @@ article.project {
 
 .project:hover .project-bg {
     background-size: 100%;
-    /* filter: contrast(1.5) brightness(0.3) grayscale(); */
+    /* filter: contrast(1.5) brightness(0.3) grayscale(1); */
     background-position-y: calc(50% + 10px);
 }
 
