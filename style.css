@@ -1,28 +1,30 @@
 :root {
-	--background-ani-color: url('/img/gradient-random.gif');
-	--page-margin: 4em;
-	--top-bottom-projects-margin: 8em;
+    --background-ani-color: url('/img/gradient-random.gif');
+    --page-margin: 4em;
+    --top-bottom-projects-margin: 8em;
+    --project-size: 12em;
 }
 
 header {
-    width: 100%;
-    height: 50vh;
-    position: absolute;
+    flex: 1;
     z-index: 1;
     text-align: center;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
     margin: auto;
     /* filter: url(#svg-colored-shadow); */
     z-index: 1;
     filter: brightness(1.5) drop-shadow(0px 0px 30px black);
+    order: 2;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .brand .logo {
-    height: 8em;
-    filter: invert(1);
+    height: 25em;
+    max-height: 100%;
+    max-width: 100%;
     display: block;
     margin: auto;
 }
@@ -52,12 +54,7 @@ header {
 }
 
 .brand {
-    height: 50vh;
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    min-height: 24em;
     /* animation: bob 10s ease infinite; */
     filter: drop-shadow();
 }
@@ -77,9 +74,7 @@ body {
 
 .container {
     width: calc(100vw - (var(--page-margin) * 2));
-    height: calc(100vh - (var(--page-margin) * 2));
-    min-height: 1010px;
-    overflow: hidden;
+    min-height: calc(100vh - (var(--page-margin) * 2));
     background: black;
     padding: var(--page-margin);
     position: absolute;
@@ -97,16 +92,14 @@ body {
     background: url('/img/background-o.jpg');
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     box-shadow: 0 0 80px black;
 }
 
 main {
     display: flex;
-    flex-wrap: nowrap;
-    width: max-content;
-    min-width: calc( 100% - var(--page-margin));
-    left: 0;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 footer {
@@ -120,11 +113,11 @@ footer {
     color: #b9d2d2;
 }
 
-article.project {
+.project {
     color: white;
     max-width: 400px;
     width: 400px;
-    height: 12em;
+    height: var(--project-size);
     margin: 0 1em;
     overflow: hidden;
     position: relative;
@@ -189,14 +182,6 @@ article.project {
     background-size: cover;
 }
 
-.projects-wrapper.bottom {
-    bottom: var(--top-bottom-projects-margin);
-}
-
-.projects-wrapper.top {
-    top: var(--top-bottom-projects-margin);
-}
-
 .project:hover .project-bg {
     background-size: 100%;
     /* filter: contrast(1.5) brightness(0.3) grayscale(1); */
@@ -207,7 +192,7 @@ article.project {
     transform: translateY(-10px) translateZ(-20px);
 }
 
-article.project:hover {
+.project:hover {
 }
 
 footer .copyright {}
@@ -222,34 +207,35 @@ footer .copyright {}
     width: 100%;
     height: 100%;
     mix-blend-mode: color;
-    filter: blur(27px);
+    /*filter: blur(27px);*/
     transform: scale(4);
     opacity: 0.5;
 }
 
 @keyframes bob {
-	0% {
-		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
-		transform: translatey(0px);
-	}
-	50% {
-		box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
-		transform: translatey(-20px);
-	}
-	100% {
-		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
-		transform: translatey(0px);
-	}
+    0% {
+        box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+        transform: translatey(0px);
+    }
+    50% {
+        box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
+        transform: translatey(-20px);
+    }
+    100% {
+        box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+        transform: translatey(0px);
+    }
 }
 
 .projects-wrapper {
-    overflow-x: auto;
-    overflow-y: hidden;
-    width: calc( 100% - var(--page-margin));
-    position: absolute;
-    left: var(--page-margin);
     z-index: 2;
+    margin: 2rem 0;
 }
+
+.projects-wrapper.top {order: 1;}
+
+.projects-wrapper.bottom {order: 3;}
+
 
 .project:nth-of-type(1) .project-bg-overlay {background-position: top left;}
 .project:nth-of-type(2) .project-bg-overlay {background-position: top center;}
@@ -257,75 +243,84 @@ footer .copyright {}
 .project:nth-of-type(4) .project-bg-overlay {background-position: bottom left;}
 .project:nth-of-type(5) .project-bg-overlay {background-position: bottom right;}
 
-@media (max-width:1430px) {
-	.brand .title {
-		font-size: 1.5em !important;
-	}
+.content {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - (var(--page-margin) * 2));
+}
 
-	article.project {
-		width: 300px;
-		height: 140px;
-		font-size: 0.8em;
-	}
+@media (max-width:1430px) {
+    :root {
+        --project-size: 140px;
+    }
+
+    .project {
+        width: 300px;
+        font-size: 0.8em;
+    }
+
+    .brand .title {
+        font-size: 1.5em !important;
+    }
 }
 
 /* Performance & Style Optimisations for smaller devices */
 @media (max-width:1200px) {
-	:root {
-		--page-margin: 2em;
-		--top-bottom-projects-margin: 4em;
-	}
+    :root {
+        --page-margin: 2em;
+        --top-bottom-projects-margin: 4em;
+    }
 
-	.brand .title {
-		font-size: 1.5em !important;
-	}
+    .brand .title {
+        font-size: 1.5em !important;
+    }
 }
 
 @media (max-width: 1070px) {
-	header {
-	    position: relative;
-	    filter: contrast(0.5) brightness(2) drop-shadow(0px 0px 30px black);
-	}
+    header {
+        position: relative;
+        filter: contrast(0.5) brightness(2) drop-shadow(0px 0px 30px black);
+    }
 
-	.projects-wrapper, .projects-wrapper main {
-	    position: relative;
-	    left: 0 !important;
-	    top: 0 !important;
-	    width: 100%;
-	    flex-wrap: wrap;
-	}
+    .projects-wrapper, .projects-wrapper main {
+        position: relative;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100%;
+        flex-wrap: wrap;
+    }
 
-	.brand {
-	    height: auto;
-	    padding: 3em 0;
-	}
+    .brand {
+        height: auto;
+        padding: 3em 0;
+    }
 
-	article.project {
-	    margin-bottom: 2em;
-	}
+    .project {
+        margin-bottom: 2em;
+    }
 
-	.container {
-		overflow-y: auto;
-	}
+    .container {
+        overflow-y: auto;
+    }
 
-	.background {
-		position: fixed;
-	}
+    .background {
+        position: fixed;
+    }
 }
 
 @media (max-width:700px) {
-	:root {
-		--background-ani-color: url('/img/gradient-random.jpg');
-	}
+    :root {
+        --background-ani-color: url('/img/gradient-random.jpg');
+    }
 
-	article.project {
-		width: 100%;
-		max-width: 100%;
-	}
+    .project {
+        width: 100%;
+        max-width: 100%;
+    }
 
-	.project .project-title {
-		padding: 0 1.5em;
-		width: calc(100% - 3em);
-		height: 100%;
-	}
+    .project .project-title {
+        padding: 0 1.5em;
+        width: calc(100% - 3em);
+        height: 100%;
+    }
 }
