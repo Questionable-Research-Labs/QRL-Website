@@ -13,7 +13,27 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/overlayscrollbars/1.6.2/css/OverlayScrollbars.min.css" />
 	<!--  - Page Styles -->
 	<link rel="stylesheet" type="text/css" href="style.min.css">
+	<!-- IE CSS hacks -->
+	<style type="text/css">
+		_:-ms-input-placeholder, :root .background-blur {
+			opacity: 0.3;
+		}
 
+		_:-ms-input-placeholder, :root header {
+			/*height: 40em;*/
+			flex: none !important;
+		}
+		
+		@supports not (mix-blend-mode: color) {
+			.project .project-bg-overlay {
+				opacity: 0.1;
+			}
+		}
+
+		_:-ms-input-placeholder, :root .project .project-bg-overlay {
+			opacity: 0.1;
+		}
+	</style>
 </head>
 <body>
 	<div class="container">
@@ -119,6 +139,11 @@
       families: ['Montserrat:400,900']
     }
   });
+</script>
+<!-- Load IE Compat (if on IE) -->
+<script type="text/javascript">
+	if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
+		document.write('<script src="https://unpkg.com/css-vars-ponyfill@1.16.4/dist/css-vars-ponyfill.min.js" onload="cssVars({exclude: \'[href*=google]\'})"><\/script>');
 </script>
 </body>
 </html>
