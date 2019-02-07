@@ -1,6 +1,6 @@
 :root {
     --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    --background-ani-color: url('/img/gradient-random.gif');
+    --background-ani-color: url('/img/gradient-random.webp');
     --page-margin: 4em;
     --top-bottom-projects-margin: 8em;
     --project-size: 12em;
