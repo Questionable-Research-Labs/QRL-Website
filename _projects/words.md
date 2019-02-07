@@ -2,8 +2,8 @@
 title: A Large Amount of Words
 author: Questionable Research Labs
 date: July 31, 2018
-color: #ffeb3b
-image: /img/project-05o.jpg
+color: "#00BCD4"
+image: "/img/project-05o.jpg"
 order: 5
 layout: default
 ---

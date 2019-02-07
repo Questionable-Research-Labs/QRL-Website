@@ -2,8 +2,8 @@
 title: PVC &amp; fire&#58; a love story
 author: Questionable Research Labs
 date: July 31, 2018
-color: #ffeb3b
-image: /img/project-03o.jpg
+color: "#ffeb3b"
+image: "/img/project-03o.jpg"
 order: 3
 layout: default
 ---

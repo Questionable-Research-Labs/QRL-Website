@@ -13,6 +13,8 @@ locale:       "en"
 collections:
   projects:
     output: true
+  info:
+    output: true
 
 # Gems
 gems:

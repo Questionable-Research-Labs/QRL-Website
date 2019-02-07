@@ -12,7 +12,6 @@ header {
     margin: auto;
     /* filter: url(#svg-colored-shadow); */
     z-index: 1;
-    filter: brightness(1.5) drop-shadow(0px 0px 30px black);
     order: 2;
     display: flex;
     flex-wrap: nowrap;
@@ -27,6 +26,7 @@ header {
     max-width: 100%;
     display: block;
     margin: auto;
+    filter: brightness(1.5) drop-shadow(0px 0px 30px black);
 }
 
 .brand .logo-clip {
@@ -249,6 +249,22 @@ footer .copyright {}
     min-height: calc(100vh - (var(--page-margin) * 2));
 }
 
+a.sitelink {
+    display: inline-block;
+    font-size: 1.2em;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 1em;
+    padding: 0.3em 0.5em;
+    padding-right: 0.1em;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.5em;
+    word-spacing: -0.2em;
+    border: 3px solid #ffffff;
+    user-select: none;
+}
 @media (max-width:1430px) {
     :root {
         --project-size: 140px;

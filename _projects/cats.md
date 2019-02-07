@@ -2,8 +2,8 @@
 title: A large cat
 author: Questionable Research Labs
 date: July 31, 2018
-color: #ffeb3b
-image: /img/project-01o.jpg
+color: "#ff3b9b"
+image: "/img/project-01o.jpg"
 order: 1
 layout: default
 ---
