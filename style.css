@@ -89,7 +89,7 @@ body {
     width: calc(100vw - (var(--page-margin) * 2));
     height: calc(100% - (var(--page-margin) * 2));
     filter: sepia(0.5)  hue-rotate(130deg);
-    background: url('/img/background-o.jpg');
+    background: url('/img/background-o.webp');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -172,7 +172,7 @@ footer {
     position: fixed;
     /*z-index: 0;*/
     filter: brightness(0.5) blur(20px);
-    background-image: url('/img/background-o.jpg');
+    background-image: url('/img/background-o.webp');
     width: 100%;
     height: 100%;
     top: 0;
@@ -211,6 +211,7 @@ footer .copyright {}
     transform: scale(4);
     opacity: 0.5;
 }
+
 
 @keyframes bob {
     0% {
