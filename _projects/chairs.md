@@ -3,7 +3,7 @@ title: Chairs and their uses
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#a7f54d"
-image: "/img/project-04o.jpg"
+image: "/img/project-04o2.jpg"
 order: 4
 layout: default
 ---

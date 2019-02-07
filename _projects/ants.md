@@ -3,7 +3,7 @@ title: Five thousand ants
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#f34616"
-image: "/img/project-02o.jpg"
+image: "/img/project-02o2.jpg"
 order: 2
 layout: default
 ---

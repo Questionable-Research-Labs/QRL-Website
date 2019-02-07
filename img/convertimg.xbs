@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="convertimg">
+    <Change_color_depth method="2" dither="1" ncompo="64" alpha="255" back_color="#ffffff"/>
+    <Resize mode="5" width="800" height="600" unit="0" ratio="true" orientation="false" enlarge="1" resample="7" gamma_correct="false"/>
+    <Canvas_resize width="800" height="450" unit="0" relative="false" ratio="true" orientation="false" color="#ffffff" alpha="255" position="4"/>
+    <Output folder="" filename="{Filename}o2" case="0" startIndex="1" format="JPEG">
+        <Options overwrite="1" orgDate="false" keepMeta="false" keepICC="false" keepFolder="false" keepParentFolder="false" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
+        <JPEG quality="80" progressive="true" optimizeHuffman="true" rebuildThumb="true" orgQuality="false" DCTMethod="2" subSampling="0" smoothFactor="0"/>
+    </Output>
+</XnView_script>
