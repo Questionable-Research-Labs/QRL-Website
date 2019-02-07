@@ -96,7 +96,7 @@ body {
     box-shadow: 0 0 80px black;
 }
 
-main {
+.projects {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -298,7 +298,7 @@ a.sitelink {
         filter: contrast(0.5) brightness(2) drop-shadow(0px 0px 30px black);
     }
 
-    .projects-wrapper, .projects-wrapper main {
+    .projects-wrapper, .projects-wrapper .projects {
         position: relative;
         left: 0 !important;
         top: 0 !important;
