@@ -1,5 +1,5 @@
 ---
-title: A large cat
+title: VR with Touch
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#ff3b9b"

@@ -1,5 +1,5 @@
 ---
-title: Chairs and their uses
+title: Questionable Intent
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#a7f54d"

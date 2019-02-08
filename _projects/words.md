@@ -1,5 +1,5 @@
 ---
-title: A Large Amount of Words
+title: Autonomous Racing
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#00BCD4"

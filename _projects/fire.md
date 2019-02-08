@@ -1,5 +1,5 @@
 ---
-title: PVC &amp; fire&#58; a love story
+title: Fast Sites
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#ffeb3b"
