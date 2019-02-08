@@ -3,7 +3,7 @@ title: Autonomous Racing
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#00BCD4"
-image: "/img/project-05o2.jpg"
+image: "/img/project-06o2.jpg"
 order: 5
 layout: default
 ---
