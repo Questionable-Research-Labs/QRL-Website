@@ -8,15 +8,11 @@ order: 5
 layout: default
 ---
 
-Creating filler text is potentially a waste of time, but having words that seem likely to appear on a page and natural can help make a design look just a little bit better. Using Lorem Ipsum and derivatives seems old-hat...
-
-![Demo Image](/img/project-05o.jpg)
-
-# Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.
-
 At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus.
 
 Totam rem aperiam. __Lorem ipsum dolor sit amet, consectetur adipisicing elit.__ *Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.* Itaque earum rerum hic tenetur a sapiente delectus.
+
+![Demo Image](/img/project-05o.jpg)
 
 ## Laboris nisi ut aliquip ex ea commodo consequat.
 

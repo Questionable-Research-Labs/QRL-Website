@@ -9,6 +9,8 @@ baseurl:      "/"
 paginate:     1
 locale:       "en"
 
+permalink: /:categories/:title/
+
 # Projects folder is mapped to a collection
 collections:
   projects:

@@ -8,15 +8,11 @@ order: 1
 layout: default
 ---
 
-In this project we explore the variations of large cats and their affect on neighbourhoods. Using the latest in experiemental science and cryptology, 500+ cats were released into the wild...
-
-![Demo Image](/img/project-01o.jpg)
-
-# Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.
-
 At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus.
 
 Totam rem aperiam. __Lorem ipsum dolor sit amet, consectetur adipisicing elit.__ *Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.* Itaque earum rerum hic tenetur a sapiente delectus.
+
+![Demo Image](/img/project-01o.jpg)
 
 ## Laboris nisi ut aliquip ex ea commodo consequat.
 
