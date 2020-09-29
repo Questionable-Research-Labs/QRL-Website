@@ -7,11 +7,9 @@ $project-width: 300px;
 .project-list-wrapper {
 	display: flex;
 	flex-direction: column;
-	min-height: calc(100vh - (var(--page-margin) * 2));
 }
 .project {
 	color: white;
-    height: $project-height;
     margin: 1em 1em;
     overflow: visible;
     position: relative;
@@ -28,7 +26,7 @@ $project-width: 300px;
 		flex-direction: row;
 		.project-thumbnail-bg {
 			width: $project-width;
-			height: 100%;
+			height: $project-height;
 			background-size: 110%;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -38,6 +36,7 @@ $project-width: 300px;
 		}
 		.project-thumbnail {
 			width: $project-width;
+			height: $project-height;
 			flex-basis: $project-width;
 			flex-shrink: 0;
 		}
@@ -45,8 +44,6 @@ $project-width: 300px;
 			position: absolute;
 			height: 80%;
 			width: $project-width;
-			top: 0;
-			left: 0;
 			margin: 0;
 			padding: 5%;
 			overflow: hidden;
@@ -73,12 +70,28 @@ $project-width: 300px;
 	}
 	article:hover {
 		.project-title {
-			transform: translateY(-10px) translateZ(-20px);
+			transform: translateY(-10px);
 		}
 		.project-thumbnail-bg {
 			background-size: 100%;
-			/* filter: contrast(1.5) brightness(0.3) grayscale(1); */
+			filter: contrast(1.5) brightness(0.3) grayscale(1);
 			background-position-y: calc(50% + 10px);
 		}
 	}
+}
+
+@media (max-width: 700px) {
+	.project {
+		article {
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			.project-thumbnail {
+				flex-basis: $project-height;
+			}
+		}
+	}
+}
+@media (min-width: 700px) {
+	
 }

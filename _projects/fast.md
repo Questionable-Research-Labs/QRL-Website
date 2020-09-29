@@ -6,7 +6,7 @@ color: "#ffeb3b"
 image: "/img/project-03o2.jpg"
 order: 3
 layout: default
-description: The making of this site, and how it uses Jekyll to deliver a blazing fast load.
+description: The making of this site, and how it uses Jekyll to deliver blazing fast loading speeds.
 ---
 
 When designing the new homepage for Questionable Research Labs (QRL), we wanted to try and create a place for the ideas behind us to shine through. Built using Jekyll, this site runs on Github Pages and makes full use of modern browser performance.
