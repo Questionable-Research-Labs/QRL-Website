@@ -192,10 +192,7 @@ footer {
     transform: translateY(-10px) translateZ(-20px);
 }
 
-.project:hover {
-}
 
-footer .copyright {}
 
 .project .project-bg-overlay {
     position: absolute;
@@ -252,7 +249,7 @@ footer .copyright {}
 
 a.sitelink {
     display: inline-block;
-    font-size: 1.2em;
+    font-size: 1.2rem;
     color: #ffffff;
     text-decoration: none;
     margin: 1em;
@@ -323,6 +320,8 @@ a.sitelink {
     .background {
         position: fixed;
     }
+    .projects-wrapper.top {order: 3;}
+    .projects-wrapper.top {order: 4;}
 }
 
 @media (max-width:700px) {
@@ -333,6 +332,9 @@ a.sitelink {
     .project {
         width: 100%;
         max-width: 100%;
+    }
+    a.sitelink {
+        font-size: 1rem;
     }
 
     .project .project-title {
