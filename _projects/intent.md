@@ -6,6 +6,7 @@ color: "#a7f54d"
 image: "/img/project-04o2.jpg"
 order: 4
 layout: default
+description: At vero eos et accusamus. Architecto beatae vitae dicta
 ---
 
 At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus.

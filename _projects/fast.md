@@ -6,6 +6,7 @@ color: "#ffeb3b"
 image: "/img/project-03o2.jpg"
 order: 3
 layout: default
+description: The making of this site, and how it uses Jekyll to deliver a blazing fast load.
 ---
 
 When designing the new homepage for Questionable Research Labs (QRL), we wanted to try and create a place for the ideas behind us to shine through. Built using Jekyll, this site runs on Github Pages and makes full use of modern browser performance.
@@ -30,7 +31,7 @@ Kind of.
 In actuality, this site uses Javascript for three key things:
 
  1: Google Analytics
- 2: Internet Explorer Compatability
+ 2: Internet Explorer Compatibility
  3: look-ahead caching
 
 While we did our best to become IE compatible, we included an if statement that runs a script if you use Internet Explorer. We also added another script that automatically gets the next page when you're about to click on it.

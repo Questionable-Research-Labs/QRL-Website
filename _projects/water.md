@@ -6,6 +6,7 @@ color: "#00BCD4"
 image: "/img/project-05o2.jpg"
 order: 5
 layout: default
+description: Laboris nisi ut aliquip ex ea commodo consequat.
 ---
 
 At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus.

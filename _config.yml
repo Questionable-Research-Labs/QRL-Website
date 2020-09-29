@@ -8,6 +8,7 @@ show_downloads: false
 baseurl:      "/"
 paginate:     1
 locale:       "en"
+host: 0.0.0.0
 
 permalink: /:categories/:title/
 
@@ -18,8 +19,8 @@ collections:
   info:
     output: true
 
-# Gems
-gems:
+# Gems/Plugins
+plugins:
   - jekyll-paginate
 
 #Others

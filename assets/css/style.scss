@@ -1,27 +1,27 @@
 ---
 ---
-
 @import "{{ site.theme }}";
-
 a#skip-to-content {
-    position:absolute;
+    position: absolute;
     color: #fff;
-    background-color:#000a;
+    background-color: #000a;
     left: auto;
     top: -50em;
     width: 30%;
     height: auto;
-    overflow:auto;
+    overflow: auto;
     margin: 10px 35%;
-    padding:5px;
-    border:4px solid #ffffffaa;
-    text-align:center;
-    font-size:1.2em;
-    z-index:-999;
+    padding: 5px;
+    border: 4px solid #ffffffaa;
+    text-align: center;
+    font-size: 1.2em;
+    z-index: -999;
     transition: 1s ease all;
 }
-a#skip-to-content:focus, a#skip-to-content:active {
-	top: 1em;
+
+a#skip-to-content:focus,
+a#skip-to-content:active {
+    top: 1em;
 }
 
 body {
@@ -31,7 +31,8 @@ body {
     background: linear-gradient(120deg, hsla(231, 100%, 6%, 0.61), hsla(103, 83%, 10%, 0.45)), url(/img/background-o.jpg);
     background-attachment: fixed;
     background-size: cover;
-    min-height: 100vh; /* Fix background gradient repeating */
+    min-height: 100vh;
+    /* Fix background gradient repeating */
 }
 
 .page-header {
@@ -39,14 +40,15 @@ body {
 }
 
 h1.project-name-short {
-	display: none;
+    display: none;
 }
 
 h1.project-name {
-	display: block;
+    display: block;
 }
 
-h1.project-name-short, h1.project-name {
+h1.project-name-short,
+h1.project-name {
     line-height: 1.5em;
     font-size: 2.5em;
     font-weight: 600;
@@ -57,16 +59,17 @@ h1.project-name-short, h1.project-name {
 }
 
 h2.project-tagline {
-	margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 .main-content {
-	background: black;
-	position: relative;
-	margin-bottom: 5rem;
-	border-radius: 3px;
-    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    background: black;
+    position: relative;
+    margin-bottom: 5rem;
+    border-radius: 3px;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
+
 
 /*.main-content:after {
 	content: " ";
@@ -78,7 +81,12 @@ h2.project-tagline {
 	background: black;
 }*/
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
     color: var(--page-main-color);
     font-weight: 600;
     text-align: center;
@@ -111,20 +119,20 @@ main .back {
 }
 
 @media screen and (max-width: 500px) {
-	h1.project-name {
-		font-size: 1.5em;
-	}
+    h1.project-name {
+        font-size: 1.5em;
+    }
 }
 
 @media screen and (max-width: 320px) {
-	h1.project-name-short {
-		display: block;
-	}
-
-	h1.project-name {
-		display: none;
-	}
+    h1.project-name-short {
+        display: block;
+    }
+    h1.project-name {
+        display: none;
+    }
 }
+
 
 /*.background-blur {
 	position: absolute;

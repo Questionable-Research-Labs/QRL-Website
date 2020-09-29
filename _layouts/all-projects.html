@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+<head>
+
+	{% if site.google_analytics %}
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', '{{ site.google_analytics }}');
+	</script>
+	{% endif %}
+	<meta charset="UTF-8">
+
+	{% seo %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="{{page.color | default: "#ffeb3b"}}">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<link href="https://fonts.googleapis.com/css?family=Space+Mono|Montserrat:200,400,700" rel="stylesheet">
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet"
+		href="{{ '/assets/css/project-list.css?v=' | append: site.github.build_revision | relative_url }}">
+	<style>
+		:root {
+			--page-main-color: {
+					{
+					page.color | default: "#ffeb3b"
+				}
+			}
+
+			;
+		}
+	</style>
+</head>
+
+<body>
+	<a id="skip-to-content" href="#content">Skip to the content.</a>
+
+	<header class="page-header" role="banner">
+		<h1 class="project-name-short">{{ site.short | default: site.title }}</h1>
+		<h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+		<h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+	</header>
+
+	<main id="content" class="main-content" role="main">
+		<a class="back" href="/">✖</a>
+		<!-- <h1 class="title">{{ page.title }}</h1>
+	  {{ content }} -->
+		<div class="project-list-wrapper">
+
+			{% assign projects = site.projects | sort:'date' %}
+			{% for project in projects %}
+			<a href="{{ project.url }}" class="project"><article>
+					<div class="project-thumbnail" >
+						<div class="project-thumbnail-bg" style="background-image: url({{project.image}});"></div>
+						<span class="project-title">{{ project.title }}</span>
+					</div>
+					<div class="project-info">
+						<span class="project-description">{{ project.description }}</span>
+						<br>
+						<span class="project-date">{{ project.date | date: "%Y-%m-%d"}}</span>
+					</div>
+					
+			</article></a>
+			{% endfor %}
+		</div>
+
+		<footer class="site-footer">
+			{% if site.github.is_project_page %}
+			<span class="site-footer-owner">Copyright &copy; Questionable Research Labs 2019</span>
+			{% endif %}
+		</footer>
+	</main>
+	<!-- Instant Page Loading -->
+	<script src="//instant.page/1.1.0" type="module"
+		integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
+</body>
+
+</html>
