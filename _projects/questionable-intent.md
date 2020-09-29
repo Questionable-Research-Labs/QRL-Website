@@ -1,19 +1,19 @@
 ---
-title: Sailing Robotics
+title: Questionable Intent
 author: Questionable Research Labs
 date: July 31, 2018
-color: "#f34616"
-image: "/img/project-02o2.jpg"
-order: 2
+color: "#a7f54d"
+thumbnail: "/project-assets/questionable-intent/thumbnail-o2.jpg"
+order: 4
 layout: default
-description: Laboris nisi ut aliquip ex ea commodo consequat.
+description: At vero eos et accusamus. Architecto beatae vitae dicta
 ---
 
 At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus.
 
 Totam rem aperiam. __Lorem ipsum dolor sit amet, consectetur adipisicing elit.__ *Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.* Itaque earum rerum hic tenetur a sapiente delectus.
 
-![Demo Image](/img/project-02o.jpg)
+![Demo Image](/project-assets/questionable-intent/thumbnail-o2.jpg)
 
 ## Laboris nisi ut aliquip ex ea commodo consequat.
 

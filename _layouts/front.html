@@ -78,11 +78,15 @@
 		</header>
 
 		<div class="projects-wrapper top">
-		{% assign sorted_projects = site.projects | sort:'order' %}
+		{% assign sorted_projects = site.projects | sort:'date' | reverse  %}
+		{% assign pinned_projects = sorted_projects | where: "pinned", 1 %}
+		{% assign displayed_projects = pinned_projects | concat: sorted_projects | uniq | slice: 0,6%}
+		
+
 		<div class="projects top">
-			{% for project in sorted_projects limit: 3 %}
+			{% for project in displayed_projects limit: 3 %}
 			<a href="{{project.url}}" class="project"><article>
-				<div class="project-bg" style="background-image: url({{project.image}});"></div>
+				<div class="project-bg" style="background-image: url({{project.thumbnail}});"></div>
 				<div class="project-bg-overlay"></div>
 				<h2 class="project-title">{{project.title}}</h2>
 			</article></a>
@@ -92,9 +96,9 @@
 
 		<div class="projects-wrapper bottom">
 		<div class="projects bottom">
-			{% for project in sorted_projects offset: 3 %}
+			{% for project in displayed_projects offset: 3 %}
 			<a class="project" href="{{project.url}}"><article>
-				<div class="project-bg" style="background-image: url({{project.image}});"></div>
+				<div class="project-bg" style="background-image: url({{project.thumbnail}});"></div>
 				<div class="project-bg-overlay"></div>
 				<h2 class="project-title">{{project.title}}</h2>
 			</article></a>

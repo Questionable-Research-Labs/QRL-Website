@@ -1,10 +1,10 @@
 ---
-title: VR with Touch
+title: Sailing Robotics
 author: Questionable Research Labs
 date: July 31, 2018
-color: "#ff3b9b"
-image: "/img/project-01o2.jpg"
-order: 1
+color: "#f34616"
+thumbnail: "/project-assets/sailing-robotics/thumbnail-o2.jpg"
+order: 2
 layout: default
 description: Laboris nisi ut aliquip ex ea commodo consequat.
 ---
@@ -13,7 +13,7 @@ At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut p
 
 Totam rem aperiam. __Lorem ipsum dolor sit amet, consectetur adipisicing elit.__ *Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.* Itaque earum rerum hic tenetur a sapiente delectus.
 
-![Demo Image](/img/project-01o.jpg)
+![Demo Image](/project-assets/sailing-robotics/thumbnail-o2.jpg)
 
 ## Laboris nisi ut aliquip ex ea commodo consequat.
 

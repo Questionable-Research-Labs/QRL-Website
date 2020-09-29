@@ -50,11 +50,11 @@
 	  {{ content }} -->
 		<div class="project-list-wrapper">
 
-			{% assign projects = site.projects | sort:'date' %}
+			{% assign projects = site.projects | sort:'date' | reverse %}
 			{% for project in projects %}
 			<a href="{{ project.url }}" class="project"><article>
 					<div class="project-thumbnail" >
-						<div class="project-thumbnail-bg" style="background-image: url({{project.image}});"></div>
+						<div class="project-thumbnail-bg" style="background-image: url({{project.thumbnail}});"></div>
 						<span class="project-title">{{ project.title }}</span>
 					</div>
 					<div class="project-info">

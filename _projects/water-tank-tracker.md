@@ -1,19 +1,19 @@
 ---
-title: Questionable Intent
+title: Water tank Tracker
 author: Questionable Research Labs
-date: July 31, 2018
-color: "#a7f54d"
-image: "/img/project-04o2.jpg"
-order: 4
+date: '2019-02-08 14:13:05'
+color: "#00BCD4"
+thumbnail: "/project-assets/water-tank-tracker/thumbnail-o2.jpg"
+order: 5
 layout: default
-description: At vero eos et accusamus. Architecto beatae vitae dicta
+description: Laboris nisi ut aliquip ex ea commodo consequat.
 ---
 
 At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus.
 
 Totam rem aperiam. __Lorem ipsum dolor sit amet, consectetur adipisicing elit.__ *Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.* Itaque earum rerum hic tenetur a sapiente delectus.
 
-![Demo Image](/img/project-04o.jpg)
+![Demo Image](/project-assets/water-tank-tracker/thumbnail-o2.jpg)
 
 ## Laboris nisi ut aliquip ex ea commodo consequat.
 

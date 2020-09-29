@@ -3,15 +3,16 @@ title: Fast Sites
 author: Questionable Research Labs
 date: July 31, 2018
 color: "#ffeb3b"
-image: "/img/project-03o2.jpg"
+thumbnail: "/project-assets/fast-sites/thumbnail-o2.jpg"
 order: 3
 layout: default
 description: The making of this site, and how it uses Jekyll to deliver blazing fast loading speeds.
+pinned: 1
 ---
 
 When designing the new homepage for Questionable Research Labs (QRL), we wanted to try and create a place for the ideas behind us to shine through. Built using Jekyll, this site runs on Github Pages and makes full use of modern browser performance.
 
-![Homepage mockup](/img/project-03bo2.jpg)
+![Homepage mockup](/project-assets/fast-sites/mock-o2.jpg)
 
 ## Github Pages + Jekyll
 
@@ -51,4 +52,4 @@ Finally, each frame of the [video](https://streamable.com/mqcs9) was exported as
 
 ![Final gradient effect](/img/gradient-random.webp)
 
-The rest of the images on the homepage were then scaled down and converted to greyscale JPGs. The background (also greyscale) was one of the hardest to optimize, as it has a very high detail. This means that any signifigant resizing or JPG compression ruined the look. We eventually settled for a somewhat compressed WebP at 276KB
+The rest of the images on the homepage were then scaled down and converted to greyscale JPGs. The background (also greyscale) was one of the hardest to optimize, as it has a very high detail. This means that any significate resizing or JPG compression ruined the look. We eventually settled for a somewhat compressed WebP at 276KB

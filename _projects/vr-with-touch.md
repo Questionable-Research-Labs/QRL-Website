@@ -1,10 +1,10 @@
 ---
-title: Autonomous Racing
+title: VR with Touch
 author: Questionable Research Labs
 date: July 31, 2018
-color: "#00BCD4"
-image: "/img/project-06o2.jpg"
-order: 5
+color: "#ff3b9b"
+thumbnail: "/project-assets/vr-with-touch/thumbnail-o2.jpg"
+order: 1
 layout: default
 description: Laboris nisi ut aliquip ex ea commodo consequat.
 ---
@@ -13,7 +13,7 @@ At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut p
 
 Totam rem aperiam. __Lorem ipsum dolor sit amet, consectetur adipisicing elit.__ *Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.* Itaque earum rerum hic tenetur a sapiente delectus.
 
-![Demo Image](/img/project-05o.jpg)
+![Demo Image](/project-assets/vr-with-touch/thumbnail-o2.jpg)
 
 ## Laboris nisi ut aliquip ex ea commodo consequat.
 

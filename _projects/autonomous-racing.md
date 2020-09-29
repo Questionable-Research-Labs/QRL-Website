@@ -1,9 +1,9 @@
 ---
-title: Water tank Tracker
+title: Autonomous Racing
 author: Questionable Research Labs
-date: '2019-02-08 14:13:05'
+date: July 31, 2018
 color: "#00BCD4"
-image: "/img/project-05o2.jpg"
+thumbnail: "/project-assets/autonomous-racing/thumbnail-o2.jpg"
 order: 5
 layout: default
 description: Laboris nisi ut aliquip ex ea commodo consequat.
@@ -13,7 +13,7 @@ At vero eos et accusamus. Architecto beatae vitae dicta sunt explicabo. Sed ut p
 
 Totam rem aperiam. __Lorem ipsum dolor sit amet, consectetur adipisicing elit.__ *Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.* Itaque earum rerum hic tenetur a sapiente delectus.
 
-![Demo Image](/img/project-05o.jpg)
+![Demo Image](/project-assets/autonomous-racing/thumbnail-o2.jpg)
 
 ## Laboris nisi ut aliquip ex ea commodo consequat.
 
