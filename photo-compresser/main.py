@@ -13,7 +13,11 @@ def compress_thumbnail(filename):
 	imageSource = Image.open(filename)
 	print("Image size: ",imageSource.size)
 
-	imageCompressed = imageSource.resize(thumbnailResolution, reducing_gap = 3)
+	imageCompressed = imageSource.resize((thumbnailResolution[0],int(imageSource.size[1]*(thumbnailResolution[0]/imageSource.size[0]))), reducing_gap = 3)
+
+	cropCords = (0,int((imageCompressed.size[1]-thumbnailResolution[1])/2),thumbnailResolution[0],int((imageCompressed.size[1]-thumbnailResolution[1])/2 + thumbnailResolution[1]))
+	imageCompressed = imageCompressed.crop(cropCords)
+	
 	imageCompressed = imageCompressed.convert(mode="L") #BW conversion
 
 	print("Filename:",filename,", Dir:",os.path.dirname(filename))
