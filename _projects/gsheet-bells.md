@@ -330,11 +330,11 @@ This is the second proof of concept, still stuck down with a piece of bluetack k
 Getting into the more final versions now, this revision brought in a new 3D printed case and internet status LEDs. This version had some flaws with the size of its case (It was super hard to work with and plug stuff in because of how small the space was).
 
 
-![alt_text](\project-assets\gsheet-bells\ProtypeV2_A_o.jpg "Shoddy 3D print -> Good enough")
+![alt_text](\project-assets\gsheet-bells\PrototypeV2_A_o.jpg "Shoddy 3D print -> Good enough")
 
-![alt_text](\project-assets\gsheet-bells\ProtypeV2_B_o.png "Dreams of a perfect 3D printer")
+![alt_text](\project-assets\gsheet-bells\PrototypeV2_B_o.png "Dreams of a perfect 3D printer")
 
-![alt_text](\project-assets\gsheet-bells\PrototypeV3_C_o.jpg "3D printer go brrrr")
+![alt_text](\project-assets\gsheet-bells\PrototypeV2_C_o.jpg "3D printer go brrrr")
 
 
 
