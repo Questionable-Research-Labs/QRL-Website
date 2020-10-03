@@ -11,19 +11,22 @@ import sys
 # Windows settings are completely multiplatform, but shitty on other OS's
 if sys.platform == "linux" or sys.platform == "linux2":
 	platform = "linux"
-elif sys.platform == 'nt':
+elif sys.platform == 'nt' or sys.platform == 'win32':
+	platform = "windows"
+elif sys.platform == "cygwin":
+	print("Cygwin is not required for this program")
 	platform = "windows"
 elif sys.platform == "darwin":
 	input("Mac OS is not tested or supported, press enter to acknowledge")
 	platform = "windows"
 else:
-	input("Unknown platform, that's an achievement, press enter to acknowledge")
+	input("Unknown platform: " + sys.platform + ", that's an achievement, press enter to acknowledge")
 	platform = "windows"
 
 if platform == "windows":
 	fileBrowserPrompt = filedialog
 elif platform == "linux":
-	import tkfilebrowser
+	import tkfilebrowser # pylint: disable=import-error
 	fileBrowserPrompt = tkfilebrowser
 maxHorizontalResolution = 1500
 thumbnailResolution = (800,450)
@@ -73,7 +76,6 @@ def get_image_paths():
 	messagebox.showinfo("Thumbnail","Please select your thumbnail image to be compressed")
 	
 	thumbnailPath = fileBrowserPrompt.askopenfilename(
-
 		initialdir=startingDirectory,
 		title='Choose a thumbnail'
 		)
