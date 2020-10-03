@@ -263,6 +263,16 @@ a.sitelink {
     border: 3px solid #ffffff;
     user-select: none;
 }
+
+a.external-link {
+    background-image: var(--background-ani-color);
+    background-attachment: fixed;
+    background-size: 100vw 100vh;
+    background-clip: border-box;
+}
+
+
+
 @media (max-width:1430px) {
     :root {
         --project-size: 140px;
@@ -291,7 +301,7 @@ a.sitelink {
 }
 
 @media (max-width: 1070px) {
-    header {
+    header svg {
         position: relative;
         filter: contrast(0.5) brightness(2) drop-shadow(0px 0px 30px black);
     }

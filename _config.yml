@@ -1,13 +1,13 @@
 theme: jekyll-theme-cayman
 # Setup
-title:        Questionable Research Labs
-short:        QRL
-tagline:      QRL Tagline here
-description:  A short description of your site's purpose
+title: Questionable Research Labs
+short: QRL
+tagline: A space to play
+description: An idea incubator for experiments in science and tech 
 show_downloads: false
-baseurl:      "/"
-paginate:     1
-locale:       "en"
+baseurl: "/"
+paginate: 1
+locale: "en"
 
 
 permalink: /:categories/:title/
