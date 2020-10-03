@@ -1,6 +1,6 @@
 ---
 title: Fast Sites
-author: Questionable Research Labs
+author: Zac M-W
 date: July 31, 2018
 color: "#ffeb3b"
 thumbnail: "/project-assets/fast-sites/thumbnail-o2.jpg"

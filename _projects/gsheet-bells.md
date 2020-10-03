@@ -1,10 +1,9 @@
 ---
 title: G-Sheet Bells
-author: Questionable Research Labs
+author: Jasper M-W
 date: July 30, 2020
 color: "#1b82cc"
 thumbnail: "/project-assets/gsheet-bells/thumbnail_o.jpg"
-order: 3
 layout: default
 description: Development of an IOT (Internet of Things) Bell Controller using Google Sheets to improve the experience for Students and Teachers
 ---
@@ -316,7 +315,7 @@ The prototypes below are defined by the case changes, ignoring software updates 
 First proof of concept, hooked up to google sheets. It worked and ticked the relay on the scheduled time, which was all that was wanted. It is the only one that wasn’t installed at the school for a period of time.
 
 
-![alt_text](\project-assets\gsheet-bells\ProofOfConcept_o.png "At worked except when it didn't!")
+![alt_text](\project-assets\gsheet-bells\ProofOfConcept_o.png "It worked except when it didn't!")
 
 
 
