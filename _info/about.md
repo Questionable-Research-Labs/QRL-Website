@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 author: Questionable Research Labs
 date: '2019-02-07 16:26:22'
 order: 1
