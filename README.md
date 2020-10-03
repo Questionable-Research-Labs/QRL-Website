@@ -11,7 +11,7 @@ First of all open a command prompt and execute `git --version` to verify that yo
 
 Now, run these commands to download the repository:
 ```
-git clone https://github.com/Questionable-Research-Labs/QRL-Website
+git clone https://github.com/Questionable-Research-Labs/QRL-Website.git
 cd QRL-Website
 ```
 The repository with all the website code is now downloaded and you can get started setting up your Environment.
@@ -43,6 +43,13 @@ It is also recommended that you use live reload with the server, so use:
 `bundle exec jekyll serve -l`
 
 You should now see the website at [localhost:4000](http://localhost:4000)
+
+> If you get this error `Unable to load the EventMachine C extension; To use the pure-ruby reactor, require 'em/pure_ruby'` on windows, you need to run these commands:
+>```
+>gem uninstall eventmachine
+>gem install eventmachine --platform ruby
+>```
+>There, saved you some stack overflow time
 
 ## Writing your project
 
