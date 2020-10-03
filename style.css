@@ -266,7 +266,7 @@ a.sitelink {
 }
 
 a.external-link {
-    border: none;
+   border:none;
 
 }
 
@@ -290,13 +290,22 @@ a.external-link {
     background-image: var(--background-ani-color);
     background-attachment: fixed;
     background-size: 100vw 100vh;
-    clip-path: polygon(0% 0%, calc(100% - var(--link-boarder-width)) 0%, calc(100% - var(--link-boarder-width)) var(--link-boarder-width), var(--link-boarder-width) var(--link-boarder-width), var(--link-boarder-width) calc(100% - var(--link-boarder-width)), calc(100% - var(--link-boarder-width)) calc(100% - var(--link-boarder-width)), calc(100% - var(--link-boarder-width)) 0%, 100% 0%, 100% 100%, 0 100%);
+
     height: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
     width: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
     left: calc(1em + var(--link-boarder-width));
     top: calc(1em + var(--link-boarder-width));
+
     position:absolute;
-    background-clip: padding-box;
+    
+    clip-path: polygon(
+        0% 0%,
+        calc(100% - var(--link-boarder-width)) 0%,
+        calc(100% - var(--link-boarder-width)) var(--link-boarder-width),
+        var(--link-boarder-width) var(--link-boarder-width),
+        var(--link-boarder-width) calc(100% - var(--link-boarder-width)),
+        calc(100% - var(--link-boarder-width)) calc(100% - var(--link-boarder-width)),
+        calc(100% - var(--link-boarder-width)) 0%, 100% 0%, 100% 100%, 0 100%);
 }
 
 
@@ -379,5 +388,11 @@ a.external-link {
         padding: 0 1.5em;
         width: calc(100% - 3em);
         height: 100%;
+    }
+    .external-link-border {
+        left: calc(1em);
+        top: calc(1em);
+        height: calc(100% - 2em );
+        width: calc(100% - 2em);
     }
 }
