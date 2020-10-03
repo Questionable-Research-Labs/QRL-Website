@@ -4,6 +4,7 @@
     --page-margin: 4em;
     --top-bottom-projects-margin: 8em;
     --project-size: 12em;
+    --link-boarder-width: 3px;
 }
 
 header {
@@ -260,15 +261,42 @@ a.sitelink {
     text-align: center;
     letter-spacing: 0.5em;
     word-spacing: -0.2em;
-    border: 3px solid #ffffff;
+    border: var(--link-boarder-width) solid #ffffff;
     user-select: none;
 }
 
 a.external-link {
+    border: none;
+
+}
+
+.internal-links-container {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+}
+.external-links-container {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+}
+
+.external-link-border {
+    /*
+    This horrendous piece of css garbage makes the center colour image
+    flow through the border of the external links.
+    I really wish their was a f**king background-clip: border;
+    */
     background-image: var(--background-ani-color);
     background-attachment: fixed;
     background-size: 100vw 100vh;
-    background-clip: border-box;
+    clip-path: polygon(0% 0%, calc(100% - var(--link-boarder-width)) 0%, calc(100% - var(--link-boarder-width)) var(--link-boarder-width), var(--link-boarder-width) var(--link-boarder-width), var(--link-boarder-width) calc(100% - var(--link-boarder-width)), calc(100% - var(--link-boarder-width)) calc(100% - var(--link-boarder-width)), calc(100% - var(--link-boarder-width)) 0%, 100% 0%, 100% 100%, 0 100%);
+    height: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
+    width: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
+    left: calc(1em + var(--link-boarder-width));
+    top: calc(1em + var(--link-boarder-width));
+    position:absolute;
+    background-clip: padding-box;
 }
 
 
