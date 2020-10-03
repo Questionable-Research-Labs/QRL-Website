@@ -6,6 +6,25 @@ import glob
 import tkinter
 from tkinter import filedialog, messagebox
 
+import sys
+
+# Windows settings are completely multiplatform, but shitty on other OS's
+if sys.platform == "linux" or sys.platform == "linux2":
+	platform = "linux"
+elif sys.platform == 'nt':
+	platform = "windows"
+elif sys.platform == "darwin":
+	input("Mac OS is not tested or supported, press enter to acknowledge")
+	platform = "windows"
+else:
+	input("Unknown platform, that's an achievement, press enter to acknowledge")
+	platform = "windows"
+
+if platform == "windows":
+	fileBrowserPrompt = filedialog
+elif platform == "linux":
+	import tkfilebrowser
+	fileBrowserPrompt = tkfilebrowser
 maxHorizontalResolution = 1500
 thumbnailResolution = (800,450)
 
@@ -46,25 +65,25 @@ def get_image_paths():
 	startingDirectory = __file__
 	try: #Get starting directory
 		siteRoot = os.path.dirname(os.getcwd()+__file__)
-		startingDirectory = siteRoot + "\\project-assets"
+		startingDirectory = siteRoot + "/project-assets"
 	except Exception:
 		pass
 	print("Site root: ",siteRoot,", Starting directory: ",startingDirectory," File:",__file__)
 
 	messagebox.showinfo("Thumbnail","Please select your thumbnail image to be compressed")
-	thumbnailPath = filedialog.askopenfilename(
-		parent=root,
+	
+	thumbnailPath = fileBrowserPrompt.askopenfilename(
+
 		initialdir=startingDirectory,
-		title='Choose a file'
+		title='Choose a thumbnail'
 		)
 
 	if thumbnailPath != "":
 		startingDirectory = os.path.dirname(thumbnailPath) #Start at location of other image
 
 	messagebox.showinfo("Images","Please select the rest of your images to be compressed")
-	imagePaths = list(filedialog.askopenfilenames(
-		parent=root,
-		title='Choose a file',
+	imagePaths = list(fileBrowserPrompt.askopenfilenames(
+		title='Choose your photos',
 		initialdir=startingDirectory
 		))
 	
