@@ -1,80 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <!-- Primary Meta Tags -->
+    <title>Questionable Research Labs | QRL</title>
+    <meta name="title" content="Questionable Research Labs | QRL" />
+    <meta
+      name="description"
+      content="An assembly of projects blah blah blah exciting text introducing the site thank you very much. Also make it long but not so long as to be cut off please."
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1"
+    />
+    <meta name="theme-color" content="{{page.color | default: "#000000"}}">
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <link rel="icon" href="/img/favicon.ico" />
 
-<head>
-	<!-- Primary Meta Tags -->
-	<title>Questionable Research Labs | QRL</title>
-	<meta name="title" content="Questionable Research Labs | QRL">
-	<meta name="description"
-		content="An assembly of projects blah blah blah exciting text introducing the site thank you very much. Also make it long but not so long as to be cut off please.">
-	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
-	<meta name="theme-color" content="{{page.color | default: "#000000"}}">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-	<link rel="icon" href="/img/favicon.ico">
+    <!-- CSS -->
+    <!--  - Page Styles -->
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <!-- IE CSS hacks -->
+    <style type="text/css">
+      _:-ms-input-placeholder,
+      :root .background-blur {
+        opacity: 0.3;
+      }
 
-	<!-- CSS -->
-	<!--  - Page Styles -->
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<!-- IE CSS hacks -->
-	<style type="text/css">
-		_:-ms-input-placeholder,
-		:root .background-blur {
-			opacity: 0.3;
-		}
+      _:-ms-input-placeholder,
+      :root header {
+        /*height: 40em;*/
+        flex: none !important;
+      }
 
-		_:-ms-input-placeholder,
-		:root header {
-			/*height: 40em;*/
-			flex: none !important;
-		}
+      @supports not (mix-blend-mode: color) {
+        .project .project-bg-overlay {
+          opacity: 0.1;
+        }
+      }
 
-		@supports not (mix-blend-mode: color) {
-			.project .project-bg-overlay {
-				opacity: 0.1;
-			}
-		}
+      _:-ms-input-placeholder,
+      :root .project .project-bg-overlay {
+        opacity: 0.1;
+      }
 
-		_:-ms-input-placeholder,
-		:root .project .project-bg-overlay {
-			opacity: 0.1;
-		}
+      _:-ms-input-placeholder,
+      :root .brand .title,
+      _:-ms-input-placeholder,
+      :root .brand .logo-clip,
+      _:-ms-input-placeholder,
+      :root .project .project-bg-overlay {
+        background: url("/img/gradient-random.jpg");
+      }
+    </style>
+  </head>
 
-		_:-ms-input-placeholder,
-		:root .brand .title,
-		_:-ms-input-placeholder,
-		:root .brand .logo-clip,
-		_:-ms-input-placeholder,
-		:root .project .project-bg-overlay {
-			background: url('/img/gradient-random.jpg');
-		}
-	</style>
-</head>
+  <body>
+    <div class="container">
+      <div class="background-blur"></div>
+      <div class="background"></div>
 
-<body>
-	<div class="container">
-		<div class="background-blur"></div>
-		<div class="background"></div>
-
-		<div class="content">
-			<header>
-				<div class="brand">
-					<div class="logo">
-						<video class="logo-video" loop muted autoplay playsinline style="clip-path: url(#logoClip)">
-							<source src="http://192.168.20.145:4000/img/gradient-random-sm.mp4" type="video/mp4">
-							</video>
-						<svg height=0 width=0>
-							<clipPath id="logoClip">
-								<path d="M32.5,121.75a7.5,7.5,0,0,0,15,0L55,40.18a15,15,0,0,0-30,0" />
-    <path d="M47.5,121.75a7.5,7.5,0,0,1-15,0C32.5,80,65,61.63,65,40a25,25,0,0,0-50,0h0A7.5,7.5,0,0,1,0,40H0a40,40,0,0,1,80,0C80,65,47.5,80,47.5,121.75Z" />
-    <circle cx="40" cy="156.75" r="15" />
-							</clipPath>
-							
-						</svg> 
-						
-					</div>
-					<!-- <div class="logo-clip"></div>
+      <div class="content">
+        <header>
+          <div class="brand">
+            <div class="logo">
+              <video
+                class="logo-video"
+                loop
+                muted
+                autoplay
+                playsinline
+                style="clip-path: url(#logoClip)"
+              >
+                <source
+                  src="http://192.168.20.145:4000/img/gradient-random-sm.mp4"
+                  type="video/mp4"
+                />
+              </video>
+              <svg height="0" width="0">
+                <clipPath id="logoClip">
+                  <path
+                    d="M32.5,121.75a7.5,7.5,0,0,0,15,0L55,40.18a15,15,0,0,0-30,0"
+                  />
+                  <path
+                    d="M47.5,121.75a7.5,7.5,0,0,1-15,0C32.5,80,65,61.63,65,40a25,25,0,0,0-50,0h0A7.5,7.5,0,0,1,0,40H0a40,40,0,0,1,80,0C80,65,47.5,80,47.5,121.75Z"
+                  />
+                  <circle cx="40" cy="156.75" r="15" />
+                </clipPath>
+              </svg>
+            </div>
+            <!-- <div class="logo-clip"></div>
 				<h1 class="title">Questionable<br/>Research<br/>Labs</h1> -->
-					<!-- <svg class="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600">
+            <!-- <svg class="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600">
 					<defs>
 						<filter id="f1" x="0" y="0">
 							<feGaussianBlur in="SourceGraphic" stdDeviation="15" />
@@ -91,98 +110,101 @@
 					</defs>
 						
 				</svg> -->
-					<div class="external-links-container">
+            <div class="external-links-container">
+              <div style="position: relative">
+                <a
+                  class="external-link sitelink"
+                  href="https://technohackers.org"
+                  target="_blank"
+                  >Technohackers</a
+                >
+                <div class="external-link-border"></div>
+              </div>
+            </div>
+            <br />
+            <div class="internal-links-container">
+              {% assign info_pages = site.info | sort:'order' %} {% for
+              info_page in info_pages %}
+              <a class="sitelink" href="{{ info_page.url }}"
+                >{{ info_page.title }}</a
+              >
+              {% endfor %}
+            </div>
+            <a class="sitelink" href="/all-projects/">Project archive</a>
+          </div>
+        </header>
 
-						<div style="position: relative;">
-							<a class="external-link sitelink" href="https://technohackers.org"
-								target="_blank">Technohackers</a>
-							<div class="external-link-border"></div>
-						</div>
+        <div class="projects-wrapper bottom">
+          {% assign sorted_projects = site.projects | sort:'date' | reverse %}
+          {% assign pinned_projects = sorted_projects | where: "pinned", 1 %} {%
+          assign displayed_projects = pinned_projects | concat: sorted_projects
+          | uniq | slice: 0,6%}
 
+          <div class="projects bottom">
+            {% for project in displayed_projects limit: 3 %}
+            <a href="{{project.url}}" class="project">
+              <article>
+                <div
+                  class="project-bg"
+                  style="background-image: url({{project.thumbnail}});"
+                ></div>
+                <div class="project-bg-overlay"></div>
+                <h2 class="project-title">{{project.title}}</h2>
+              </article>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
 
-						<div style="position: relative;">
-							<a class="external-link sitelink" href="https://ngita.co.nz" target="_blank">Ngita IT</a>
-							<div class="external-link-border"></div>
-						</div>
-
-
-					</div>
-					<br>
-					<div class="internal-links-container">
-
-						<a class="sitelink" href="/all-projects/">Project archive</a>
-						{% assign info_pages = site.info | sort:'order' %}
-						{% for info_page in info_pages %}
-						<a class="sitelink" href="{{ info_page.url }}">{{ info_page.title }}</a>
-						{% endfor %}
-					</div>
-
-				</div>
-			</header>
-
-			<div class="projects-wrapper top">
-				{% assign sorted_projects = site.projects | sort:'date' | reverse  %}
-				{% assign pinned_projects = sorted_projects | where: "pinned", 1 %}
-				{% assign displayed_projects = pinned_projects | concat: sorted_projects | uniq | slice: 0,6%}
-
-
-				<div class="projects top">
-					{% for project in displayed_projects limit: 3 %}
-					<a href="{{project.url}}" class="project">
-						<article>
-							<div class="project-bg" style="background-image: url({{project.thumbnail}});"></div>
-							<div class="project-bg-overlay"></div>
-							<h2 class="project-title">{{project.title}}</h2>
-						</article>
-					</a>
-					{% endfor %}
-				</div>
-			</div>
-
-			<div class="projects-wrapper bottom">
-				<div class="projects bottom">
-					{% for project in displayed_projects offset: 3 %}
-					<a class="project" href="{{project.url}}">
-						<article>
-							<div class="project-bg" style="background-image: url({{project.thumbnail}});"></div>
-							<div class="project-bg-overlay"></div>
-							<h2 class="project-title">{{project.title}}</h2>
-						</article>
-					</a>
-					{% endfor %}
-				</div>
-			</div>
-		</div>
-
-		<footer>
-			<!-- 
+        <div class="projects-wrapper bottom">
+          <div class="projects bottom">
+            {% for project in displayed_projects offset: 3 %}
+            <a class="project" href="{{project.url}}">
+              <article>
+                <div
+                  class="project-bg"
+                  style="background-image: url({{project.thumbnail}});"
+                ></div>
+                <div class="project-bg-overlay"></div>
+                <h2 class="project-title">{{project.title}}</h2>
+              </article>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <footer>
+        <!-- 
 		<div class="image-src">
 			General terms of use https://eol.jsc.nasa.gov/FAQ/ - image ISS042-E-178671
 			Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center
 		</div>
 		 -->
-		</footer>
-	</div>
-	<!-- SVG Clip for logo and text -->
-	
+      </footer>
+    </div>
+    <!-- SVG Clip for logo and text -->
 
-	<!-- Load webfonts -->
-	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
-	<script>
-		WebFont.load({
-			google: {
-				families: ['Montserrat:400,900']
-			}
-		});
-	</script>
-	<!-- Load IE Compat (if on IE) -->
-	<script type="text/javascript">
-		if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
-			document.write('<script src="https://unpkg.com/css-vars-ponyfill@1.16.4/dist/css-vars-ponyfill.min.js" onload="cssVars({exclude: \'[href*=google]\'})"><\/script>');
-	</script>
-	<!-- Instant Page Loading -->
-	<script src="//instant.page/1.1.0" type="module"
-		integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
-</body>
-
+    <!-- Load webfonts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script>
+      WebFont.load({
+        google: {
+          families: ["Montserrat:400,900"],
+        },
+      });
+    </script>
+    <!-- Load IE Compat (if on IE) -->
+    <script type="text/javascript">
+      if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
+        document.write(
+          '<script src="https://unpkg.com/css-vars-ponyfill@1.16.4/dist/css-vars-ponyfill.min.js" onload="cssVars({exclude: \'[href*=google]\'})"><\/script>'
+        );
+    </script>
+    <!-- Instant Page Loading -->
+    <script
+      src="//instant.page/1.1.0"
+      type="module"
+      integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"
+    ></script>
+  </body>
 </html>
