@@ -4,55 +4,39 @@ author: Questionable Research Labs
 layout: default
 ---
 
-# Repulsa nescio
+Technohackers runs on a membership model. Think of it like a gym membership but for the brain instead.
 
-## Sed tui in tamen venturorumque virgo
+Membership, Sponsorship and single term Subs (info below), means you are supporting the development of a playful space in our community’s culture where geekiness thrives. An incubator for the sparky ideas that are the foundation for future innovation and discovery. In supporting us, you are helping to create a clever community.
 
-Lorem markdownum pinus contemptrix illas Hippotadaeque dixit libido, Troiae ira
-Tenedonque. Forma et in proles satus iuvenes est sucus Cythereius veros
-animoque, protentaque saepe faciem.
+The 2020 registration form can be found here.
 
-1. Eiectantemque freta istis
-2. Bovem gradus dictis res poenae simulat origo
-3. Revocabile aliquis
+## GENERAL PRINCIPLES:
 
-Sinus locus forma munitos Curibus per idem animi viriles, alto Nestora tempora.
-Tenebat circumdata maximus [moderatior](http://www.exclamo.io/) inserui, tum
-per, **illa tenenti nunc** sortem: recuset verum, et villo.
+Do not let money to get in the way of participation. <br>
+If the cost is a barrier just talk to us. <br>
+There can be other ways to contribute. <br>
+Donations and sponsorship offers are always appreciated. <br>
 
-> Fronte num iunxit: arbore animo, protecta atrisque tempora quem et obstat?
-> Subducere locus genitum latius et satis fatum [illa hactenus
-> abstulerat](http://saevorum.net/); tamen tua nullae. In tellus, ora ingens
-> Stheneleia, resupinus, vultum sedibus. Caelo moenia *refert*; corpora **est
-> nate**, caelo effugere.
+## TERM SUBS:
 
-## Inornatos ubi usum aeratis septem est
+Term subs supports your participation in groups during the term <br>
+Our goal is $10 per week but recognise this is not always affordable. <br>
+Some people pay less – that’s 100% ok,
+some people pay a bit more to balance it out. <br>
+Payment by direct deposit to 38-9005-0061268-00 <br>
+Or cash or whatever works for you.
 
-Terrae est coarguit tuta detrectas: posses eodem et lumen, ver eundem equorum.
-Vix suas, [aevi curru transmittere](http://ponitqueego.net/dimovit) sit moxque.
-Divesque poscuntque **deum** agitantia resto: una in loquax nimbos? Praelatus
-Stygiae in mollis ingens. Dente *fallor*: amori manu, unum cum, nam exemplo, dum
-saeva, ne erunt miseram?
+## MEMBERSHIP:
 
-- Onus sui semianimes magnas sua opportuna licet
-- Potius translata perdidit Cytherea sepulcro torta
-- Non caede hominum ornat
+Members provide ongoing support via setting up a repeating direct deposit payment of $10 per week (or more if that seems appropriate) via online banking. <br>
+This is the account to use for payments: 38-9005-0061268-00 <br>
+Put your membership number as the reference (ask if you don’t have it). <br>
+You can do this at whatever interval works for you (weekly, fortnightly, monthly etc). <br>
 
-Circaea *illa*, ait iunctis, quem *insistere* et sonat iniectam interea, Aurora!
-Omnibus nurus rem terga populos ingens dapibus ferox profuga
-[detestatur](http://dixit.com/quid-plura) placidos viscera remis. Exspectatus
-lustrat loquentis quid puer ad fuge inridet hanc, luminibus? Per munus potentia.
+## SPONSORSHIP:
 
-    ppgaMemoryBurn = dcimIctFriendly;
-    if (netmask_c < device_processor - alignment_vci_jquery(mebibyteVariable,
-            reader_hsf_paper)) {
-        contextual_up = clone(irc, port);
-        touchscreen_utility *= leopardGps * active_goodput;
-    }
-    var thick = 2 + framework_veronica(dualMonochromeUnix(vaporwareSystray, 1),
-            cpsOem, memory);
-    pciImpression = mysql_iscsi_horse(cdfs_passive) + -5;
-
-Non vecta, traho spes fronte. Hic iudice aditum, nec nota si possit sequuntur
-Haemonia tecta, sis adeo invitum mihi. Mihi simul hostis faciat, iamdudum de
-matris in tela Thebae instat cacumine tibi et.
+For individuals wanting to support our activity, the simplest thing to do is to join as an inactive supporting member (as above) with a regular direct deposit setup. This is very valuable support.
+Awards, rewards and prizes. We would be happy to talk about establishing challenges and sponsored awards or prizes.
+Sponsored laptops and other equipment (from laser cutters to hand tools). We always have demand for good laptops which not all individuals have easy access too. Our spares are few and old.
+Ultimately, we will be looking for a dedicated space to become our cultural hub and playground.
+We are in the process of registering for charitable status.
