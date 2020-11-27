@@ -73,7 +73,7 @@ description: Wow, you should change this to describe your project. This is displ
 
 ### Actually writing it
 
-It is recommend that you write your project up in a normal word processor, and then formate it other into a markdown editor like [VS-Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/). You can use tools like [docs to markdown](https://gsuite.google.com/u/0/marketplace/app/docs_to_markdown/700168918607?hl=en&pann=docs_addon_widget) to ease this process.
+It is recommend that you write your project up in a normal word processor, and then formate it other into a markdown (`*.md` files) editor like [VS-Code](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/). You can use tools like [docs to markdown](https://gsuite.google.com/u/0/marketplace/app/docs_to_markdown/700168918607?hl=en&pann=docs_addon_widget) to ease this process.
 
 If you want, you can directly embed html/css/js into the markdown, if possible, use markdown, but it is always an option if you wanted, for example, embed a Youtube video.
 
@@ -92,6 +92,8 @@ This has been automated so their is consistent styling across the website.
 To use the automated process, first make sure you have got all of your images in your `project-assets\your-project-name-here` folder. Next go to the site root and to the `photo-compressor` folder. Finally double check you have python3 and pip installed.
 
 If your on windows, run the `start.bat`, if on linux, run the shell script `start.sh`. This will install dependencies, and ask you to select your thumbnail and the rest of the photos used.
+
+> There is currently an error in a linux dependency, if you get some weird python error (`_tkinter.TclError: Item  already exists`), tack `-c` onto your `start.sh` command. This enables compatibility mode and it uses the built-in tKinter file chooser. It will be horrible to use, but at least it will work until the dependency gets patched.
 
 It will compress and format the photos and place them in the originating directory with the `*-o.*` format, and name the thumbnail `thumbnail-o.*`.
 

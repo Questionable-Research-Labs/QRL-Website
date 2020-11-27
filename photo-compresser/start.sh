@@ -1,3 +1,6 @@
+#!/bin/bash
+# Simple bash script to start the photocompressor and install dependencies
+
 pip3 install --upgrade -r requirements.txt
 pip3 install --upgrade tkfilebrowser # Special file browser for linux, beacuse the defualt one is not usable
 
@@ -16,5 +19,5 @@ fi
 
 
 echo "\n Running Python Script \n\n"
-python3 main.py
+python3 main.py "$@"
 read -p "Press [enter] to finish"

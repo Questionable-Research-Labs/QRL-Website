@@ -7,6 +7,17 @@ import tkinter
 from tkinter import filedialog, messagebox
 
 import sys
+from optparse import OptionParser
+
+# Handle Options
+parser = OptionParser()
+parser.add_option("-c", "--compatibility",
+                  action="store_true", dest="compatibility", default=False,
+                  help="Enables compatibility mode")
+
+(options, args) = parser.parse_args()
+
+
 
 # Windows settings are completely multiplatform, but shitty on other OS's
 if sys.platform == "linux" or sys.platform == "linux2":
@@ -23,11 +34,12 @@ else:
 	input("Unknown platform: " + sys.platform + ", that's an achievement, press enter to acknowledge")
 	platform = "windows"
 
-if platform == "windows":
+if platform == "windows" or options.compatibility == True:
 	fileBrowserPrompt = filedialog
 elif platform == "linux":
 	import tkfilebrowser # pylint: disable=import-error
 	fileBrowserPrompt = tkfilebrowser
+
 maxHorizontalResolution = 1500
 thumbnailResolution = (800,450)
 
