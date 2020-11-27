@@ -118,6 +118,11 @@ main .back {
     color: white;
 }
 
+.video {
+    margin: auto;
+    width: 400px;
+}
+
 @media screen and (max-width: 500px) {
     h1.project-name {
         font-size: 1.5em;
