@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Simple bash script to start the photocompressor and install dependencies
 
 pip3 install --upgrade -r requirements.txt

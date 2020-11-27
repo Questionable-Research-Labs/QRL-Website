@@ -20,7 +20,7 @@ As Questionable we:
 
 We see technology as the **intersection** of Science, Design and Engineering. Questionable Research Labs is this broad fun space. We indiscriminately love it all.
 
-![Questionable Research Labs Model](/info-page-assets/about/qrlmodel.png)
+![Questionable Research Labs Model](/info-page-assets/about/qrlmodel_o.png)
 
 <div class="video"><a href="https://technohackers.org/about/?wvideo=lz5s3apywy"><img src="https://embed-fastly.wistia.com/deliveries/bfe530bae701388a6281a5b1f37293c30b9a3fe7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=007ed1e0" width="400" height="225" style="width: 400px; height: 225px;"></a></div>
 
