@@ -1,11 +1,13 @@
+---
+---
 :root {
     --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    --background-ani-color: url('/img/gradient-random.webp');
     --page-margin: 4em;
     --top-bottom-projects-margin: 8em;
     --project-size: 12em;
     --link-boarder-width: 3px;
 }
+$background-ani-color: url("/img/gradient-random.webp");
 
 header {
     flex: 1;
@@ -22,54 +24,55 @@ header {
     justify-content: center;
 }
 
-.brand .logo {
-    height: 25em;
-    max-height: 100%;
-    max-width: 100%;
-    display: block;
-    margin: auto;
-    filter: brightness(1.5) drop-shadow(0px 0px 30px black);
-}
 
-.brand .logo-clip {
-    height: 11em;
-    width: 5em;
-    display: block;
-    background-image: var(--background-ani-color);
-    background-attachment: fixed;
-    background-size: 100vw 100vh;
-    clip-path: url('#logoClip');
-}
-
-.brand .title {
-    line-height: 1.5em;
-    font-size: 2.5em;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.3em;
-    background-image: var(--background-ani-color);
-    background-attachment: fixed;
-    background-size: 100vw 100vh;
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    margin: 0;
-}
 
 .brand {
     min-height: 24em;
     /* animation: bob 10s ease infinite; */
-    filter: drop-shadow();
+	filter: drop-shadow();
+	
+	.title {
+		line-height: 1.5em;
+		font-size: 2.5em;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.3em;
+		background-image: $background-ani-color;
+		background-attachment: fixed;
+		background-size: 100vw 100vh;
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
+		-webkit-background-clip: text;
+		margin: 0;
+	}
+	.logo-clip {
+		height: 11em;
+		width: 5em;
+		display: block;
+		background-image: $background-ani-color;
+		background-attachment: fixed;
+		background-size: 100vw 100vh;
+		clip-path: url('#logoClip');
+	}
+	.logo {
+		height: 25em;
+		max-height: 100%;
+		max-width: 100%;
+		display: block;
+		margin: auto;
+		filter: brightness(1.5) drop-shadow(0px 0px 30px black);
+	}
+	.project-tagline {
+		margin: 0;
+		margin-bottom: 10px;
+		font-weight: lighter;
+		color: #fff;
+		opacity: 0.9;
+		font-size: 1.75rem;
+		animation: bob;
+	}
 }
 
-.brand .project-tagline {
-    margin: 0;
-    margin-bottom: 10px;
-    font-weight: lighter;
-    color: #fff;
-    opacity: 0.9;
-    font-size: 1.75rem;
-    animation: bob;
-}
 
 body {
     font-family: 'Montserrat', var(--font-family-sans-serif);
@@ -110,7 +113,88 @@ body {
 .projects {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+	flex-wrap: wrap;
+	.project {
+		color: white;
+		max-width: 400px;
+		width: 400px;
+		height: var(--project-size);
+		margin: 0 1em;
+		overflow: hidden;
+		position: relative;
+		border-radius: 0;
+		text-align: right;
+		cursor: pointer;
+		user-select: none;
+		transform-style: preserve-3d;
+		box-shadow: none;
+		transition: 0.5s ease;
+		/* filter: invert(1); */
+		
+		.project-bg {
+			height: 100%;
+			width: 100%;
+			background-size: 110%;
+			background-position: center;
+			filter: contrast(1.5) brightness(0.5) grayscale(1);
+			transition: 0.5s ease all;
+			position: absolute;
+		}
+		.project-title {
+			position: absolute;
+			height: 80%;
+			width: 90%;
+			top: 0;
+			left: 0;
+			margin: 0;
+			padding: 5%;
+			overflow: hidden;
+			display: flex;
+			justify-content:center;
+			align-items:center;
+			font-weight: 900;
+			text-transform: uppercase;
+			text-align: center;
+			letter-spacing: 0.5em;
+			word-spacing: -0.2em;
+			transform: translateZ(0px);
+			transition: 0.5s ease all;
+		}
+		.project-description {
+			position: relative;
+			display: none;
+		}
+		.project-bg-overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			background: $background-ani-color;
+			background-attachment: fixed;
+			background-size: 100vw 100vh;
+			width: 100%;
+			height: 100%;
+			mix-blend-mode: color;
+			/*filter: blur(27px);*/
+			transform: scale(4);
+			opacity: 0.5;
+		}
+		&:hover {
+			.project-bg {
+				background-size: 100%;
+				/* filter: contrast(1.5) brightness(0.3) grayscale(1); */
+				background-position-y: calc(50% + 10px);
+			}
+			.project-title {
+				transform: translateY(-10px) translateZ(-20px);
+			}
+		}
+		&:nth-of-type(1) .project-bg-overlay {background-position: top left;}
+		&:nth-of-type(2) .project-bg-overlay {background-position: top center;}
+		&:nth-of-type(3) .project-bg-overlay {background-position: top right;}
+		&:nth-of-type(4) .project-bg-overlay {background-position: bottom left;}
+		&:nth-of-type(5) .project-bg-overlay {background-position: bottom right;}
+		
+	}
 }
 
 footer {
@@ -124,60 +208,7 @@ footer {
     color: #b9d2d2;
 }
 
-.project {
-    color: white;
-    max-width: 400px;
-    width: 400px;
-    height: var(--project-size);
-    margin: 0 1em;
-    overflow: hidden;
-    position: relative;
-    border-radius: 0;
-    text-align: right;
-    cursor: pointer;
-    user-select: none;
-    transform-style: preserve-3d;
-    box-shadow: none;
-    transition: 0.5s ease;
-    /* filter: invert(1); */
-}
 
-
-
-.project .project-bg {
-    height: 100%;
-    width: 100%;
-    background-size: 110%;
-    background-position: center;
-    filter: contrast(1.5) brightness(0.5) grayscale(1);
-    transition: 0.5s ease all;
-    position: absolute;
-}
-.project .project-title {
-    position: absolute;
-    height: 80%;
-    width: 90%;
-    top: 0;
-    left: 0;
-    margin: 0;
-    padding: 5%;
-    overflow: hidden;
-    display: flex;
-    justify-content:center;
-    align-items:center;
-    font-weight: 900;
-    text-transform: uppercase;
-    text-align: center;
-    letter-spacing: 0.5em;
-    word-spacing: -0.2em;
-    transform: translateZ(0px);
-    transition: 0.5s ease all;
-}
-
-.project .project-description {
-    position: relative;
-    display: none;
-}
 
 .background-blur {
     position: fixed;
@@ -191,33 +222,6 @@ footer {
     transform: scale(1.1);
     background-position: center;
     background-size: cover;
-}
-
-.project:hover .project-bg {
-    background-size: 100%;
-    /* filter: contrast(1.5) brightness(0.3) grayscale(1); */
-    background-position-y: calc(50% + 10px);
-}
-
-.project:hover .project-title {
-    transform: translateY(-10px) translateZ(-20px);
-}
-
-
-
-.project .project-bg-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: var(--background-ani-color);
-    background-attachment: fixed;
-    background-size: 100vw 100vh;
-    width: 100%;
-    height: 100%;
-    mix-blend-mode: color;
-    /*filter: blur(27px);*/
-    transform: scale(4);
-    opacity: 0.5;
 }
 
 
@@ -244,13 +248,6 @@ footer {
 .projects-wrapper.top {order: 1;}
 
 .projects-wrapper.bottom {order: 3;}
-
-
-.project:nth-of-type(1) .project-bg-overlay {background-position: top left;}
-.project:nth-of-type(2) .project-bg-overlay {background-position: top center;}
-.project:nth-of-type(3) .project-bg-overlay {background-position: top right;}
-.project:nth-of-type(4) .project-bg-overlay {background-position: bottom left;}
-.project:nth-of-type(5) .project-bg-overlay {background-position: bottom right;}
 
 .content {
     display: flex;
@@ -297,7 +294,7 @@ a.external-link {
     flow through the border of the external links.
     I really wish their was a f**king background-clip: border;
     */
-    background-image: var(--background-ani-color);
+    background-image: $background-ani-color;
     background-attachment: fixed;
     background-size: 100vw 100vh;
 
@@ -382,9 +379,7 @@ a.external-link {
 }
 
 @media (max-width:700px) {
-    :root {
-        --background-ani-color: url('/img/gradient-random.jpg');
-    }
+    $background-ani-color: url("/img/gradient-random.jpg");
 
     .project {
         width: 100%;
