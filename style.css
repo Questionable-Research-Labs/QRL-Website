@@ -61,6 +61,16 @@ header {
     filter: drop-shadow();
 }
 
+.brand .project-tagline {
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: lighter;
+    color: #fff;
+    opacity: 0.9;
+    font-size: 1.75rem;
+    animation: bob;
+}
+
 body {
     font-family: 'Montserrat', var(--font-family-sans-serif);
     color: white;
