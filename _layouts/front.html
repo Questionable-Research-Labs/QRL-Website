@@ -97,18 +97,32 @@
                 }}
             </h2>
           </div>
-          <div class="external-links-container">
+          <div class="links-container">
+            <!-- Notices -->
+            <div class="links-group">
+              {% assign notices_pages = site.notices | sort:'date' | reverse %}
+              {% for notices_page in notices_pages %}
+              <div class="highlighted-link-container">
+                <a class="highlighted-link sitelink" href="{{ notices_page.url }}">{{ notices_page.title }}</a>
+                <div class="highlighted-link-border"></div>
+              </div>
+                
+              {% endfor %}
+            </div>
 
-            <br />
-            <div class="internal-links-container">
+            <!-- General Info -->
+            <div class="links-group">
               {% assign info_pages = site.info | sort:'order' %} {% for
               info_page in info_pages %}
               <a class="sitelink" href="{{ info_page.url }}">{{ info_page.title }}</a>
               {% endfor %}
+              <a class="sitelink" href="https://technohackers.org" target="_blank" rel="noopener">Technohackers</a>
             </div>
-            <div class="internal-links-container">
+
+            <!-- Visual separation for Project Archive -->
+            <div class="links-group">
               <a class="sitelink" href="/all-projects/">Project archive</a>
-              <a class="sitelink" href="https://technohackers.org" target="_blank">Technohackers</a>
+              
             </div>
           </div>
       </header>

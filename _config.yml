@@ -6,7 +6,6 @@ tagline: A space to play
 description: An idea incubator for experiments in science and tech
 show_downloads: false
 baseurl: "/"
-paginate: 1
 locale: "en"
 
 permalink: /:categories/:title/
@@ -17,9 +16,9 @@ collections:
     output: true
   info:
     output: true
-  info:
-    output: true
   groups:
+    output: true
+  notices:
     output: true
 
 # Gems/Plugins

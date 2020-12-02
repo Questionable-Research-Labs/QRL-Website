@@ -255,65 +255,73 @@ footer {
     min-height: calc(100vh - (var(--page-margin) * 2));
 }
 
-a.sitelink {
-    display: inline-block;
-    font-size: 1.2rem;
-    color: #ffffff;
-    text-decoration: none;
-    margin: 1em;
-    padding: 0.3em 0.5em;
-    padding-right: 0.1em;
-    font-weight: 900;
-    text-transform: uppercase;
-    text-align: center;
-    letter-spacing: 0.5em;
-    word-spacing: -0.2em;
-    border: var(--link-boarder-width) solid #ffffff;
-    user-select: none;
+
+
+
+
+
+.links-container {
+    .links-group {
+        display: flex;
+        flex-flow: wrap row;
+        justify-content: center;
+
+        a.sitelink {
+            display: inline-block;
+            font-size: 1.2rem;
+            color: #ffffff;
+            text-decoration: none;
+            margin: 1em;
+            padding: 0.3em 0.5em;
+            padding-right: 0.1em;
+            font-weight: 900;
+            text-transform: uppercase;
+            text-align: center;
+            letter-spacing: 0.5em;
+            word-spacing: -0.2em;
+            border: var(--link-boarder-width) solid #ffffff;
+            user-select: none;
+        }
+
+        .highlighted-link-container {
+            position: relative;
+            
+            a.highlighted-link {
+                border:none;
+             
+             }
+             .highlighted-link-border {
+                /*
+                This horrendous piece of css garbage makes the center colour image
+                flow through the border of the external links.
+                I really wish their was a f**king background-clip: border;
+                */
+                background-image: $background-ani-color;
+                background-attachment: fixed;
+                background-size: 100vw 100vh;
+            
+                height: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
+                width: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
+                left: calc(1em + var(--link-boarder-width));
+                top: calc(1em + var(--link-boarder-width));
+            
+                position: absolute;
+                
+                clip-path: polygon(
+                    0% 0%,
+                    calc(100% - var(--link-boarder-width)) 0%,
+                    calc(100% - var(--link-boarder-width)) var(--link-boarder-width),
+                    var(--link-boarder-width) var(--link-boarder-width),
+                    var(--link-boarder-width) calc(100% - var(--link-boarder-width)),
+                    calc(100% - var(--link-boarder-width)) calc(100% - var(--link-boarder-width)),
+                    calc(100% - var(--link-boarder-width)) 0%, 100% 0%, 100% 100%, 0 100%);
+            }
+        }
+    }
 }
 
-a.external-link {
-   border:none;
 
-}
 
-.internal-links-container {
-    display: flex;
-    flex-flow: wrap row;
-    justify-content: center;
-}
-.external-links-container {
-    display: flex;
-    flex-flow: wrap row;
-    justify-content: center;
-}
-
-.external-link-border {
-    /*
-    This horrendous piece of css garbage makes the center colour image
-    flow through the border of the external links.
-    I really wish their was a f**king background-clip: border;
-    */
-    background-image: $background-ani-color;
-    background-attachment: fixed;
-    background-size: 100vw 100vh;
-
-    height: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
-    width: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
-    left: calc(1em + var(--link-boarder-width));
-    top: calc(1em + var(--link-boarder-width));
-
-    position:absolute;
-    
-    clip-path: polygon(
-        0% 0%,
-        calc(100% - var(--link-boarder-width)) 0%,
-        calc(100% - var(--link-boarder-width)) var(--link-boarder-width),
-        var(--link-boarder-width) var(--link-boarder-width),
-        var(--link-boarder-width) calc(100% - var(--link-boarder-width)),
-        calc(100% - var(--link-boarder-width)) calc(100% - var(--link-boarder-width)),
-        calc(100% - var(--link-boarder-width)) 0%, 100% 0%, 100% 100%, 0 100%);
-}
 
 
 
