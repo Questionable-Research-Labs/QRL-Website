@@ -24,6 +24,7 @@ collections:
 # Gems/Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 #Others
 markdown: kramdown
