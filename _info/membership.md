@@ -10,7 +10,7 @@ Membership, Sponsorship and single term Subs (info below), means you are support
 thrives. An incubator for the sparky ideas that are the foundation for future innovation and discovery. In supporting us, you are helping to create a clever
 community.
 
-The 2020 registration form can be found [here](https://forms.gle/2b6KbShk1P4vTtd37).
+The 2021 registration form can be found [here](https://forms.gle/NVy8Nwq8rgY2tUZq6).
 
 ## General Principles
 
@@ -20,15 +20,6 @@ If the cost is a barrier just talk to us.
 There can be other ways to contribute.
 
 Donations and sponsorship offers are always appreciated.
-
-## Term Subs
-
-Term subs supports your participation in groups during the term.
-
-Our goal is $10 per week but recognise this is not always affordable.
-Some people pay less, that’s 100% ok, some people pay a bit more to balance it out.
-
-Payment by direct deposit to **38-9005-0061268-00**, or cash or whatever works for you.
 
 ## Membership
 

@@ -1,22 +1,13 @@
 ---
-title: Technohacker Coding and Robotics Group
+title: Geek Girls Groups
 author: Questionable Research Labs
 layout: default
 ---
-
-# Ages 9+, Thursday 3:15 to 5pm(ish).
+# Thursday 3:15 to 5pm(ish).
 
 #### [Sign Up Form][sul]
 
-The Technohackers Coding and Robotics Group is all about getting into coding and dreaming about the cool game they are going to create or the robot you want to
-build. You can start in this group without knowing what you are doing and work towards your own creations (not knowing what your doing is where we all start). This
-group is about learning coding to make games and then some of us might get distracted into making and programming Robots. Because why not.
-
-Contact Kevin for more information. Participants will need access to laptop, perseverance and a love of computer games. We have a couple spare laptops and are
-always looking for not-too-old donations. The group is supported by our older Questionable Research Lab members (Technohackers members who are older and are now
-our team of experts).
-
-If you would like to join in [here is the term 1 sign-up form][sul].
+To all girls out there, this is a new group at QRL. It's meant to be an exploration space for anything geekie and tech! We might look into game development, graphic design, music making, video making, coding or even wildly creative mechanical projects. It can range from simple to very complex, and we'll figure it out on the way. The weirder, the better - as long as fun is a thing! 
 
 # Other useful information:
 
@@ -32,4 +23,4 @@ If you would like to join in [here is the term 1 sign-up form][sul].
 - For further information please email kevin@questionable.org.nz
 - We are always on the lookout for sponsorship.
 
-[sul]: https://forms.gle/GrpydS7k9AwmV1mH9
+[sul]: https://forms.gle/NVy8Nwq8rgY2tUZq6
