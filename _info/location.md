@@ -19,11 +19,11 @@ We are now running out of the ground floor of Mania House in Rathbone St.
 
  - There is a big open space.
 
- - There are 4 offices/quiet workspaces. These will also be good for adults needing a CBD desk or meeting space.
+ - There are 4 offices/quiet workspaces. These will also be good for adult members needing a CBD desk or meeting space.
 
  - There is a kitchen (lacking kitchen things).
 
- - A bit of a nook which we will have as a soft space (bean bags, cushions etc)
+ - A bit of a nook in which we have a soft space (bean bags, cushions etc)
 
  - There is a large meeting/teaching room or perhaps a filming room after we put up a green screen.
 
