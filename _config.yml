@@ -6,6 +6,7 @@ tagline: A space to play
 description: An idea incubator for experiments in science and tech
 show_downloads: false
 baseurl: "/"
+url: "https://questionable.org.nz"
 locale: "en"
 
 permalink: /:categories/:title/
