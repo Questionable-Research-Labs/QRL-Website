@@ -1,15 +1,16 @@
-theme: jekyll-theme-cayman
 # Setup
-title: Questionable Research Labs
-short: QRL
-tagline: A space to play
-description: An idea incubator for experiments in science and tech
+theme: jekyll-theme-cayman
 show_downloads: false
 baseurl: "/"
 url: "https://questionable.org.nz"
 locale: "en"
-
 permalink: /:categories/:title/
+
+# Site Info
+title: Questionable Research Labs
+short: QRL
+tagline: A space to play
+description: An idea incubator for experiments in science and tech
 
 # Projects folder is mapped to a collection
 collections:
@@ -24,17 +25,17 @@ collections:
 
 # Gems/Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 
-#Others
+#Markdown
 markdown: kramdown
 
 # Github Repo
-repository: henry/henrydf.github.io
+repository: Questionable-Research-Labs/QRL-Website
 
 sass:
   style: compressed
+  sass_dir: assets/css/
 
 exclude:
   - project-compressor/

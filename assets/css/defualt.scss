@@ -1,6 +1,7 @@
 ---
 ---
 @import "{{ site.theme }}";
+
 a#skip-to-content {
     position: absolute;
     color: #fff;
@@ -25,7 +26,6 @@ a#skip-to-content:active {
 }
 
 body {
-    font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background: black;
     color: white;
     background: linear-gradient(120deg, hsla(231, 100%, 6%, 0.61), hsla(103, 83%, 10%, 0.45)), url(/img/background-o.jpg);
@@ -68,6 +68,17 @@ h2.project-tagline {
     margin-bottom: 5rem;
     border-radius: 3px;
     box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+
+    .summary {
+        color: rgb(206, 206, 206);
+        font-style: italic;
+        .reading_time {
+            text-align:left;
+        }
+        .date {
+            float: right;
+        }
+    }
 }
 
 

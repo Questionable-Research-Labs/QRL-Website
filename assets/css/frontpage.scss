@@ -1,7 +1,10 @@
 ---
 ---
+
+@import "system-fonts";
+
 :root {
-    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-family: "system-ui";
     --page-margin: 4em;
     --top-bottom-projects-margin: 8em;
     --project-size: 12em;
@@ -24,58 +27,55 @@ header {
     justify-content: center;
 }
 
-
-
 .brand {
     min-height: 24em;
     /* animation: bob 10s ease infinite; */
-	filter: drop-shadow();
-	
-	.title {
-		line-height: 1.5em;
-		font-size: 2.5em;
-		font-weight: 600;
-		text-transform: uppercase;
-		letter-spacing: 0.3em;
-		background-image: $background-ani-color;
-		background-attachment: fixed;
-		background-size: 100vw 100vh;
-		-webkit-text-fill-color: transparent;
-		background-clip: text;
-		-webkit-background-clip: text;
-		margin: 0;
-	}
-	.logo-clip {
-		height: 11em;
-		width: 5em;
-		display: block;
-		background-image: $background-ani-color;
-		background-attachment: fixed;
-		background-size: 100vw 100vh;
-		clip-path: url('#logoClip');
-	}
-	.logo {
-		height: 25em;
-		max-height: 100%;
-		max-width: 100%;
-		display: block;
-		margin: auto;
-		filter: brightness(1.5) drop-shadow(0px 0px 30px black);
-	}
-	.project-tagline {
-		margin: 0;
-		margin-bottom: 10px;
-		font-weight: lighter;
-		color: #fff;
-		opacity: 0.9;
-		font-size: 1.75rem;
-		animation: bob;
-	}
+    filter: drop-shadow();
+
+    .title {
+        line-height: 1.5em;
+        font-size: 2.5em;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.3em;
+        background-image: $background-ani-color;
+        background-attachment: fixed;
+        background-size: 100vw 100vh;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-background-clip: text;
+        margin: 0;
+    }
+    .logo-clip {
+        height: 11em;
+        width: 5em;
+        display: block;
+        background-image: $background-ani-color;
+        background-attachment: fixed;
+        background-size: 100vw 100vh;
+        clip-path: url("#logoClip");
+    }
+    .logo {
+        height: 25em;
+        max-height: 100%;
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        filter: brightness(1.5) drop-shadow(0px 0px 30px black);
+    }
+    .project-tagline {
+        margin: 0;
+        margin-bottom: 10px;
+        font-weight: lighter;
+        color: #fff;
+        opacity: 0.9;
+        font-size: 1.75rem;
+        animation: bob;
+    }
 }
 
-
 body {
-    font-family: 'Montserrat', var(--font-family-sans-serif);
+    font-family: "Montserrat", var(--font-family-sans-serif);
     color: white;
     margin: 0;
     width: 100vw;
@@ -95,14 +95,12 @@ body {
     margin: 0;
 }
 
-
-
 .background {
     position: absolute;
     z-index: 0;
     width: calc(100vw - (var(--page-margin) * 2));
     height: calc(100% - (var(--page-margin) * 2));
-    filter: sepia(0.5)  hue-rotate(130deg);
+    filter: sepia(0.5) hue-rotate(130deg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -123,101 +121,112 @@ body {
 }
 
 @media (max-width: 500px) {
-    .background, .background-blur {
-        background: url('/img/background-mobile-o.webp');
+    .background,
+    .background-blur {
+        background: url("/img/background-mobile-o.webp");
     }
 }
 @media (min-width: 501px) {
-    .background, .background-blur {
-        background: url('/img/background-o.webp');
+    .background,
+    .background-blur {
+        background: url("/img/background-o.webp");
     }
 }
 
 .projects {
     display: flex;
     justify-content: center;
-	flex-wrap: wrap;
-	.project {
-		color: white;
-		max-width: 400px;
-		width: 400px;
-		height: var(--project-size);
-		margin: 1em;
-		overflow: hidden;
-		position: relative;
-		border-radius: 0;
-		text-align: right;
-		cursor: pointer;
-		user-select: none;
-		transform-style: preserve-3d;
-		box-shadow: none;
-		transition: 0.5s ease;
-		/* filter: invert(1); */
-		
-		.project-bg {
-			height: 100%;
-			width: 100%;
-			background-size: 110%;
-			background-position: center;
-			filter: contrast(1.5) brightness(0.5) grayscale(1);
-			transition: 0.5s ease all;
-			position: absolute;
-		}
-		.project-title {
-			position: absolute;
-			height: 80%;
-			width: 90%;
-			top: 0;
-			left: 0;
-			margin: 0;
-			padding: 5%;
-			overflow: hidden;
-			display: flex;
-			justify-content:center;
-			align-items:center;
-			font-weight: 900;
-			text-transform: uppercase;
-			text-align: center;
-			letter-spacing: 0.5em;
-			word-spacing: -0.2em;
-			transform: translateZ(0px);
-			transition: 0.5s ease all;
-		}
-		.project-description {
-			position: relative;
-			display: none;
-		}
-		.project-bg-overlay {
-			position: absolute;
-			top: 0;
-			left: 0;
-			background: $background-ani-color;
-			background-attachment: fixed;
-			background-size: 100vw 100vh;
-			width: 100%;
-			height: 100%;
-			mix-blend-mode: color;
-			/*filter: blur(27px);*/
-			transform: scale(4);
-			opacity: 0.5;
-		}
-		&:hover {
-			.project-bg {
-				background-size: 100%;
-				/* filter: contrast(1.5) brightness(0.3) grayscale(1); */
-				background-position-y: calc(50% + 10px);
-			}
-			.project-title {
-				transform: translateY(-10px) translateZ(-20px);
-			}
-		}
-		&:nth-of-type(1) .project-bg-overlay {background-position: top left;}
-		&:nth-of-type(2) .project-bg-overlay {background-position: top center;}
-		&:nth-of-type(3) .project-bg-overlay {background-position: top right;}
-		&:nth-of-type(4) .project-bg-overlay {background-position: bottom left;}
-		&:nth-of-type(5) .project-bg-overlay {background-position: bottom right;}
-		
-	}
+    flex-wrap: wrap;
+    .project {
+        color: white;
+        max-width: 400px;
+        width: 400px;
+        height: var(--project-size);
+        margin: 1em;
+        overflow: hidden;
+        position: relative;
+        border-radius: 0;
+        text-align: right;
+        cursor: pointer;
+        user-select: none;
+        transform-style: preserve-3d;
+        box-shadow: none;
+        transition: 0.5s ease;
+        /* filter: invert(1); */
+
+        .project-bg {
+            height: 100%;
+            width: 100%;
+            background-size: 110%;
+            background-position: center;
+            filter: contrast(1.5) brightness(0.5) grayscale(1);
+            transition: 0.5s ease all;
+            position: absolute;
+        }
+        .project-title {
+            position: absolute;
+            height: 80%;
+            width: 90%;
+            top: 0;
+            left: 0;
+            margin: 0;
+            padding: 5%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: 900;
+            text-transform: uppercase;
+            text-align: center;
+            letter-spacing: 0.5em;
+            word-spacing: -0.2em;
+            transform: translateZ(0px);
+            transition: 0.5s ease all;
+        }
+        .project-description {
+            position: relative;
+            display: none;
+        }
+        .project-bg-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: $background-ani-color;
+            background-attachment: fixed;
+            background-size: 100vw 100vh;
+            width: 100%;
+            height: 100%;
+            mix-blend-mode: color;
+            /*filter: blur(27px);*/
+            transform: scale(4);
+            opacity: 0.5;
+        }
+        &:hover {
+            .project-bg {
+                background-size: 100%;
+                /* filter: contrast(1.5) brightness(0.3) grayscale(1); */
+                background-position-y: calc(50% + 10px);
+            }
+            .project-title {
+                transform: translateY(-10px) translateZ(-20px);
+            }
+        }
+        &:nth-of-type(1) .project-bg-overlay {
+            background-position: top left;
+        }
+        &:nth-of-type(2) .project-bg-overlay {
+            background-position: top center;
+        }
+        &:nth-of-type(3) .project-bg-overlay {
+            background-position: top right;
+        }
+        &:nth-of-type(4) .project-bg-overlay {
+            background-position: bottom left;
+        }
+        &:nth-of-type(5) .project-bg-overlay {
+            background-position: bottom right;
+        }
+    }
 }
 
 footer {
@@ -231,18 +240,17 @@ footer {
     color: #b9d2d2;
 }
 
-
 @keyframes bob {
     0% {
-        box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+        box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
         transform: translatey(0px);
     }
     50% {
-        box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
+        box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
         transform: translatey(-20px);
     }
     100% {
-        box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+        box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
         transform: translatey(0px);
     }
 }
@@ -252,20 +260,19 @@ footer {
     margin: 2rem 0;
 }
 
-.projects-wrapper.top {order: 1;}
+.projects-wrapper.top {
+    order: 1;
+}
 
-.projects-wrapper.bottom {order: 3;}
+.projects-wrapper.bottom {
+    order: 3;
+}
 
 .content {
     display: flex;
     flex-direction: column;
     min-height: calc(100vh - (var(--page-margin) * 2));
 }
-
-
-
-
-
 
 .links-container {
     .links-group {
@@ -292,12 +299,11 @@ footer {
 
         .highlighted-link-container {
             position: relative;
-            
+
             a.highlighted-link {
-                border:none;
-             
-             }
-             .highlighted-link-border {
+                border: none;
+            }
+            .highlighted-link-border {
                 /*
                 This horrendous piece of css garbage makes the center colour image
                 flow through the border of the external links.
@@ -306,14 +312,14 @@ footer {
                 background-image: $background-ani-color;
                 background-attachment: fixed;
                 background-size: 100vw 100vh;
-            
+
                 height: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
                 width: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
                 left: calc(1em + var(--link-boarder-width));
                 top: calc(1em + var(--link-boarder-width));
-            
+
                 position: absolute;
-                
+
                 clip-path: polygon(
                     0% 0%,
                     calc(100% - var(--link-boarder-width)) 0%,
@@ -321,18 +327,17 @@ footer {
                     var(--link-boarder-width) var(--link-boarder-width),
                     var(--link-boarder-width) calc(100% - var(--link-boarder-width)),
                     calc(100% - var(--link-boarder-width)) calc(100% - var(--link-boarder-width)),
-                    calc(100% - var(--link-boarder-width)) 0%, 100% 0%, 100% 100%, 0 100%);
+                    calc(100% - var(--link-boarder-width)) 0%,
+                    100% 0%,
+                    100% 100%,
+                    0 100%
+                );
             }
         }
     }
 }
 
-
-
-
-
-
-@media (max-width:1430px) {
+@media (max-width: 1430px) {
     :root {
         --project-size: 140px;
     }
@@ -348,7 +353,7 @@ footer {
 }
 
 /* Performance & Style Optimisations for smaller devices */
-@media (max-width:1200px) {
+@media (max-width: 1200px) {
     :root {
         --page-margin: 2em;
         --top-bottom-projects-margin: 4em;
@@ -365,7 +370,8 @@ footer {
         filter: contrast(0.5) brightness(2) drop-shadow(0px 0px 30px black);
     }
 
-    .projects-wrapper, .projects-wrapper .projects {
+    .projects-wrapper,
+    .projects-wrapper .projects {
         position: relative;
         left: 0 !important;
         top: 0 !important;
@@ -389,11 +395,15 @@ footer {
     .background {
         position: fixed;
     }
-    .projects-wrapper.top {order: 3;}
-    .projects-wrapper.top {order: 4;}
+    .projects-wrapper.top {
+        order: 3;
+    }
+    .projects-wrapper.top {
+        order: 4;
+    }
 }
 
-@media (max-width:700px) {
+@media (max-width: 700px) {
     $background-ani-color: url("/img/gradient-random.jpg");
 
     .project {
@@ -415,7 +425,7 @@ footer {
     .external-link-border {
         left: calc(1em);
         top: calc(1em);
-        height: calc(100% - 2em );
+        height: calc(100% - 2em);
         width: calc(100% - 2em);
     }
 }

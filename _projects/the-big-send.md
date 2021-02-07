@@ -7,6 +7,7 @@ thumbnail: "/project-assets/the-big-send/thumbnail_o.jpg"
 order: 4
 layout: default
 description: An application to help automate sending out large numbers of text messages
+type: project
 ---
 
 The Big Send is an application designed to help event, sports teams and other organizers send out a large number of text messages with out having to create google

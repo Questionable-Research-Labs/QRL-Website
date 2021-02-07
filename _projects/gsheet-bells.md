@@ -6,6 +6,7 @@ color: "#1b82cc"
 thumbnail: "/project-assets/gsheet-bells/thumbnail_o.jpg"
 layout: default
 description: Development of an IOT (Internet of Things) Bell Controller using Google Sheets to improve the experience for Students and Teachers
+type: project
 ---
 
 This is a project designed for the 2020 Northland Science Fair by Jasper M-W. This is a summary of the tech going into it. It's goal was to make a new bell controller for my school and has been completely and utterly successful by effectively all measures.
