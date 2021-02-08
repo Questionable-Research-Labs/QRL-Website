@@ -20,8 +20,12 @@ The repository with all the website code is now downloaded and you can get start
 This website uses [Jekyll](https://jekyllrb.com/) to pre-compile the site into a static format. To preview the site, you must install it along with it's dependencies.
 
 ### Ruby
-Go [here](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) and install for the correct operating system (Use [ruby installer](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) for windows). This should mean you get output from:
-`ruby -v`
+Go [here](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) and install for the correct operating system.
+Use [ruby installer](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) for windows,
+and install ruby with `sudo apt install ruby-full` for debian/ubuntu based os.
+This should mean you get output from `ruby -v` in your command line.
+
+> If you install ruby via `apt`, you need to prepend `sudo` to the following commands.
 
 ### Jekyll
 To install, use the now installed gem command:
