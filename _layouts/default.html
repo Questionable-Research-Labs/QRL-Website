@@ -19,7 +19,7 @@
     <meta name="theme-color" content="{{page.color | default: "#ffeb3b"}}">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link href="https://fonts.googleapis.com/css?family=Space+Mono|Montserrat:200,400,700" rel="stylesheet">
-    <link rel="stylesheet" href="{{ '/assets/css/defualt.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/defualt.css?v={{ site.time | date:'%s' }}">
     <style>
       :root {
         --page-main-color:{{page.color | default: "#ffeb3b"}};
