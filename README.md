@@ -67,6 +67,7 @@ color: "#some random hex colour that isn't neon"
 thumbnail: "/project-assets/your-project-name-here/thumbnail-o.jpg"
 layout: default
 description: Wow, you should change this to describe your project. This is displayed in the project archival page.
+type: project
 ---
 ```
 3. Create a folder called `your-project-name-here` in the `project-assets` folder, this is where you can put your photos, and any other assets you want.
@@ -127,7 +128,7 @@ It is not good practice to hard code content into the `_layouts` html files. Use
 
 ## Hosting - Dual Hosting
 
-Whenever you commit to this repository, GitHub will send a post request to a hook running on our servers. This will activate a script that will pull the latest changes, get new dependencies and re-build the site. We have switched to our own servers due to missing functionality in the GitHub Pages environment (EG: Custom Plugins), but our own servers have not proven to have perfect uptime, so we have left GitHub Pages active (The site just misses some extra features and cache optimization) and we are using it as a failover. 
+Whenever you commit to this repository, GitHub will send a post request to a hook running on our servers. This will activate a script that will pull the latest changes, get new dependencies and re-build the site. We have switched to our own servers due to missing functionality in the GitHub Pages environment (EG: Custom Plugins). 
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -28,7 +28,7 @@ plugins:
   - jekyll-sitemap
 
 #Markdown
-markdown: kramdown
+markdown: CustomMarkdown
 
 # Github Repo
 repository: Questionable-Research-Labs/QRL-Website

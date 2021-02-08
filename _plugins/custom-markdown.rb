@@ -1,6 +1,6 @@
 class Jekyll::Converters::Markdown::CustomMarkdown
   def initialize(config)
-    require "kramdown23"
+    require "kramdown"
     @config = config
   rescue LoadError
     STDERR.puts "You are missing a library required for Markdown. Please run:"
@@ -9,7 +9,6 @@ class Jekyll::Converters::Markdown::CustomMarkdown
   end
 
   def convert(content)
-    ""
-    # puts Kramdown::Document.new(content).to_html
+    Kramdown::Document.new(content).to_html
   end
 end
