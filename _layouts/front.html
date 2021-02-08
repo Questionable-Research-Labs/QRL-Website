@@ -10,12 +10,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
   <meta name="theme-color" content="{{page.color | default: "#000000"}}">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <link rel="icon" href="{{ '/img/favicon.ico?v=' | append: site.github.build_revision | relative_url }}" />
+  <link rel="icon" href="/img/favicon.ico?v={{ site.time | date:'%s' }}" />
 
   <!-- CSS -->
   <!--  - Page Styles -->
   <link rel="stylesheet"
-    href="{{ '/assets/css/frontpage.css?v=' | append: site.github.build_revision | relative_url }}">
+    href="/assets/css/frontpage.css?v={{ site.time | date:'%s' }}">
   <!-- IE CSS hacks -->
   <style type="text/css">
     _:-ms-input-placeholder,
