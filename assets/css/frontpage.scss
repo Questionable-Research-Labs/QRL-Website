@@ -56,12 +56,20 @@ header {
         clip-path: url("#logoClip");
     }
     .logo {
-        height: 25em;
+        box-sizing: border-box;
+        // height: 25em;
         max-height: 100%;
         max-width: 100%;
         display: block;
         margin: auto;
         filter: brightness(1.5) drop-shadow(0px 0px 30px black);
+        clip-path: url(#svgLogoClipPath);
+        height: 11em;
+        width: 5em;
+        display: block;
+        background-image: $background-ani-color;
+        background-attachment: fixed;
+        background-size: 100vw 100vh;
     }
     .project-tagline {
         margin: 0;
