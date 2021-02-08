@@ -110,12 +110,24 @@ git push #Pushes your new commit with your changes to the remote repository
 ```
 All done, in a minute, your changes should be live! If not, check what went wrong [here](https://github.com/Questionable-Research-Labs/QRL-Website/deployments/activity_log?environment=github-pages).
 
+# Code Style
+
+## Styles
+All styles are in the [SCSS format](https://sass-lang.com/) and the transition away from css is still in progress.
+
+## Cache Busting
+The TTL is 1 year on the assets, so we need to use Cache Busting to tell the client to pick up new changes. When ever linking to resources, use this:
+
+```src="/path/file.ext?v={{ site.time | date:'%s' }}"```
+
+## Hard Coding
+It is not good practice to hard code content into the `_layouts` html files. Use collections for lists of things (or a Jekyll data source), and if it is something more like a tagline, put it into the `_config.yml` file and access it using liquid `{{ site.PROPERTY }}`.
+
 # Additional info
 
-## Hosting - GitHub Pages
+## Hosting - Dual Hosting
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the qrl website, from the content of your Markdown files and theme files. You can find the output of the process [here](https://github.com/Questionable-Research-Labs/QRL-Website/deployments/activity_log?environment=github-pages).
-
+Whenever you commit to this repository, GitHub will send a post request to a hook running on our servers. This will activate a script that will pull the latest changes, get new dependencies and re-build the site. We have switched to our own servers due to missing functionality in the GitHub Pages environment (EG: Custom Plugins), but our own servers have not proven to have perfect uptime, so we have left GitHub Pages active (The site just misses some extra features and cache optimization) and we are using it as a failover. 
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
