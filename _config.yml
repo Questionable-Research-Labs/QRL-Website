@@ -28,8 +28,8 @@ collections:
 plugins:
   - jekyll-sitemap
 
-#Markdown
-markdown: CustomMarkdown
+# Markdown
+markdown: CustomMarkdown # Intercepts MD before it goes to Kramdown
 
 # Github Repo
 repository: Questionable-Research-Labs/QRL-Website
