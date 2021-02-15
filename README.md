@@ -19,6 +19,8 @@ The repository with all the website code is now downloaded and you can get start
 ## Environment
 This website uses [Jekyll](https://jekyllrb.com/) to pre-compile the site into a static format. To preview the site, you must install it along with it's dependencies.
 
+> Instead of going through the process to setting up your environment, you can use GitHub codespaces to use a docker environment with this setup. You can also just use VS Code, which will prompt you to use the Docker Environment if you have the Docker extension installed.
+
 ### Ruby
 Go [here](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) and install for the correct operating system.
 Use [ruby installer](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) for windows,
