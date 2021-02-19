@@ -13,9 +13,6 @@ a different theme. As with all our Technohackers groups, we intend it to be a fu
 involve a talk followed by an experiment, a challenge or a demonstration. No one knows how stuff will go – we try things out and see what happens. In fact
 everything we do is an experiment.
 
-This term we are going to mess with Chemistry. It will be a chance to explode, melt and burn as we look at Carbon, Oxygen and Hydrogen (mainly, never trust our
-plans, we might get distracted and do other things as well, who knows?).
-
 <img src="/info-page-assets/groups/experment_o.png" style="float: right">
 
 # This term
