@@ -101,9 +101,6 @@ body {
     width: calc(100vw - (var(--page-margin) * 2));
     height: calc(100% - (var(--page-margin) * 2));
     filter: sepia(0.5) hue-rotate(130deg);
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
     box-shadow: 0 0 80px black;
 }
 
@@ -124,12 +121,20 @@ body {
     .background,
     .background-blur {
         background: url("/img/background-mobile-o.webp");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
 }
 @media (min-width: 501px) {
     .background,
     .background-blur {
         background: url("/img/background-o.webp");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
 }
 
