@@ -8,7 +8,19 @@ class Jekyll::Converters::Markdown::CustomMarkdown
     raise FatalException.new("Missing dependency: kramdown")
   end
 
+  def findLinks(html)
+    # !\[[^\]]*\]\((?<filename>.*?)(?=\"|\))(?<optionalpart>\".*\")?\)
+    matches = html.match(/(\d+)/)
+    if matches 
+      puts matches.length
+    end
+  end
+
   def convert(content)
-    Kramdown::Document.new(content).to_html
+    puts "Starting Markdown Conversion"
+    html = Kramdown::Document.new(content).to_html
+    findLinks(html)
+    puts "Done."
+    return html
   end
 end
