@@ -9,18 +9,27 @@ class Jekyll::Converters::Markdown::CustomMarkdown
   end
 
   def findLinks(html)
-    # !\[[^\]]*\]\((?<filename>.*?)(?=\"|\))(?<optionalpart>\".*\")?\)
-    matches = html.match(/(\d+)/)
-    if matches 
-      puts matches.length
+    # !\[[^\]]*\]\((?<filename>.*?)(?=\"|\))(?<optionalpart>\".*\")?\)]
+    stringScan = StringScanner.new(html)
+    match = stringScan.scan(/!\[[^\]]*\]\((?<filename>.*?)(?=\"|\))?\)/)
+    while not stringScan.eos? || match.nil?
+      put "Checking"
+      if match
+        puts match.methods
+      end
+      match = stringScan.scan(/!\[[^\]]*\]\((?<filename>.*?)(?=\"|\))?\)/)
+      
     end
+    
+    
+    return html
   end
 
   def convert(content)
-    puts "Starting Markdown Conversion"
-    html = Kramdown::Document.new(content).to_html
-    findLinks(html)
+    puts "Adding cache busting to images"
+    html = findLinks(content) 
+    
     puts "Done."
-    return html
+    return Kramdown::Document.new(html).to_html
   end
 end
