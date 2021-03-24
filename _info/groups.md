@@ -37,11 +37,21 @@ Important:
 
 [Find out more and registration here…](/groups/sci-tech)
 
-# Technohackers Coding & Robotics Group
+# Robotics Group
+
+## Ages 13+, Wednesday 3:15 to 5:00pm(ish).
+
+You do need to have some core skills (e.g. have done some Python coding or similar) so it is not for complete beginners.
+
+If you are not sure if you have you have the skills, check with me (Kevin)
+
+[Find out more…](/groups/robotics)
+
+# Technohackers Coding
 
 ## Ages 9+, Thursday 3:15 to 5:00pm.
 
-Before you can create your own AI overlord, make a billion dollars with your game, or construct your mind-controlled robot, you need to play with code. This group is for doing just that with friends. Our older members help out and we also teach each other.
+Before you can create your own AI overlord, make a billion dollars with your game, or construct your mind-controlled VR game, you need to play with code. This group is for doing just that with friends. Our older members help out and we also teach each other.
 
 Facilitated by Kevin Waugh and the senior QRL members.
 
@@ -50,7 +60,7 @@ Important:
 2. You need a laptop (or PC) or have talked to us about using one of our scarce spares. Chrome books and tablets are not ideal but might be ok at the beginning.
 3. [Say your coming here][IntrestForm]
 
-[Find out more and registration…](/groups/coding-robotics)
+[Find out more and registration…](/groups/coding)
 
 # Questionable Projects Group
 
@@ -60,11 +70,21 @@ This is teens only (13+) and it is our time for ANY project. Any. It could be co
 
 Facilitated by Sheldon White and Kevin Waugh
 
-1. This group starts this week (Thursday 4th)
-2. [Say your coming here][IntrestForm]
-3. This week we will have no games after 6pm (but we are going to be open at 3pm)
-
+1. [Say your coming here][IntrestForm]
+2. This week we will have no games after 6pm (but we are going to be open at 3pm)
 
 [Find out more and registration…](/groups/questionable)
 
 [IntrestForm]: https://forms.gle/UcR16rzizY9wP1ba8
+
+# Game Night in the Lab
+
+## Teens, Friday 6:30pm.
+
+Would you like to have a go playing creative imaginative games? This is your time! Board games, card games, Dungeons & Dragons - we will play it all! If you have an existing group and would like to come together to play in a social environment, bring your group and join us.
+
+Put your name on this form [HERE](https://forms.gle/jbzEoyHacFBgJp817) so we can contact you.
+
+Friday at 6.30 in the Lab. Bring snacks and drinks. Our goal is to meet every week at this stage. 
+
+[Find out more and registration…](/groups/game-in-lab)

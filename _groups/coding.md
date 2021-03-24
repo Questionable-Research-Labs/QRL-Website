@@ -1,5 +1,5 @@
 ---
-title: Technohacker Coding and Robotics Group
+title: Technohacker Coding
 author: Questionable Research Labs
 layout: default
 ---
@@ -8,9 +8,9 @@ layout: default
 
 #### [Sign Up Form][sul]
 
-The Technohackers Coding and Robotics Group is all about getting into coding and dreaming about the cool game they are going to create or the robot you want to
+The Technohackers Coding is all about getting into coding and dreaming about the cool game they are going to create or the software you want to
 build. You can start in this group without knowing what you are doing and work towards your own creations (not knowing what your doing is where we all start). This
-group is about learning coding to make games and then some of us might get distracted into making and programming Robots. Because why not.
+group is about learning coding to make games and then some of us might get distracted into making and programming programs. Because why not.
 
 Contact Kevin for more information. Participants will need access to laptop, perseverance and a love of computer games. We have a couple spare laptops and are
 always looking for not-too-old donations. The group is supported by our older Questionable Research Lab members (Technohackers members who are older and are now
