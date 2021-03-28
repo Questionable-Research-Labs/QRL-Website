@@ -1,5 +1,5 @@
 ---
-title: Patronage
+title: Membership
 author: Questionable Research Labs
 layout: default
 ---
