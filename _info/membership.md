@@ -8,11 +8,11 @@ layout: default
 ## General Principles
 
 Group Attendance is Free.
-We will NEVER let money be a barrier to your participation
-Patrons support us.
-Patrons do not need to be attending
-You do not need to attend to be a Patron. 
-Some Events might have a cost - but if cost is a barrier there are sponsors, just ask.
+ - We will NEVER let money be a barrier to your participation
+ - Patrons support us.
+ - Patrons do not need to be attending
+ - You do not need to attend to be a Patron. 
+ - Some Events might have a cost - but if cost is a barrier there are sponsors, just ask.
 
 
 ## Membership
