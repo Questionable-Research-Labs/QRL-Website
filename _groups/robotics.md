@@ -1,5 +1,5 @@
 ---
-title: Robotics Group
+title: Robotics Group (Coming Soon)
 author: Questionable Research Labs
 layout: default
 ---
