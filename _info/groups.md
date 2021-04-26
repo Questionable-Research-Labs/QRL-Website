@@ -1,5 +1,5 @@
 ---
-title: Technology Groups
+title: Groups
 author: Questionable Research Labs
 layout: default
 ---
