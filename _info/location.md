@@ -5,7 +5,7 @@ date: "2021-02-1 16:26:22"
 order: 1
 layout: default
 ---
-We are now running out of the ground floor of Mania House in Rathbone St.
+We are now running out of the ground floor of Manaia House in Rathbone St.
 
 <iframe
     width="600"
@@ -17,20 +17,6 @@ We are now running out of the ground floor of Mania House in Rathbone St.
     allowfullscreen>
 </iframe>
 
- - There is a big open space.
-
- - There are 4 offices/quiet workspaces. These will also be good for adult members needing a CBD desk or meeting space.
-
- - There is a kitchen (lacking kitchen things).
-
- - A bit of a nook in which we have a soft space (bean bags, cushions etc)
-
- - There is a large meeting/teaching room or perhaps a filming room after we put up a green screen.
-
- - There is parking out the back for easy in and out (as well as from Rathbone St)
-
- - There is a storage room.
-
- - And we will have this space for till later this year when it is redeveloped. 
+ - We will have this space for till later this year when it is redeveloped. 
 
 <img src="/info-page-assets/location/entrance_o.png" style="float: center">

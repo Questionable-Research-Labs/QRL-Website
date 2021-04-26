@@ -15,7 +15,7 @@ To all girls out there, this is a new group at QRL. It's meant to be an explorat
 Facilitated by Verena Pschorn.
 
 Important:
-1. This group starts in the 3rd week (Monday 15th)
+1. This group starts again in the first week of term 2 (Monday 3rd)
 2. Because this is a new group - let people know about it. Spread the word.
 3. [Say your coming here][IntrestForm]
 
@@ -27,27 +27,28 @@ Important:
 
 <img src="/info-page-assets/groups/experment_o.png" style="float: right">
 
-This group is all about looking at the world with our sciencey brains turned on. We dig into anything that seems interesting and attempt experiments or challenges. Things sometimes go as we expect and sometimes not (but we like that too). Every term is a different topic and by popular vote - this term will be Electricity. It might be shocking, who knows.
+This group is all about looking at the world with our sciencey brains turned on. We dig into anything that seems interesting and attempt experiments or challenges. Things sometimes go as we expect and sometimes not (but we like that too). Every term it is a different topic. Last term it was Electricity and it was a bit shocking, this term is going to be both disgusting and tasty as we look at Fungi (Biology). Facilitated by Kevin Waugh.
 
 Facilitated by Kevin Waugh
 
 Important:
-1. This group starts in the 2rd week (Tuesday 9th)
-2. [Say your coming here][IntrestForm]
+1. [Say your coming here][IntrestForm]
 
 [Find out more and registration here…](/groups/sci-tech)
 
 # Robotics Group
 
-## Ages 13+, Wednesday 3:15 to 5:00pm(ish).
+## Wednesday 3:15 to 5:00pm(ish).
 
-You do need to have some core skills (e.g. have done some Python coding or similar) so it is not for complete beginners.
+This is a new group this term. Participants are expected to have some basic python coding skills - just check with us if you are unsure. As with everything we do, it is mostly "learn as you go" but Python will be the main language so it is good to have a head start. We will probably be creating some crazy autonomous mobile AI robots. Facilitated by Kevin Waugh 
 
-If you are not sure if you have you have the skills, check with me (Kevin)
+Important:
+1. You need a laptop (or PC) or have talked to us about using one of our spares.
+2. [Say your coming here][IntrestForm]
 
 [Find out more…](/groups/robotics)
 
-# Technohackers Coding
+# Technohackers Coding Group
 
 ## Ages 9+, Thursday 3:15 to 5:00pm.
 
@@ -56,9 +57,8 @@ Before you can create your own AI overlord, make a billion dollars with your gam
 Facilitated by Kevin Waugh and the senior QRL members.
 
 Important:
-1. This group starts in the 2rd week (Thursday 11th)
-2. You need a laptop (or PC) or have talked to us about using one of our scarce spares. Chrome books and tablets are not ideal but might be ok at the beginning.
-3. [Say your coming here][IntrestForm]
+1. You need a laptop (or PC) or have talked to us about using one of our scarce spares. Chrome books and tablets are not ideal but might be ok at the beginning.
+2. [Say your coming here][IntrestForm]
 
 [Find out more and registration…](/groups/coding)
 
@@ -66,12 +66,11 @@ Important:
 
 ## Teens, Thursday 5:30pm to 8:30pm.
 
-This is teens only (13+) and it is our time for ANY project. Any. It could be coding, making, designing, whatever. Really. If you are into something, be into it with others. This is a social, clever, weird, play time. We have a shared unhealthy dinner, so bring $10 (it is usually between $5 and $8). Now we have a kitchen we might have a go at cooking a few. I am open to ideas.
+This is teens only (13+) and it is our time for ANY project. Any. It could be coding, making, designing, whatever. Really. If you are into something, be into it with others. This is a social, clever, weird, play time. We have a shared unhealthy dinner, so bring $8 to join in on that. Now we have a kitchen we might have a go at cooking at some point. I am open to ideas.
 
 Facilitated by Sheldon White and Kevin Waugh
 
 1. [Say your coming here][IntrestForm]
-2. This week we will have no games after 6pm (but we are going to be open at 3pm)
 
 [Find out more and registration…](/groups/questionable)
 
