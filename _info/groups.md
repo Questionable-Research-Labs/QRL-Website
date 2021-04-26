@@ -79,7 +79,7 @@ Facilitated by Sheldon White and Kevin Waugh
 
 # Game Night in the Lab
 
-## Teens, Friday 6:30pm.
+## Teens and Up, Friday 6:30pm.
 
 Would you like to have a go playing creative imaginative games? This is your time! Board games, card games, Dungeons & Dragons - we will play it all! If you have an existing group and would like to come together to play in a social environment, bring your group and join us.
 
