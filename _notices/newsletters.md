@@ -1,10 +1,9 @@
 ---
 title: Term 2 Newsletter
 author: Questionable Research Labs
-date: "2021-4-27 12:35:00"
+date: "2021-4-26 8:06:24"
 layout: default
 ---
-
 # Latest Email Newsletter
 
 ## **23 April 2021**
