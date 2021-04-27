@@ -19,7 +19,7 @@ At Questionable Research Labs we:
 
 <br>
 
-We see technology as the **intersection** of Science, Design and Engineering. Questionable Research Labs is this broad fun space. We indiscriminately love it all.
+We see technology as the **intersection** of Science, Design and Engineering. We PLAY in this broad fun space and indiscriminately love it all.
 
 ![Questionable Research Labs Model](/info-page-assets/about/QRL_SciTech_Art.png)
 
