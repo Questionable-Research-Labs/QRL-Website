@@ -7,9 +7,10 @@ layout: default
 ---
 
 Questionable Research Labs PLAY with all things related to Science, Design and Engineering.
+
 Our Goal: To provide a purposeful environment to expand and challenge the world of curious people. A space for the geek, creator and idea breaker in us all.
 
-As Questionable we:
+At Questionable Research Labs we:
 
 1. Love to play with ideas and try things out.
 2. Are ok with not knowing what we are doing.
