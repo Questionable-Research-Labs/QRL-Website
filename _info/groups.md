@@ -55,7 +55,6 @@ Important:
 ## Ages 9+, Thursday 3:15 to 5:00pm.
 
 Before you can create your own AI overlord, make a billion dollars with your game, or construct your mind-controlled VR game, you need to play with code. This group is for doing just that with friends. Our older members help out and we also teach each other.
-
 Facilitated by Kevin Waugh and the senior QRL members.
 
 Important:

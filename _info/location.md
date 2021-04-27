@@ -6,6 +6,7 @@ order: 1
 layout: default
 ---
 We are now running out of the ground floor of Manaia House in Rathbone St.
+- We will have this space for till later this year when it is redeveloped. 
 
 <iframe
     width="600"
@@ -16,7 +17,5 @@ We are now running out of the ground floor of Manaia House in Rathbone St.
     style="display:block;margin: 0 auto;"
     allowfullscreen>
 </iframe>
-
- - We will have this space for till later this year when it is redeveloped. 
-
+ 
 <img src="/info-page-assets/location/entrance_o.png" style="float: center">
