@@ -10,7 +10,7 @@ Kevin via our contact page… If you are looking for the sign up page [here is a
 
 # Geek Girls Group
 
-## Monday 3:15 to 5pm(ish)	 
+## Monday 3:15 to 5pm(ish), starts in week 2
 To all girls out there, this is a new group at QRL. It's meant to be an exploration space for anything geekie and tech! We might look into game development, graphic design, music making, video making, coding or even wildly creative mechanical projects. It can range from simple to very complex, and we'll figure it out on the way. The weirder, the better - as long as fun is a thing!
 
 Facilitated by Verena Pschorn.
