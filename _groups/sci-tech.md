@@ -26,7 +26,7 @@ Last term we messed with Electricity and this term we will be getting into Biolo
 - If a young person is not collected and we are unable to contact their family by 6:30pm, the police will be notified. It’s never happened but in the chaos of everyday life it might, this is just so you
   know the process.
 - We encourage parents with skills or interest to help out and we also focus on peer tutoring and support.
-- It is free to attend all our groups but we encorage parents to become patrons to support us if it can be afforded. For more info see this page [membership](/info/membership) 
+- It is free to attend all our groups but we encourage parents to become patrons to support us if it can be afforded. For more info see this page [membership](/info/membership) 
 - For further information please email kevin@questionable.org.nz
 - We are always on the lookout for sponsorship.
 

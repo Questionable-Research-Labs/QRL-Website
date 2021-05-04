@@ -16,7 +16,7 @@ Group Attendance is Free.
 
 
 ## Membership
-To be a Member of Questionable Research Labs and attend our groups you need only to sign-up. Yes that is all. Here is the 2021 membership form.
+To be a Member of Questionable Research Labs and attend our groups you need only to sign-up. Yes that is all. [https://forms.gle/pecSy5FPEMsm8KuQ6](Here is the 2021 membership form).
 To attend one or more of the groups you will need to let us know first so we can fit you in.
 
 One off events, workshops and general holiday activities will have a separate sign-up form. To attend these you should always use those forms so we know you are coming. 
