@@ -15,11 +15,8 @@ We will be looking into all sorts of scientific experiments, from making slime t
 
 Facilitated by Verena Pschorn.
 
-Important: 
-
-1. This group starts again in the first week of term 2 (Monday 3rd)
-2. Because this is a new group - let people know about it. Spread the word.
-3.  [Say your coming here][IntrestForm]
+1. Because this is a new group - let people know about it. Spread the word.
+2.  [Say your coming here][IntrestForm]
 
 <!-- [Find out more and registration here…](/groups/geek-girls-group) -->
 
@@ -30,11 +27,8 @@ For those 13+.  Unlike the earlier group, we will get more into coding, game des
 
 Facilitated by Verena Pschorn.
 
-Important: 
-
-1. This group starts again in the first week of term 2 (Monday 3rd)
-2. Because this is a new group - let people know about it. Spread the word.
-3.  [Say your coming here][IntrestForm]
+1. Because this is a new group - let people know about it. Spread the word.
+2.  [Say your coming here][IntrestForm]
 
 
 # Science and Technology Group
@@ -45,8 +39,6 @@ Important:
 
 This group is all about looking at the world with our sciencey brains turned on. We dig into anything that seems interesting and attempt experiments or challenges. Things sometimes go as we expect and sometimes not (but we like that too). Every term it is a different topic. Last term it was Electricity and it was a bit shocking, this term is going to be both disgusting and tasty as we look at Fungi (Biology). Facilitated by Kevin Waugh.
 
-Facilitated by Kevin Waugh
-
 Important... [Say your coming here][IntrestForm]
 
 <!-- [Find out more and registration here…](/groups/sci-tech) -->
@@ -55,7 +47,7 @@ Important... [Say your coming here][IntrestForm]
 
 ## Wednesday 3:15 to 5:00pm.
 
-This is a new group this term. Participants are expected to have some basic python coding skills - just check with us if you are unsure. As with everything we do, it is mostly "learn as you go" but Python will be the main language so it is good to have a head start. We will probably be creating some crazy autonomous mobile AI robots. Facilitated by Kevin Waugh 
+This is a new group this term. Participants are expected to have some basic python coding skills - just check with us if you are unsure. As with everything we do, it is mostly "learn as you go" but Python will be the main language so it is good to have a head start. We will probably be creating some crazy autonomous mobile AI robots. Facilitated by Sheldon White and Kevin Waugh 
 
 Important:
 
