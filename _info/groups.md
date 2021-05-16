@@ -8,10 +8,10 @@ layout: default
 We are currently running the following groups. If you wish to join a group or help form a new group focusing on your own area of interest, please get in touch with
 Kevin via our contact page… If you are looking for the sign up page [here is a link](https://forms.gle/NVy8Nwq8rgY2tUZq6).
 
-# Geek Girls Group
+# Girls Lab Group
 
-## Monday 3:15 to 5pm(ish), starts in week 2
-To all girls out there, this is a new group at QRL. It's meant to be an exploration space for anything geekie and tech! We might look into game development, graphic design, music making, video making, coding or even wildly creative mechanical projects. It can range from simple to very complex, and we'll figure it out on the way. The weirder, the better - as long as fun is a thing!
+## Monday 3:15 to 5pm.
+We will be looking into all sorts of scientific experiments, from making slime to building bridges and experimenting with electricity. This group is primarily for those up to 12yrs old but if you are older and think that sounds like fun, you are most welcome to join us as well. 
 
 Facilitated by Verena Pschorn.
 
@@ -23,9 +23,23 @@ Important:
 
 <!-- [Find out more and registration here…](/groups/geek-girls-group) -->
 
+# Girls Lab Group (Older group)
+
+## Monday 5pm to 6:30pm, Teens.
+For those 13+.  Unlike the earlier group, we will get more into coding, game design and web design. You can also bring your own techie projects. We are totally fine with you coming in anytime after school (while the younger group is running) to hangout and use the computers for your projects. 
+
+Facilitated by Verena Pschorn.
+
+Important: 
+
+1. This group starts again in the first week of term 2 (Monday 3rd)
+2. Because this is a new group - let people know about it. Spread the word.
+3.  [Say your coming here][IntrestForm]
+
+
 # Science and Technology Group
 
-## Ages 9+, Tuesday 3:15 to 5pm(ish).
+## Tuesday 3:15 to 5pm(ish), Ages 9+.
 
 <img src="/info-page-assets/groups/experment_o.png" style="float: right">
 
@@ -39,7 +53,7 @@ Important... [Say your coming here][IntrestForm]
 
 # Robotics Group
 
-## Wednesday 3:15 to 5:00pm(ish).
+## Wednesday 3:15 to 5:00pm.
 
 This is a new group this term. Participants are expected to have some basic python coding skills - just check with us if you are unsure. As with everything we do, it is mostly "learn as you go" but Python will be the main language so it is good to have a head start. We will probably be creating some crazy autonomous mobile AI robots. Facilitated by Kevin Waugh 
 
@@ -52,7 +66,7 @@ Important:
 
 # Technohackers Coding Group
 
-## Ages 9+, Thursday 3:15 to 5:00pm.
+## Thursday 3:15 to 5:00pm, Ages 9+.
 
 Before you can create your own AI overlord, make a billion dollars with your game, or construct your mind-controlled VR game, you need to play with code. This group is for doing just that with friends. Our older members help out and we also teach each other.
 Facilitated by Kevin Waugh and the senior QRL members.
@@ -66,7 +80,7 @@ Important:
 
 # Questionable Projects Group
 
-## Teens, Thursday 5:30pm to 8:30pm.
+## Thursday 5:30pm to 8:30pm, Teens.
 
 This is teens only (13+) and it is our time for ANY project. Any. It could be coding, making, designing, whatever. Really. If you are into something, be into it with others. This is a social, clever, weird, play time. We have a shared unhealthy dinner, so bring $8 to join in on that. Now we have a kitchen we might have a go at cooking at some point. I am open to ideas.
 Facilitated by Sheldon White and Kevin Waugh
@@ -79,7 +93,7 @@ Important... [Say your coming here][IntrestForm]
 
 # Game Night in the Lab
 
-## Teens and Up, Friday 6:30pm.
+## Friday 6:30pm, Teens and Up.
 
 Would you like to have a go playing creative imaginative games? This is your time! Board games, card games, Dungeons & Dragons - we will play it all! If you have an existing group and would like to come together to play in a social environment, bring your group and join us.
 
