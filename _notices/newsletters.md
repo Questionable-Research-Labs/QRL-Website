@@ -57,6 +57,7 @@ HELP: If someone has the time on Monday/Tuesday to get our Fungi photos printed 
 > **Week 2:**
 
 >> TUESDAY 20th:  Not Serious day number 2
+
 >> WEDNESDAY 21st:  Serious day number 2
 
 
@@ -77,7 +78,7 @@ HELP: If someone has the time on Monday/Tuesday to get our Fungi photos printed 
 
 
 
-**Message from Kim**
+**Message from Kim**<br />
 **HOUSEKEEPING** – Many hands make light work!  
 At the end of the session the kids do a pretty decent job at tidying up the majority of the space but there are areas which are left to the facilitators.  I would like to ask that the caregivers who collect their children at the end of the sessions, pitch in every so often to help with these ten minute chores. The first area I am looking at is the toilets. I will be posting a sign-off sheet and cleaning guide in the bathroom. If you have a few minutes to spare, please check to see if it has already been signed off for the day, and if it hasn’t, your help would be very much appreciated!
 If you have any questions, please do not hesitate to speak to the facilitators at the Lab or send me an email at [kim@questionable.org.nz](mailto:kim@questionable.org.nz).
