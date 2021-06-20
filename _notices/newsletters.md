@@ -12,10 +12,7 @@ layout: default
 Term 2 Week 8 Email
 
 Hello all,
-Important information below. 
-
-But who knows where it is? That’s right, you need to read it all. This is the sort of cruel and inhuman punishment schools use with students every day and obviously they must do it for a good reason.
-
+There is Important information below. But who knows where it is? That’s right, you need to read it all. This is the sort of cruel and inhuman punishment schools use with students every day and obviously they must do it for a good reason.
 So in a discombobulating order we have:
 
 1/ **The word of the day** is “discombobulated”. Arise, you vastly underutilized beautiful word.
@@ -40,13 +37,13 @@ HELP: If someone has the time on Monday/Tuesday to get our Fungi photos printed 
 1/ **HELP**: Please please, check the lost property for things that might have been left behind or [check out the pictures here](https://drive.google.com/drive/folders/1y9H_YkerXTbWqJQPqXhJXSzIAgzKvRDx?usp=sharing). Jackets, sweatshirts, drink bottles, a 2 Rupee coin, a ring. If it is not grafted to their skin it is probably in our heap. It is growing exponentially and we have calculated the mass of lost property will exceed the mass of the earth 2.4 years. Exponential growth is a killer! 
 
 
-1/ **HOLIDAYS**: The first week of the Holidays will be busy in the lab. The second week is a bit quieter. Teens/adults with projects to work on can use the labs on the quiet days as well. Here is what we have. [Read the details on the website](https://questionable.org.nz/notices/holiday-program/) and use ([this sign-up form](https://forms.gle/ezSTyrJ6b6nkGASg9):
+1/ **HOLIDAYS**: The first week of the Holidays will be busy in the lab. The second week is a bit quieter. Teens/adults with projects to work on can use the labs on the quiet days as well. Here is what we have. [Read the details on the website](https://questionable.org.nz/notices/holiday-program/) and use [this sign-up form](https://forms.gle/ezSTyrJ6b6nkGASg9):
 
-**Week 1:**
+> **Week 1:**
 
-MONDAY, 12th: Non-digital Game Day. 
-*	Board games, card games, D&D, NERF fights and more.
-*	Teens can stay overnight.
+>> MONDAY, 12th: Non-digital Game Day. 
+>>> Board games, card games, D&D, NERF fights and more.
+>>>	Teens can stay overnight.
 
 TUESDAY, 13th: Not Serious day. 
 *	Bring your computer for a social play time with maybe some accidental seriousness.
