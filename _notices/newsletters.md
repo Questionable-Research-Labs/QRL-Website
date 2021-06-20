@@ -1,7 +1,7 @@
 ---
 title: Latest Newsletter
 author: Questionable Research Labs
-date: "2021-6-20 8:06:24"
+date: "2021-6-19 8:06:24"
 layout: default
 ---
 # Latest Email Newsletter
