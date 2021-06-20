@@ -45,20 +45,19 @@ HELP: If someone has the time on Monday/Tuesday to get our Fungi photos printed 
 >>> Board games, card games, D&D, NERF fights and more.
 >>>	Teens can stay overnight.
 
-TUESDAY, 13th: Not Serious day. 
-*	Bring your computer for a social play time with maybe some accidental seriousness.
+>> TUESDAY, 13th: Not Serious day. 
+>>>	Bring your computer for a social play time with maybe some accidental seriousness.
 
-WEDNESDAY 14th: Serious day.
-*	Working on projects or learning something in our social clever space.
+>> WEDNESDAY 14th: Serious day.
+>>>	Working on projects or learning something in our social clever space.
 
-FRIDAY 16th: Fix/Break/Recycle Day
-*	Dismantle, look inside, recycle or even fix and reuse? Bring electronic junk and almost junk. 
+>> FRIDAY 16th: Fix/Break/Recycle Day
+>>>	Dismantle, look inside, recycle or even fix and reuse? Bring electronic junk and almost junk. 
 
-**Week 2:**
+> **Week 2:**
 
-TUESDAY 20th:  Not Serious day number 2
-
-WEDNESDAY 21st:  Serious day number 2
+>> TUESDAY 20th:  Not Serious day number 2
+>> WEDNESDAY 21st:  Serious day number 2
 
 
 1/ **FUNDING**: If you are not a patron [(see this page)](https://questionable.org.nz/info/membership/) and can manage it, give it a go. It is how our community is able to exist.
@@ -77,13 +76,13 @@ WEDNESDAY 21st:  Serious day number 2
 	**HELP**: Social media wizards are needed to help with this. Maybe also Instagram and Twitter etc accounts would be good if there is someone able to do that? Talk to Verena if interested: [verena@questionable.org.nz](mailto:verena@questionable.org.nz) or 0276073711
 
 
-~~~~~~~~~~~~~~~~~
-Message from Kim
-**HOUSEKEEPING** –Many hands make light work!  At the end of the session the kids do a pretty decent job at tidying up the majority of the space but there are areas which are left to the facilitators.  I would like to ask that the caregivers who collect their children at the end of the sessions, pitch in every so often to help with these ten minute chores.  The first area I am looking at is the toilets.  I will be posting a sign-off sheet and cleaning guide in the bathroom.  If you have a few minutes to spare, please check to see if it has already been signed off for the day, and if it hasn’t, your help would be very much appreciated!
 
+**Message from Kim**
+**HOUSEKEEPING** – Many hands make light work!  
+At the end of the session the kids do a pretty decent job at tidying up the majority of the space but there are areas which are left to the facilitators.  I would like to ask that the caregivers who collect their children at the end of the sessions, pitch in every so often to help with these ten minute chores. The first area I am looking at is the toilets. I will be posting a sign-off sheet and cleaning guide in the bathroom. If you have a few minutes to spare, please check to see if it has already been signed off for the day, and if it hasn’t, your help would be very much appreciated!
 If you have any questions, please do not hesitate to speak to the facilitators at the Lab or send me an email at [kim@questionable.org.nz](mailto:kim@questionable.org.nz).
 
-~~~~~~~~~~~~~
+
 
 
 That's it you have reached the end of the email and your life can begin again. Well done.
