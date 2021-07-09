@@ -24,12 +24,12 @@ Working on projects or learning something in our social clever space.
 Dismantle, look inside, recycle or even fix and reuse? Bring electronic junk and almost junk. 
 
 ### Week 2:
-**TUESDAY 20th**: Not Serious day number 2
-**WEDNESDAY 21st**: Serious day number 2
+**TUESDAY 20th**: Not Serious day number 2<br /> 
+**WEDNESDAY 21st**: Serious day number 2<br /> 
 
 
-
-The program is held in the Labs - Manaia House in Rathbone St (ground floor, Dent St end of the building, opposite the Honda dealership). Here is a map. [link to the location page on the website]
+##MORE INFORMATION
+The program is held in the Labs - Manaia House in Rathbone St (ground floor, Dent St end of the building, opposite the Honda dealership). [Here is a map](https://questionable.org.nz/info/location/)
 
 All days open at 8:30am and finish at 5:00pm (5:30 late pickup). 
 We provide plenty of fruit and water. Lunch is always included.
