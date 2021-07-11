@@ -37,30 +37,45 @@ body {
 
 .page-header {
     background: transparent;
+    a {
+        color: white;
+        text-decoration: none;
+        transition: 0.2s linear all;
+        display: block;
+        border: solid 3px rgba(255, 255, 255, 0);
+
+        
+        .project-name-short {
+            display: none;
+        }
+        
+        .project-name {
+            display: block;
+        }
+        
+        .project-name-short,
+        .project-name {
+            line-height: 1.5em;
+            font-size: 2.5em;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            margin: 0;
+            color: var(--page-main-color);
+        }
+        
+        .project-tagline {
+            margin-bottom: 0;
+        }
+
+        &:hover {
+            border: solid 3px rgba(255, 255, 255, 0.781);
+        }
+    }
+
 }
 
-h1.project-name-short {
-    display: none;
-}
 
-h1.project-name {
-    display: block;
-}
-
-h1.project-name-short,
-h1.project-name {
-    line-height: 1.5em;
-    font-size: 2.5em;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.3em;
-    margin: 0;
-    color: var(--page-main-color);
-}
-
-h2.project-tagline {
-    margin-bottom: 0;
-}
 
 .main-content {
     background: black;
