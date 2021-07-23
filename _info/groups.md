@@ -3,7 +3,7 @@ title: Groups Term 3
 author: Questionable Research Labs
 layout: default
 ---
-[IntrestForm]: https://forms.gle/yAyXE2NEvdea2uv38
+[IntrestForm]: https://forms.gle/RZJiJjx73eRLPPRv5
 
 We are currently running the following groups. If you wish to join a group or help form a new group focusing on your own area of interest, please get in touch with
 Kevin via our contact page. If you are looking for the group sign up page [here is a link][IntrestForm].
