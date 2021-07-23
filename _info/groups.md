@@ -1,12 +1,12 @@
 ---
-title: Groups Term 2
+title: Groups Term 3
 author: Questionable Research Labs
 layout: default
 ---
-[IntrestForm]: https://forms.gle/UcR16rzizY9wP1ba8
+[IntrestForm]: https://forms.gle/yAyXE2NEvdea2uv38
 
 We are currently running the following groups. If you wish to join a group or help form a new group focusing on your own area of interest, please get in touch with
-Kevin via our contact page… If you are looking for the sign up page [here is a link](https://forms.gle/NVy8Nwq8rgY2tUZq6).
+Kevin via our contact page. If you are looking for the group sign up page [here is a link][IntrestForm].
 
 # Girls Lab Group
 
@@ -37,7 +37,7 @@ Facilitated by Verena Pschorn.
 
 <img src="/info-page-assets/groups/experment_o.png" style="float: right">
 
-This group is all about looking at the world with our sciencey brains turned on. We dig into anything that seems interesting and attempt experiments or challenges. Things sometimes go as we expect and sometimes not (but we like that too). Every term it is a different topic. Last term it was Electricity and it was a bit shocking, this term is going to be both disgusting and tasty as we look at Fungi (Biology). Facilitated by Kevin Waugh.
+This group is all about looking at the world with our sciencey brains turned on. We dig into anything that seems interesting and attempt experiments or challenges. Things sometimes go as we expect and sometimes not (but we like that too). Every term it is a different topic. Last term it was Fungi and this term we are going to be looking at DISASTERS. From Earthquakes and Tsunami's to Asteroids and takeover by our AI Overlords. Facilitated by Kevin Waugh. 
 
 Important... [Say your coming here][IntrestForm]
 
@@ -47,7 +47,7 @@ Important... [Say your coming here][IntrestForm]
 
 ## Wednesday 3:15 to 5:00pm.
 
-This is a new group this term. Participants are expected to have some basic python coding skills - just check with us if you are unsure. As with everything we do, it is mostly "learn as you go" but Python will be the main language so it is good to have a head start. We will probably be creating some crazy autonomous mobile AI robots. Facilitated by Sheldon White and Kevin Waugh 
+This is a new group this term. Participants are expected to have some basic python coding skills - just check with us if you are unsure. As with everything we do, it is mostly "learn as you go" but Python will be the main language so it is good to have a head start. We will be working on and racing some crazy autonomous mobile AI robots. There is a waiting list for this group sorry (put your name down and we will get back to you). Facilitated by Sheldon White and Kevin Waugh 
 
 Important:
 
@@ -89,7 +89,7 @@ Important... [Say your coming here][IntrestForm]
 
 Would you like to have a go playing creative imaginative games? This is your time! Board games, card games, Dungeons & Dragons - we will play it all! If you have an existing group and would like to come together to play in a social environment, bring your group and join us.
 
-Put your name on this form [HERE](https://forms.gle/jbzEoyHacFBgJp817) so we can contact you.
+Put your name on this form [HERE][IntrestForm] so we can contact you.
 
 Friday at 6.30 in the Lab. Bring snacks and drinks. Our goal is to meet every week at this stage. 
 
