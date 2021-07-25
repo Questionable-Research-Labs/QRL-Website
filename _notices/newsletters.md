@@ -1,95 +1,47 @@
 ---
 title: Latest Newsletter
 author: Questionable Research Labs
-date: "2021-6-19 8:06:24"
+date: "2021-7-24 8:06:24"
 layout: default
 ---
 # Latest Email Newsletter
 
-## **20 June 2021**
+## **25 July 2021**
 
 
-Term 2 Week 8 Email
+Term 3 Week 0 Email</br>
 
-Hello all,<br>
-There is Important information below. But who knows where it is? That’s right, you need to read it all. This is the sort of cruel and inhuman punishment schools use with students every day and obviously they must do it for a good reason. <br>
-So in a discombobulating order we have:
+Hello interesting people,</br>
+Here below is a bit of a large Questionable Research Labs catch-up: 
+**Term 3 Groups**
+Our groups will mainly continue like last term.
+*	The Tuesdays Science Group will be focussing on disasters of all sorts.
+*	The Monday younger Girls Lab group will be taking on Problem Solving (I hope that's no problem?).
+*	The Wednesday Robotics group might be able to accept another couple of members.
+*	The Thursday coding group and Thursday Questionable Projects Group will continue as before.
+You can read more about the [groups here](https://questionable.org.nz/info/groups/), and while you're at it, please sign up! We are more public this year and things are getting busier and we might be at the point of some waiting lists - so put your names down for what you are wanting to attend.</br>
+**Recently:**</br>
+The Terrible Ideas Hackathon our teens attended in Auckland was a wild creative adventure. They completed 3 terrible projects in the weekend. One can be seen as you come in the main entrance to the Lab. It's a dice rolling robot - streaming live [on Twitch HERE](https://twitch.tv/truerandomqrl) and controlled by sending it a chat message of *!roll*  The robot rolls the dice and a bit of AI reads the dice and lets you know the result. It is ever so terribly cool and pointless.</br>
+There is another project a bit further into the Lab. It's a spicy chess game (Zap Chess). This chess board will shock you if you take too long to make your move, and also magnets in the board prevent you from making some moves. This is a gorgeous piece of design that is terrible in its impact on your game play and anxiety levels. It is worth checking out the videos Ara put together of this on [our youtube channel here](https://www.youtube.com/channel/UCGOVwhmDK7drWZqfBZ5JgGw)</br>
+**Also recently:**</br>
+In fact, right now as I type this, we have a small team of 5 down at Auckland Uni’s Unleash Space competing in KiwiJam, a 48hr game making competition. It is about 11pm at night and we are about to get kicked out till 8am tomorrow morning. They are working on a 3D Tetris game in VR. Blocks come in from any direction and your hand controls the cube they must attach to (so you rotate the cube to land the pieces). This is a seriously hard thing to build - not clear yet if it is achievable in the time they have, but they are going for it. </br>
+**And Soon:**<br>
+*	*GovHack* (20.-22. August in the Labs) - The Whangarei node of an International 48 hour data science and app development competition, utilizing government and other open data. The [sign up is here](https://docs.google.com/spreadsheets/d/1UhTW98BuNCWg1k6J--XQj652ssznGw3b9SQXzdp8Qvg/edit?resourcekey#gid=375409997). This is the [website](https://govhack.org/). I will talk to people more about that as the date approaches. It requires all sorts of skills (including video and graphics).</br>
+*	*Cosplay Picnic*  (1st Aug ) -  This one is for Lab dwellers in weird and colourful costumes! Everyone is invited to the first Northland cosplay picnic (to our knowledge...): This is next Sunday, 1st of August, 11am to 3pm, Cafler Park (next to the library)! Come in cosplay, bring something to eat or drink, come hang out and play some games and get some photos taken! If the weather is bad, it will take place in the Labs. Keep up to date on [this Facebook page](https://www.facebook.com/events/558786705145664) </br> 
 
-1/ **The word of the day** is “discombobulated”. Arise, you vastly underutilized beautiful word.
+**Things we need/ Want to help?/ Skills list**
+A huge thank you to everyone who filled our space with awesome stuff over the last months - it feels like a totally chaotic, creative, almost perfect home! To make the Labs an even more welcoming place for all, we want to create a quiet space for those of us that need to escape when things get a bit raucous. This will be done in the current soft space. A more active space will be created in the less used conference room. To do this we need to redecorate a bit, which is why we are looking for a few couches, long curtains and more soft things. Have a look at [our things needed list here](https://docs.google.com/spreadsheets/d/1TFQmqTltRlaX5r1e8LUO2exS7xOVmQVlGUr9vOLg6N4/edit#gid=0) - if you can help out, get in contact.</br>
+There are also many ways to help out - and maybe you are exactly the right person with some super niche knowledge about the secret life of slugs or something else that you would love to share? We have a [newly created and sort of empty list](https://docs.google.com/spreadsheets/d/1TFQmqTltRlaX5r1e8LUO2exS7xOVmQVlGUr9vOLg6N4/edit#gid=1880260434) with things you can help out with, and we also have a list where you can let us know which skills you would like to do workshops/talks/events on. Just put your name and skill in there, or write us an email and we'll get in contact with you.</br>
 
+**Other Upcoming INTERESTING Things**
+*	This term there will be several talks by amazing people: Someone from RocketLabs (hopefully), a Volcanologist and others</br>
+*	Seismograph building workshop (during school time, date to be confirmed)</br>
+*	Cosplay workshops (date to be confirmed)
+*	Kombucha making workshop (date to be confirmed)
+*	Sewing workshop (date to be confirmed) - learn how to use our sewing machine and overlocker machine
+*	Gaming for Charity (28./29. August in the Labs) - a weekend of non-digital games, board games, card games, D&D, larps and more
+*	Armageddon Expo Auckland (21.-25. October) - biggest expo for all things nerd, we will go down for a day in a happy swarm. Parents are welcome and needed if your creature is young.<br>
 
-1/ **THANKS** to those who provided plants for the lab. Most notably Sarah Reed who’s decorated pots you will admire. Maybe the 5 less decorative pots could get similar inspiration if someone young or older is keen. Probably starting with the containers.
-
-
-1/ **THANKS** to those who have brought in Jars and plastic containers. I think we now have a good stock. Job done.
-
-
-1/ **THANKS** to those who have helped with our reorganisation day. From the storage room having labeled box’s to the Bean Bags getting patches and reinforced seams. It made a significant difference. For Sheldon, Verena, Mac and I working with our youthful primates has been simplified. Nice.
-
-
-1/ **SCIENCE GROUP**: Bring in a sample of your Kombucha if it survived. And even if it didn't it might still have a story to tell. If your sourdough starter is still alive and not sentient, I dare you to make bread and bring a bit in. I will have another go with my one as well. On Tuesday, Tim from [Whangarei Gourmet Mushrooms](https://www.mushroomgourmet.co.nz/) will be here for a chat.  
-HELP: If someone has the time on Monday/Tuesday to get our Fungi photos printed out let me know. We will put them up on the wall. I can share a folder with the photos.
-
-
-1/ **T-Shirts**:  Still not done - so the list is still open, [put your name on this list](https://drive.google.com/drive/folders/1y9H_YkerXTbWqJQPqXhJXSzIAgzKvRDx?usp=sharing).
-
-
-1/ **HELP**: Please please, check the lost property for things that might have been left behind or [check out the pictures here](https://drive.google.com/drive/folders/1y9H_YkerXTbWqJQPqXhJXSzIAgzKvRDx?usp=sharing). Jackets, sweatshirts, drink bottles, a 2 Rupee coin, a ring. If it is not grafted to their skin it is probably in our heap. It is growing exponentially and we have calculated the mass of lost property will exceed the mass of the earth 2.4 years. Exponential growth is a killer! 
-
-
-1/ **HOLIDAYS**: The first week of the Holidays will be busy in the lab. The second week is a bit quieter. Teens/adults with projects to work on can use the labs on the quiet days as well. Here is what we have. [Read the details on the website](https://questionable.org.nz/notices/holiday-program/) and use [this sign-up form](https://forms.gle/ezSTyrJ6b6nkGASg9):
-
-> **Week 1:**
-
->> MONDAY, 12th: Non-digital Game Day. 
->>> Board games, card games, D&D, NERF fights and more.
->>>	Teens can stay overnight.
-
->> TUESDAY, 13th: Not Serious day. 
->>>	Bring your computer for a social play time with maybe some accidental seriousness.
-
->> WEDNESDAY 14th: Serious day.
->>>	Working on projects or learning something in our social clever space.
-
->> FRIDAY 16th: Fix/Break/Recycle Day
->>>	Dismantle, look inside, recycle or even fix and reuse? Bring electronic junk and almost junk. 
-
-> **Week 2:**
-
->> TUESDAY 20th:  Not Serious day number 2<br /> 
->> WEDNESDAY 21st:  Serious day number 2
-
-
-1/ **FUNDING**: If you are not a patron [(see this page)](https://questionable.org.nz/info/membership/) and can manage it, give it a go. It is how our community is able to exist.
-
-
-1/ **TERRIBLE IDEA HACKATHON**: 2-4th July. This is the weekend after next. This cool creative event is at Auckland Uni (Unleash Space). We will head down on Friday for the kick-off in the evening, then we will stay down there till we flee back home on Sunday afternoon. You need to put your name on 2 lists: [Our list here](https://forms.gle/gMeVdidvgZxkGh327) and then also the actual [event sign-up here](https://terriblehack.nz/). Parents coming down and teens both need to do both those sign-ups. Costs will be around $60ish for shared transport and food. Sleeping bag plus stretcher or mat is needed as well as survival equipment like phone charger etc You know the story.
-
-
-1/ **HELP**: If you think it is a good idea for us to do X, and you have 30 seconds in your life that is free, volunteer to help make it happen. That is a good way to contribute.
-
-
-1/ **KIWIJAM**: July 23-25th. Also at Auckland Uni, so another weekend away for teens. 48hr Game Development competition. Put this date onto a calendar of some sort and put your name on [our sign-up form here](https://forms.gle/88qgNRMDfeXmMX1X7). Also please do the [official sign up here](https://kiwijam.org/). 
-
-
-1/ **SOCIAL MEDIA**: [https://www.facebook.com/questionablerresearchlabs](https://www.facebook.com/questionablerresearchlabs)
-	**HELP**: Social media wizards are needed to help with this. Maybe also Instagram and Twitter etc accounts would be good if there is someone able to do that? Talk to Verena if interested: [verena@questionable.org.nz](mailto:verena@questionable.org.nz) or 0276073711
-
-
-
-**Message from Kim**<br />
-**HOUSEKEEPING** – Many hands make light work!<br />   
-At the end of the session the kids do a pretty decent job at tidying up the majority of the space but there are areas which are left to the facilitators.  I would like to ask that the caregivers who collect their children at the end of the sessions, pitch in every so often to help with these ten minute chores. The first area I am looking at is the toilets. I will be posting a sign-off sheet and cleaning guide in the bathroom. If you have a few minutes to spare, please check to see if it has already been signed off for the day, and if it hasn’t, your help would be very much appreciated!
-If you have any questions, please do not hesitate to speak to the facilitators at the Lab or send me an email at [kim@questionable.org.nz](mailto:kim@questionable.org.nz).
-
-
-
-
-That's it you have reached the end of the email and your life can begin again. Well done.
-
-Cheers from
+The next holidays are approaching fast... A day or so later it will be Xmas and then in just another few weeks later it is the year 2037. Time is so annoyingly slippery that the future is almost yesterday before it gets the chance to really be the future. Do your best to make the most of the moments you have right now, it’s the only time that actually exists.</br></br>
+Cheers<br>
 Kevin, Verena, Sheldon Mac and Kim (and ALL the other hidden contributors to our community)
-
-
-
-
