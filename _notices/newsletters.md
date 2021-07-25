@@ -9,9 +9,9 @@ layout: default
 ## **25 July 2021**
 
 
-Term 3 Week 0 Email</br>
+#Term 3 Week 0 Email<br>
 
-Hello interesting people,</br>
+Hello interesting people,<br>
 Here below is a bit of a large Questionable Research Labs catch-up: 
 **Term 3 Groups**
 Our groups will mainly continue like last term.
