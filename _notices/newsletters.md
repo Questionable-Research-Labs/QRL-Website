@@ -6,10 +6,8 @@ layout: default
 ---
 # Latest Email Newsletter
 
-## **25 July 2021**
+## **25 July 2021** Term 3 Week 0 Email
 
-
-#Term 3 Week 0 Email<br>
 
 Hello interesting people,<br>
 Here below is a bit of a large Questionable Research Labs catch-up: 
