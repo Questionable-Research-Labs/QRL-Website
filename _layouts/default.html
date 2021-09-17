@@ -30,7 +30,11 @@
   </style>
   <script>
     function closeButton() {
-      window.location = document.referrer
+      // if (document.referrer.indexOf(location.protocol + "//" + location.host) === 0 && document.referrer!==window.location) {
+      //   window.location = document.referrer
+
+      // };
+      window.location = "/"
     }
   </script>
 </head>
