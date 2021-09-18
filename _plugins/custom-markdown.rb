@@ -9,6 +9,7 @@ class Jekyll::Converters::Markdown::CustomMarkdown
   end
 
   def convert(content)
-    Kramdown::Document.new(content).to_html
+    html = Kramdown::Document.new(content).to_html
+    html_with_target_none = html.gsub(/<a/,"<a target='_none'")
   end
 end

@@ -86,13 +86,9 @@ body {
 
     .summary {
         color: rgb(206, 206, 206);
-        font-style: italic;
-        .reading_time {
-            text-align:left;
-        }
-        .date {
-            float: right;
-        }
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
 }
 
