@@ -38,5 +38,13 @@ sass:
   style: compressed
   sass_dir: assets/css/
 
+
 exclude:
   - photo-compressor/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
