@@ -10,6 +10,6 @@ class Jekyll::Converters::Markdown::CustomMarkdown
 
   def convert(content)
     html = Kramdown::Document.new(content).to_html
-    html_with_target_none = html.gsub(/<a/,"<a target='_none'")
+    html_with_target_none = html.gsub(/<a/,"<a target='_blank' rel='noopener'")
   end
 end

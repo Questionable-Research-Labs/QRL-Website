@@ -136,26 +136,12 @@
       <!--Calculates the projects to display, prioritizing pinned projects, and cutting out duplicates-->
       {%
         assign displayed_projects = pinned_projects | concat: sorted_projects
-        | uniq | slice: 0,6
+        | uniq
       %}
 
       <div class="projects-wrapper bottom">
         <div class="projects bottom">
-          {% for project in displayed_projects limit: 3 %}
-          <a href="{{project.url}}" class="project">
-            <article>
-              <div class="project-bg" style="background-image: url({{project.thumbnail}});"></div>
-              <div class="project-bg-overlay"></div>
-              <h2 class="project-title">{{project.title}}</h2>
-            </article>
-          </a>
-          {% endfor %}
-        </div>
-      </div>
-
-      <div class="projects-wrapper bottom">
-        <div class="projects bottom">
-          {% for project in displayed_projects offset: 3 %}
+          {% for project in displayed_projects%}
           <a class="project" href="{{project.url}}">
             <article>
               <div class="project-bg" style="background-image: url({{project.thumbnail}});">
