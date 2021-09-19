@@ -142,6 +142,9 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    .project-archive {
+        border: var(--link-boarder-width) solid #ffffff;
+    }
     .project {
         color: white;
         max-width: 400px;

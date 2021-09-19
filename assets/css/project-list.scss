@@ -4,6 +4,11 @@
 $project-height: 8em;
 $project-width: 300px;
 
+
+.page-header {
+	color: var(--page-main-color);
+}
+
 .project-list-wrapper {
 	display: flex;
 	flex-direction: column;

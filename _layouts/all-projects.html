@@ -22,17 +22,14 @@
 	<link rel="stylesheet" href="/assets/css/defualt.css?v={{ site.time | date:'%s' }}">
 	<link rel="stylesheet"
 		href="/assets/css/project-list.css?v={{ site.time | date:'%s' }}">
-	<style>
-		:root {
-			--page-main-color: {
-					{
-					page.color | default: "#ffeb3b"
-				}
-			}
-
-			;
+	<script>
+		// Generate Pastel Colours
+		function getColor(){ 
+			return `hsl(${360 * Math.random()},100%,${85 + 10 * Math.random()}%)`
 		}
-	</style>
+
+		document.documentElement.style.setProperty('--page-main-color', getColor());
+	</script>
 	<link rel="icon" href="/img/favicon.ico">
 </head>
 
@@ -46,7 +43,6 @@
 
 	<main id="content" class="main-content" role="main">
 		<button class="back" onclick="history.back(-1)">✖</button>
-	  {{ content }} -->
 		<div class="project-list-wrapper">
 
 			{% assign projects = site.projects | sort:'date' | reverse %}

@@ -4,7 +4,7 @@ color: "#8eb2f5"
 title: "True Random"
 description: "Simple to use API Gateway to access the mess of Huanui Collage Public data with ease."
 author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a>"
-thumbnail: "project-assets/true-random/thumbnail_o.png"
+thumbnail: "/project-assets/true-random/thumbnail_o.png"
 layout: default
 type: project
 ---

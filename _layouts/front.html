@@ -120,12 +120,6 @@
               <a class="sitelink" href="{{ info_page.url }}">{{ info_page.title }}</a>
               {% endfor %}
             </div>
-
-            <!-- Visual separation for Project Archive -->
-            <div class="links-group">
-              <a class="sitelink" href="/all-projects/">Project archive</a>
-              
-            </div>
           </div>
       </header>
 
@@ -136,7 +130,7 @@
       <!--Calculates the projects to display, prioritizing pinned projects, and cutting out duplicates-->
       {%
         assign displayed_projects = pinned_projects | concat: sorted_projects
-        | uniq
+        | uniq | slice: 0,6
       %}
 
       <div class="projects-wrapper bottom">
@@ -151,6 +145,14 @@
             </article>
           </a>
           {% endfor %}
+          <a class="project project-archive" href="/all-projects/">
+            <article>
+              <div class="project-bg" style="background-image: url();">
+              </div>
+              <div class="project-bg-overlay"></div>
+              <h2 class="project-title">Project archive</h2>
+            </article>
+          </a>
         </div>
       </div>
     </div>

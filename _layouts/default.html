@@ -28,15 +28,6 @@
       ;
     }
   </style>
-  <script>
-    function closeButton() {
-      // if (document.referrer.indexOf(location.protocol + "//" + location.host) === 0 && document.referrer!==window.location) {
-      //   window.location = document.referrer
-
-      // };
-      window.location = "/"
-    }
-  </script>
 </head>
 
 <body>
@@ -50,7 +41,7 @@
   </header>
 
   <main id="content" class="main-content" role="main">
-    <button class="back" onclick="closeButton()">✖</button>
+    <a class="back" href="/">✖</a>
     <h1 class="title">{{ page.title }}</h1>
     {% if page.type == "project" %}
     <div class="summary">

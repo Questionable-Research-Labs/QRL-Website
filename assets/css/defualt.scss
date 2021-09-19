@@ -38,7 +38,7 @@ body {
 .page-header {
     background: transparent;
     a {
-        color: white;
+        color: var(--page-main-color);
         text-decoration: none;
         transition: 0.2s linear all;
         display: block;

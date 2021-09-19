@@ -4,7 +4,7 @@ color: "#ffcc00"
 title: "Daily Update"
 description: "Find out when the daily update is and watch it live."
 author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a> and <a target='_none' href='https://zac.nz'>Zac M-W</a>"
-thumbnail: "project-assets/daily-update/thumbnail_o.png"
+thumbnail: "/project-assets/daily-update/thumbnail_o.png"
 layout: default
 type: project
 ---

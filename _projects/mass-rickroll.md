@@ -4,7 +4,7 @@ date: "2021-08-05"
 title: "Mass Rickroll"
 author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a>"
 description: "A group rickroll experience like no other."
-thumbnail: "project-assets/mass-rickroll/thumbnail_o.png"
+thumbnail: "/project-assets/mass-rickroll/thumbnail_o.png"
 layout: default
 type: project
 ---

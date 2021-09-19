@@ -3,7 +3,7 @@ date: "2021-01-28"
 color: "#c7bdde"
 title: WBHS Notices
 description: "Displaying the school notices digital at my school, with an automatic refresh and less paper waste"
-thumbnail: "project-assets/wbhs-notices/thumbnail_o.png"
+thumbnail: "/project-assets/wbhs-notices/thumbnail_o.png"
 layout: default
 type: project
 author: "<a target='_blank' href='https://laspruca.nz'>Nathan Hare</a>"

@@ -3,7 +3,7 @@ color: "#ad814c"
 date: "2021-04-21"
 title: "Taiharuru Press Website"
 description: "Taiharuru Press Website - Speedrunning a high performance horizontally scalable JAM stack website."
-thumbnail: "project-assets/taiharuru-press/thumbnail_o.jpg"
+thumbnail: "/project-assets/taiharuru-press/thumbnail_o.jpg"
 layout: default
 type: project
 ---
