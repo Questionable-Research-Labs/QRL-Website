@@ -53,7 +53,7 @@ We also set up a twitch stream for a more interactive random number generation e
 
 <div id="twitchStreamWrapper">
     <div id=twitchStreamVideo>
-        <iframe src="https://player.twitch.tv/?channel=truerandomqrl&parent=localhost&parent=jmw.nz&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" width="100%" height="100%" style="position: absolute"></iframe>
+        <iframe src="https://player.twitch.tv/?channel=truerandomqrl&parent=localhost&parent=questionable.org.nz&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" width="100%" height="100%" style="position: absolute"></iframe>
     </div>
     <iframe id="twitchStreamChat" src="https://www.twitch.tv/embed/truerandomqrl/chat?parent=localhost&parent=jmw.nz" width="350"></iframe>
 </div>
