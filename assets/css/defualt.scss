@@ -157,11 +157,11 @@ main .back {
     }
 }
 
-@media screen and (max-width: 320px) {
-    h1.project-name-short {
+@media screen and (max-width: 500px) {
+    .page-header a h1.project-name-short {
         display: block;
     }
-    h1.project-name {
+    .page-header a h1.project-name {
         display: none;
     }
 }
