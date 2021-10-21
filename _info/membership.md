@@ -27,6 +27,8 @@ Please become a patron to support what we do. Patrons set up a regular, repeatin
 Here is the account number: `38-9005-0061268-00`
 Use something in the reference that identifies you.
 
+We are a registered charity and at the years end we will provide a donation receipt for claiming back your tax. 
+
 ## Sponsorship
 For organizations wanting to support our activity in a way that is compatible with growing their business please talk to us. We can provide excellent promotional opportunities and we are always looking for resources and services as well as funding.
 For individuals looking to provide targeted support, we are very happy to work with you on those goals.
