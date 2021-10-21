@@ -6,7 +6,9 @@ order: 1
 layout: default
 ---
 
-Questionable Research Labs PLAY with all things related to Science, Design and Engineering.
+Questionable Research Labs Trust is a registered charity. 
+
+We PLAY with all things related to Science, Design and Engineering.
 
 Our Goal: To provide a purposeful environment to expand and challenge the world of curious people. A space for the geek, creator and idea breaker in us all.
 
