@@ -1,5 +1,5 @@
 ---
-title: Groups Term 3
+title: Groups Term 4
 author: Questionable Research Labs
 layout: default
 ---
@@ -37,11 +37,9 @@ Facilitated by Verena Pschorn.
 
 <img src="/info-page-assets/groups/experment_o.png" style="float: right">
 
-This group is all about looking at the world with our sciencey brains turned on. We dig into anything that seems interesting and attempt experiments or challenges. Things sometimes go as we expect and sometimes not (but we like that too). Every term it is a different topic. Last term it was Fungi and this term we are going to be looking at DISASTERS. From Earthquakes and Tsunami's to Asteroids and takeover by our AI Overlords. Facilitated by Kevin Waugh. 
+This group is all about looking at the world with our sciencey brains turned on. We dig into anything that seems interesting and attempt experiments or challenges. Things sometimes go as we expect and sometimes not (but we like that too). Every term it is a different topic. This year we have looked at Fungi, Electricity and Disasters, this term we are going to be looking at The Design of Everyday Things. From engineering to psychology. We will pull apart, make and investigate. Facilitated by Kevin Waugh. 
 
-Important... [Say your coming here][IntrestForm]
-
-<!-- [Find out more and registration here…](/groups/sci-tech) -->
+Say your coming [here…][IntrestForm]
 
 # Robotics Group
 
