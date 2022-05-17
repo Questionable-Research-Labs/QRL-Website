@@ -13,6 +13,8 @@ short: QRL
 tagline: A space to play
 description: An idea incubator for experiments in science and tech.
 
+future: true
+
 # People
 people:
   jasper:
