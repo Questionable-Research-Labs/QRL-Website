@@ -1,0 +1,191 @@
+:root {
+    --link-boarder-width: 3px;
+}
+
+$background-ani-color: url("/img/gradient-random.webp"); 
+
+
+.qrl-box {
+    color: white;
+    max-width: 400px;
+    width: 400px;
+    height: var(--project-size);
+    margin: 1em;
+    overflow: hidden;
+    position: relative;
+    border-radius: 0;
+    text-align: right;
+    cursor: pointer;
+    user-select: none;
+    transform-style: preserve-3d;
+    box-shadow: none;
+    transition: 0.5s ease;
+
+    .box-bg {
+        height: 100%;
+        width: 100%;
+        background-size: 110%;
+        background-position: center;
+        filter: contrast(1.5) brightness(0.5) grayscale(1);
+        transition: 0.5s ease all;
+        position: absolute;
+    }
+    .box-title {
+        position: absolute;
+        height: 80%;
+        width: 90%;
+        top: 0;
+        left: 0;
+        margin: 0;
+        padding: 5%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: 900;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 0.5em;
+        word-spacing: -0.2em;
+        transform: translateZ(0px);
+        transition: 0.5s ease all;
+    }
+    .box-description {
+        position: relative;
+        display: none;
+    }
+    .box-bg-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: $background-ani-color;
+        background-attachment: fixed;
+        background-size: 100vw 100vh;
+        width: 100%;
+        height: 100%;
+        mix-blend-mode: color;
+        /*filter: blur(27px);*/
+        transform: scale(4);
+        opacity: 0.5;
+    }
+    &:hover {
+        .box-bg {
+            background-size: 100%;
+            /* filter: contrast(1.5) brightness(0.3) grayscale(1); */
+            background-position-y: calc(50% + 10px);
+        }
+        .box-title {
+            transform: translateY(-10px) translateZ(-20px);
+        }
+    }
+    &.highlighted {
+        border: var(--link-boarder-width) solid #ffffff;
+    }
+
+    @media (max-width: 1070px) {
+        & {
+            margin-bottom: 2em;
+        }
+    }
+    
+    @media (max-width: 700px) {
+    
+        & {
+            width: 100%;
+            max-width: 100%;
+        }
+        a.sitelink {
+            font-size: 1rem;
+        }
+        .logo {
+            max-width: 90%;
+        }
+    
+        .box-title {
+            padding: 0 1.5em;
+            width: calc(100% - 3em);
+            height: 100%;
+            letter-spacing: 0.25rem;
+        }
+        & .external-link-border {
+            left: calc(1em);
+            top: calc(1em);
+            height: calc(100% - 2em);
+            width: calc(100% - 2em);
+        }
+    }
+    
+}
+
+
+.links-group {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+    a.sitelink {
+        display: inline-block;
+        font-size: 1.2rem;
+        color: #ffffff;
+        text-decoration: none;
+        margin: 1em;
+        padding: 0.3em 0.5em;
+        padding-right: 0.1em;
+        font-weight: 900;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 0.5em;
+        word-spacing: -0.2em;
+        border: var(--link-boarder-width) solid #ffffff;
+        user-select: none;
+    }
+    
+    .highlighted-link-container {
+        position: relative;
+    
+        a.highlighted-link {
+            border: none;
+        }
+        .highlighted-link-border {
+            /*
+            This horrendous piece of css garbage makes the center colour image
+            flow through the border of the external links.
+            I really wish their was a f**king background-clip: border;
+            */
+            background-image: $background-ani-color;
+            background-attachment: fixed;
+            background-size: 100vw 100vh;
+    
+            height: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
+            width: calc(100% - 2em - calc(var(--link-boarder-width) * 2));
+            left: calc(1em + var(--link-boarder-width));
+            top: calc(1em + var(--link-boarder-width));
+    
+            position: absolute;
+    
+            clip-path: polygon(
+                0% 0%,
+                calc(100% - var(--link-boarder-width)) 0%,
+                calc(100% - var(--link-boarder-width)) var(--link-boarder-width),
+                var(--link-boarder-width) var(--link-boarder-width),
+                var(--link-boarder-width) calc(100% - var(--link-boarder-width)),
+                calc(100% - var(--link-boarder-width)) calc(100% - var(--link-boarder-width)),
+                calc(100% - var(--link-boarder-width)) 0%,
+                100% 0%,
+                100% 100%,
+                0 100%
+            );
+        }
+    }
+    @media (max-width: 700px) {
+        a.sitelink {
+            font-size: 1.2rem;
+        }
+        .external-link-border {
+            left: calc(1em);
+            top: calc(1em);
+            height: calc(100% - 2em);
+            width: calc(100% - 2em);
+        }
+    }
+}
+

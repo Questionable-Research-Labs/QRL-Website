@@ -2,8 +2,9 @@
 date: "2021-06-04"
 color: "#8eb2f5"
 title: "True Random"
-description: "Simple to use API Gateway to access the mess of Huanui Collage Public data with ease."
-author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a>"
+description: "Millitary grade randomisation made in 48 hours"
+author: jasper
+involved: [nathan, jasper, taine, jacob]
 thumbnail: "/project-assets/true-random/thumbnail_o.png"
 layout: default
 type: project

@@ -49,14 +49,25 @@
         {{ content | reading_time }}
       </span>
       {% if page.author %}
-      <span>
-        Written by: {{page.author}}
+      <span>Written By:
+        {% assign author = site.people[page.author] %}
+        {% if author %}
+          {% if author.site %}
+            <a target="_blank" href="{{ author.site }}">{{ author.full_name }}</a a>
+          {% else %}
+              {{ author.full_name }}
+          {% endif %}
+        {% else %}
+            {{ person }}
+        {% endif %}
       </span>
       {% endif %}
-      <span>
+
+    <span>
         {{ page.date | date: '%F' }}
       </span>
     </div>
+
     {% endif %}
     {{ content }}
 
@@ -65,6 +76,31 @@
       <span class="site-footer-owner">Copyright &copy; Questionable Research Labs 2020</span>
       {% endif %}
     </footer>
+
+    <div class="involved">
+      {% if page.involved %}
+        <span class="involved-text">
+          Members involved in this project
+        </span>
+        <div class="involved-people">
+          {% for person in page.involved %}
+            <span>
+              {% assign person_obj = site.people[person] %}
+              {% if person_obj %}
+                {% if person_obj.site %}
+                  <a target="_blank" href="{{ person_obj.site }}">{{ person_obj.full_name }}</a a>
+                {% else %}
+                    {{ person_obj.full_name }}
+                {% endif %}
+                {% else %}
+                  {{ person }}
+              {% endif %}
+            </span>
+          {% endfor %}
+        </div>
+    {% endif %}
+  </div>
+
   </main>
   <!-- Instant Page Loading -->
   <script src="//instant.page/1.1.0" type="module"

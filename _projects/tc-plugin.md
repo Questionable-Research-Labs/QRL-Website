@@ -4,7 +4,8 @@ date: "2021-01-04"
 color: "#87dcc1"
 description: "A plugin to help with the admin of the Technocraft Survival Server, 
   with features to meet our administrative and entertainment needs."
-author: "<a target='_blank' href='https://laspruca.nz'>Nathan Hare</a>"
+author: nathan
+involved: [nathan, taine]
 thumbnail: "/project-assets/tc-plugin/thumbnail_o.png"
 layout: default
 type: project

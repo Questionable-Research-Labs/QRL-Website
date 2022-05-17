@@ -3,7 +3,8 @@ date: "2021-09-07"
 color: "#ffcc00"
 title: "Daily Update"
 description: "Find out when the daily update is and watch it live."
-author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a> and <a target='_none' href='https://zac.nz'>Zac M-W</a>"
+author: "jasper"
+involved: ["jasper", "zac"] 
 thumbnail: "/project-assets/daily-update/thumbnail_o.png"
 layout: default
 type: project

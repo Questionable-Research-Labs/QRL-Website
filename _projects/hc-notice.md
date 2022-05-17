@@ -3,7 +3,8 @@ date: "2021-04-22"
 color: "#8eb2f5"
 title: "HC Notice"
 description: "Unofficial Huanui College daily notices reader, because your eyes matter."
-author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a>"
+author: jasper
+involved: jasper
 thumbnail: "/project-assets/hc-notices/thumbnail_o.jpg"
 layout: default
 type: project

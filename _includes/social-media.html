@@ -1,0 +1,13 @@
+<div class="links-group">
+    {% assign to_include = include.includes | default: "newsletter, facebook, youtube" | split: ", " %}
+
+    {% for x in to_include %}
+        {% if x == "newsletter" %}
+            <div class="highlighted-link-container"><a class="highlighted-link sitelink social-link" target="_blank" href="https://forms.gle/9eza2gwM8yeqdc5A9 ">Newsletter</a><div class="highlighted-link-border"></div></div>
+        {% elsif x == "facebook" %}
+            <div class="highlighted-link-container"><a class="highlighted-link sitelink social-link" target="_blank" href="https://www.facebook.com/questionablerresearchlabs ">Facebook</a><div class="highlighted-link-border"></div></div>
+        {% elsif x == "youtube" %}
+            <div class="highlighted-link-container"><a class="highlighted-link sitelink social-link" target="_blank" href="https://www.youtube.com/channel/UCGOVwhmDK7drWZqfBZ5JgGw ">YouTube</a><div class="highlighted-link-border"></div></div>
+        {% endif %}
+    {% endfor%}
+</div>

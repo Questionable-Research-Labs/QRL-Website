@@ -6,6 +6,8 @@ description: "Taiharuru Press Website - Speedrunning a high performance horizont
 thumbnail: "/project-assets/taiharuru-press/thumbnail_o.jpg"
 layout: default
 type: project
+author: jasper
+involved: jasper
 ---
 > #### [Github: https://github.com/Fallstop/TaiharuruPress](https://github.com/Fallstop/TaiharuruPress)
 

@@ -1,6 +1,8 @@
 ---
 ---
 @import "{{ site.theme }}";
+@import "./components.scss";
+
 
 a#skip-to-content {
     position: absolute;
@@ -114,11 +116,27 @@ body {
 .main-content h2,
 .main-content h3,
 .main-content h4,
-.main-content h5,
-.main-content h6 {
+.main-content h5 {
     color: var(--page-main-color);
     font-weight: 600;
     text-align: center;
+}
+.main-content .horizontal-rule-header {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid rgb(255, 255, 255); 
+    line-height: 0.4em;
+    margin: 10px 0 20px;
+    font-weight: 600;
+    margin-bottom: 2rem;
+
+    span {
+        background:rgb(0, 0, 0); 
+        padding:0 10px;
+        color: white;
+        font-weight: 600;
+        font-size: 1rem;
+    }
 }
 
 h1.title {
@@ -146,6 +164,31 @@ main .back {
     background: black;
     color: white;
     border: none;
+}
+
+.involved {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    &-text {
+        padding-bottom: 1rem;
+        font-weight: bold;
+    }
+
+    &-people {
+        display: flex;
+        flex-wrap: wrap;
+        span {
+            padding: 0 0.5em; 
+            border-right: white solid 1px;
+
+            &:last-child {
+                border-right: none;                
+            }
+        }  
+    }
 }
 
 

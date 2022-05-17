@@ -13,6 +13,63 @@ short: QRL
 tagline: A space to play
 description: An idea incubator for experiments in science and tech.
 
+# People
+people:
+  jasper:
+    full_name: Jasper Miller-Waugh
+    site: https://jmw.nz
+  zac:
+    full_name: Zac Miller-Waugh
+    site: https://zac.nz
+  nathan:
+    full_name: Nathan Hare
+    site: https://laspruca.nz
+  verena:
+    full_name: Verena Pschorn
+  kevin: 
+    full_name: Kevin Waugh
+  taine:
+    full_name: Taine Reader
+  jacob:
+    full_name: Jacob Read
+    site: https://jacobtread.com 
+  ara:
+    full_name: Ara Bartlett
+  arlo:
+    full_name: Arlo White
+  kadin:
+    full_name: Kadin Baxter
+  lana:
+    full_name: Lana van Greunen
+  cam:
+    full_name: Cam Matheson
+  robby:
+    full_name: Robby van Greunen
+  bella:
+    full_name: Bella Wallace
+  ceiran:
+    full_name: Cerian Chaplin-Hall
+  eli:
+    full_name: Eli Staunton
+  fergus:
+    full_name: Fergus McKellar
+  frankie:
+    full_name: Frankie Johns
+  gabrielle:
+    full_name: Gabrielle Beale
+  harper:
+    full_name: Harper Gray
+  tobias:
+    full_name: Tobias Grove
+  grayson:
+    full_name: Grayson Sutherland
+  glyn:
+    full_name: Glyn Fleming Bone
+  mitchell:
+    full_name: Mitchell Foster
+  liam:
+    full_name: Liam Harvey
+
 # Projects folder is mapped to a collection
 collections:
   projects:

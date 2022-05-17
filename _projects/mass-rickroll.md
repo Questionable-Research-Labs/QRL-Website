@@ -2,7 +2,8 @@
 color: "#c8d0e6"
 date: "2021-08-05"
 title: "Mass Rickroll"
-author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a>"
+author: jasper
+involved: [nathan, taine, jasper]
 description: "A group rickroll experience like no other."
 thumbnail: "/project-assets/mass-rickroll/thumbnail_o.png"
 layout: default

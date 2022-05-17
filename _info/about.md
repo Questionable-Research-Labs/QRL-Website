@@ -6,26 +6,51 @@ order: 1
 layout: default
 ---
 
-Questionable Research Labs Trust is a registered charity. 
+The Questionable Research Labs Charitable Trust began in 2015 as a Whangarei coding club running out of the Tikipunga Rugby Club. As it grew, it moved in 2016 to the Whangarei Library  and then to the Whangarei Club in Rust Ave under the name Technohackers, later renamed to Questionable Research Labs (QRL or the Labs). At the end of 2020, the Labs moved to a larger but still temporary space in Manaia House in Rathbone St. After a year in Manaia House, we had to move out due to renovations and are currently without a space.
 
-We PLAY with all things related to Science, Design and Engineering.
+In the Labs, we PLAY with all things related to Science, Design and Engineering.
 
-Our Goal: To provide a purposeful environment to expand and challenge the world of curious people. A space for the geek, creator and idea breaker in us all.
+# Our Goal 
+To provide a purposeful environment to expand and challenge the world of curious people. A space for the geek, creator and idea breaker in us all.
 
-At Questionable Research Labs we:
+# At Questionable Research Labs we
+- Love to play with ideas and try things out.
+- Are ok with not knowing what we are doing.
+- Leave plenty of room for disaster.
+- Don’t focus on learning, it just happens when we play.
+- We see technology as the intersection of Science, Design and Engineering. We PLAY in this broad fun space and indiscriminately love it all.
 
-1. Love to play with ideas and try things out.
-2. Are ok with not knowing what we are doing.
-3. Leave plenty of room for disaster.
-4. Don’t focus on learning, it just happens when we play.
+---
 
-<br>
+During 2021, around 100 active children and youth members aged between 8 and 18 attended five after school groups and two evening groups (specifically for teens): 
+the Girls Labs Groups, a Science and Tech Group, the Robotics Group, the Coding Group, the teen Questionable Projects Group and a Game Night. Roughly 4.600 
+attendances have been logged for 2021. Adult and teen weekend day and multi day events, as well as holiday programmes, are also run with between 5 and 30 
+participants each, depending on the event. 
 
-We see technology as the **intersection** of Science, Design and Engineering. We PLAY in this broad fun space and indiscriminately love it all.
+In the lab you will find the members working on projects ranging from motorizing a 3 seater couch, testing and reviewing pulse oximeters, building a 
+countertop vaccine certificate scanning kiosk, working on autonomous robots, playing games, designing and printing things on the 3D printers, and 
+importantly socialising – it’s a social, fun, techy play space.
 
-![Questionable Research Labs Model](/info-page-assets/about/QRL_SciTech_Art.png)
+When we are not locked down, our teens routinely head down to Auckland to participate in technology events aimed at university students and professionals.
+For one of those events they created ‘Zap Chess’ - a chess game with movable magnetised squares that zap the players if they don’t move their chess pieces quick enough.
+ They designed it from scratch in a 3D programme, 3D-printed and lasercut all components and worked on the electrical engineering. They also take part in international 
+ competitions like GovHack, a large Australian/ NZ competition, to build apps that use open government data for social good.
 
-<div class="video"><a href="https://technohackers.org/about/?wvideo=lz5s3apywy"><img src="https://embed-fastly.wistia.com/deliveries/bfe530bae701388a6281a5b1f37293c30b9a3fe7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=007ed1e0" width="400" height="225" style="width: 400px; height: 225px;"></a></div>
+The Labs are free to attend, as we want to make the space accessible to anyone.
+The Labs are fully volunteer-run by members of the community, and our volunteers have put in roughly 3,400 volunteer hours in 2021. 
+The Labs are self-funded, mostly by parents through a patronage model, and most of the gear has been donated by the community. 
 
-Questionable Research Labs is Coordinated by Dr Kevin Waugh. Email for further information: 
-[kevin@questionable.org.nz](kevin@questionable.org.nz)
+We are urgently looking for a new space at the moment. Ideally, it would be cheap, open and big (200m² or more, there is no ‘too big’), central or
+CBD-adjacent, a space where we can leave our setup rather than packing up after each group. 
+
+Links to more information about Questionable Research Labs:
+
+- The Labs in A Nutshell - YouTube Video. Written, filmed, directed and edited by the teens - [YouTube](https://www.youtube.com/watch?v=__JWwRtJX_E).
+- Talk to the Whangarei District Council meeting (Dec 2021). You can skip the first 4 minutes - [YouTube](https://www.youtube.com/watch?v=2cTfN2oHltM&list=PLiyGU_gv2kFn3se64k22cqLlYU83bpxJ6&index=51).
+- A recent Advocate Article (2022) - [NZ Herald](https://www.nzherald.co.nz/northern-advocate/news/whangarei-makers-and-breakers-homeless/RCSIWPGFDFBMGCWCES7E2T3FTM/).
+- A video about the Kiwijam game development competition at Auckland University that shows some of our youth (2021) - [YouTube]((https://www.youtube.com/watch?v=puwGFUUpHK0)).
+- Auckland Uni Article that mentions our Whangarei youth (2020) - [University of Auckland CIE Newsroom](https://www.cie.auckland.ac.nz/newsroom/unleash-space-electrifies-gaming-hackathon/)
+- A video showing one of our youth teams projects at the “Terrible Ideas” hackathon (2021) and the finished terrible game - 
+[YouTube](https://www.youtube.com/watch?v=uDEIqk6T60o) | [YouTube (Terrible game)](https://www.youtube.com/watch?v=0HFF-bgi3hw).
+- News article which covers a reporter's perspective (2021) [TheBit](https://www.thebit.nz/deep-dive/vr-burgers-and-fungus-tomorrows-techies-are-being-nurtured-up-north/)
+- A COVID data science project by our teens (2021) [TheBit](https://www.thebit.nz/news/young-developers-whip-up-covid-map-in-one-weekend/)

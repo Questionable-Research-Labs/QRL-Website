@@ -1,6 +1,7 @@
 ---
 title: Fast Sites
-author: Zac M-W
+author: zac
+involved: [zac, jasper, nathan, kevin, verena]
 date: July 31, 2018
 color: "#ffeb3b"
 thumbnail: "/project-assets/fast-sites/thumbnail-o2.jpg"

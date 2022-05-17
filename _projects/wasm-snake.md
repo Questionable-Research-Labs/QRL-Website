@@ -3,7 +3,8 @@ date: "2021-01-04"
 color: "#30b330"
 title: Wasm Snake
 description: "A snake game with some WASM componets"
-author: "<a target='_blank' href='https://laspruca.nz'>Nathan Hare</a>"
+author: nathan
+involved: nathan
 thumbnail: "/project-assets/wasm-snake/thumbnail_o.png"
 layout: default
 type: project

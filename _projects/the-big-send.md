@@ -1,6 +1,7 @@
 ---
 title: The Big Send
-author: Nathan Hare
+author: nathan
+involved: nathan
 date: November 27, 2020
 color: "#a7f54d"
 thumbnail: "/project-assets/the-big-send/thumbnail_o.jpg"

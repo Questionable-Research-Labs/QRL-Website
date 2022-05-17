@@ -1,6 +1,7 @@
 ---
 title: G-Sheet Bells
-author: Jasper M-W
+author: jasper
+involved: jasper
 date: July 30, 2020
 color: "#1b82cc"
 thumbnail: "/project-assets/gsheet-bells/thumbnail_o.jpg"

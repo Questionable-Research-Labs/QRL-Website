@@ -3,7 +3,8 @@ date: "2021-09-01"
 color: "#ffcc00"
 title: "Times Of Interest"
 description: "A group rickroll experience like no other."
-author: "<a target='_none' href='https://jmw.nz'>Jasper M-W</a>"
+author: jasper
+involved: [nathan, jasper, taine, jacob]
 thumbnail: "/project-assets/times-of-interest/thumbnail_o.png"
 layout: default
 type: project

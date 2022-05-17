@@ -6,8 +6,8 @@ description: "Displaying the school notices digital at my school, with an automa
 thumbnail: "/project-assets/wbhs-notices/thumbnail_o.png"
 layout: default
 type: project
-author: "<a target='_blank' href='https://laspruca.nz'>Nathan Hare</a>"
-
+author: nathan
+involved: nathan
 ---
 [Github Repo](https://github.com/laspruca/wbhs_notices)
 
