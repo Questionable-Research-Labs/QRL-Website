@@ -2,7 +2,7 @@
 date: "2021-09-01"
 color: "#ffcc00"
 title: "Times Of Interest"
-description: "A group rickroll experience like no other."
+description: "Toi (pronounced "toy") is a tool that lets you visualize the all the COVID-19 locations of interest."
 author: jasper
 involved: [nathan, jasper, taine, jacob]
 thumbnail: "/project-assets/times-of-interest/thumbnail_o.png"
