@@ -22,7 +22,7 @@ Lunch will be provided and there will be plenty of fruit and water for snacking.
 ## [Sign Up Form is Here][sul]
 
 <b>Cost:</b>$60 for the two days.<br>
-If cost is a barrier PLEASE contact us was we will have sponsored places.<br>
+If cost is a barrier PLEASE contact us as we will have sponsored places.<br>
 
 <b>Location:</b> 13 Alexander Street, WHANGAREI.<br>
 This is the Uni of Auckland Te Taitokaro Campus just off Rust Ave in the CBD
