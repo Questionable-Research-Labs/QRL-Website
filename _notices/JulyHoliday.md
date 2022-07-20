@@ -2,7 +2,7 @@
 title: July Holidays
 author: Questionable Research Labs
 layout: default
-date: "2022-06-20 11:22:00"
+date: "2022-07-20 11:22:00"
 ---
 
 ## The Day of The Thread - Tues 12th & Wed 13th July
