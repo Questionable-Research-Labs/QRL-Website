@@ -35,7 +35,8 @@ Because we are moving into a new space and getting going again after a time of i
 
  - **KiwiJam** (National Game Development Competition) - 22nd - 24th July
 
- - **48HOURS** (Short Film Making Competition) - 12th - 14th August
+ - **48HOURS** (Short Film Making Competition) - 12th - 14th August<br>
+ Put your name down on [this form](https://forms.gle/FXAhMvhdPrG8McT29) to join us
 
  - **GovHack** (Australiasian Data Science Competition) - 19th - 21nd August
 
