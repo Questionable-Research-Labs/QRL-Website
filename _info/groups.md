@@ -10,19 +10,16 @@ date: "2022-05-16 11:22:00"
 Because we are moving into a new space and getting going again after a time of inactivity, we are starting with just 2 groups but we will be adding groups as we get ourselves organised (such as the Girls Lab, the Hardware Lab and also a younger (<9yrs) Science group. 
 
 
- - **Tuesday: Science Lab**
-   
+ - **Tuesday: Science Lab**<br>
    This term is about our BRAINS (Psychology)<br>
    We will experiment with perception, sensation and reality. Your REALITY is Not REAL<br>
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
    Add your name to [our Lab list here](https://forms.gle/w5EKZRYk8T3MbXYEA) if you are wanting to attend.<br><br>
 
- - **Wednesday: Hardware Lab**  (will start later in term 3)
-   
+ - **Wednesday: Hardware Lab**  (will start later in term 3)<br>
    Electronics and robotics and any other making<br><br>
 
- - **Friday: Game Lab**
-   
+ - **Friday: Game Lab**<br>
    Playing games, inventing games, coding games, making games, and even more playing games<br>
    In the Game Lab it is ok to arrive late or leave early.
     Friday 3:15 to 5(ish) for 9 to 14yrs<br>
