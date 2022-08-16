@@ -15,6 +15,8 @@ Because we are moving into a new space and getting going again after a time of i
    We will experiment with perception, sensation and reality. Your REALITY is Not REAL<br>
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
    Add your name to [our Lab list here](https://forms.gle/w5EKZRYk8T3MbXYEA) if you are wanting to attend.<br><br>
+   WEEK 3 Experiment Results [FORM 1](https://forms.gle/ZNfEVWNFPqhKMAzQA) and [FORM 2](https://forms.gle/h37ejqe8oKFyLmzW8) <br><br>
+
 
  - **Wednesday: Hardware Lab**  (will start later in term 3)<br>
    Electronics and robotics and any other making<br><br>
