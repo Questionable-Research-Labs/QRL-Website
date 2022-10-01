@@ -5,21 +5,25 @@ layout: default
 date: "2022-05-16 11:22:00"
 ---
 
-## Weekly Groups Term 3
+## Weekly Groups Term 4
 
-Because we are moving into a new space and getting going again after a time of inactivity, we are starting with just 2 groups but we will be adding groups as we get ourselves organised (such as the Girls Lab, the Hardware Lab and also a younger (<9yrs) Science group. 
+This term we have THREE groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
 
 
  - **Tuesday: Science Lab**<br>
-   This term is about our BRAINS (Psychology)<br>
-   We will experiment with perception, sensation and reality. Your REALITY is Not REAL<br>
+   This term is all about AI (Artificial Intelligence).<br>
+   Lets play with them before they decide our fleshy lives are just too messy and unnecessary.<br> 
+   We will also weave in other random topics as we go. Because why not.<br>
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
-   Add your name to [our Lab list here](https://forms.gle/w5EKZRYk8T3MbXYEA) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/1KK2GVqNNs7Qmevn6) if you are wanting to attend.<br><br>
    
 
 
- - **Wednesday: Hardware Lab**  (will start later in term 3)<br>
-   Electronics and robotics and any other making<br><br>
+ - **Wednesday: Project Lab**<br>
+   This time is for project work of any sort. We will be into electronics and robotics and any other making. 
+   The time can also be used for film, audio, fabric, coding, design,... anything really.<br>
+   It is a __DO IT__ time<br>
+   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/tqNYj32FjjFJrPZCA)<br><br>
 
  - **Friday: Game Lab**<br>
    Playing games, inventing games, coding games, making games, and even more playing games<br>
@@ -27,25 +31,27 @@ Because we are moving into a new space and getting going again after a time of i
     Friday 3:15 to 5(ish) for 9 to 14yrs<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6:00(ish) to very late for 17 to Adult<br>
-    Add your name to [our Lab list here](https://forms.gle/DJCqr2UBv97StUHY8) if you are wanting to attend.<br>
+    Add your name to [our Lab list here](https://forms.gle/ofDCF3HK2fmALjoG7) if you are wanting to attend.<br>
     
 
 
 ## Weekend and Holiday Events
+- **October Holidays**<br>
+-- Not Serious Days - Wednesday 5th and again on Wed 12th  8:30 to 5pm<br> 
+This is a just for fun social day. Hangout in the Lab, play games, bring your computer/laptop.<br><br>
+-- Serious Days - Friday 7th and again on Friday 14th  8:30 to 5pm<br> 
+These two days are __Project Days__. They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, or electronics or general making or designing or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
 
- - **Science/Engineering/Design MAKER Event** with UoA - July Holidays 12/13th 
+- Here is the Holidays [I AM COMING](https://forms.gle/HtMkMEoG8KqZLgiF6) form.<br> 
+It is $35 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
 
+- **Terrible Ideas Hackathon**<br> (UoA Engineering Competition) - Sadly postponed to Feb 2023
+
+## Come and Gone ##
+ - **Day Of The Tread** (July Holiday - Art and Design) - 12/13th July
  - **KiwiJam** (National Game Development Competition) - 22nd - 24th July
-
- - **48HOURS** (Short Film Making Competition) - 12th - 14th August<br>
- Put your name down on [this form](https://forms.gle/FXAhMvhdPrG8McT29) to join us
-
+ - **48HOURS** (Short Film Making Competition) - 12th - 14th August
  - **GovHack** (Australiasian Data Science Competition) - 19th - 21nd August
-
- - **Terrible Ideas Hackathon** (UoA Engineering Competition) - September
-
-  - **Our Holiday Programmes (Fix Things Day, Game Dev…)** - October Holidays
-
 
 #### Sign up to our newsletter or follow us on Facebook to keep up to date!
 
