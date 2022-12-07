@@ -18,7 +18,7 @@ future: true
 # People
 people:
   jasper:
-    full_name: Jasper Miller-Waugh
+    full_name: Jasper M-W
     site: https://jmw.nz
   zac:
     full_name: Zac Miller-Waugh
@@ -71,6 +71,10 @@ people:
     full_name: Mitchell Foster
   liam:
     full_name: Liam Harvey
+  ashley:
+    full_name: Ashley Stowe
+  gpt3:
+    full_name: GPT3
 
 # Projects folder is mapped to a collection
 collections:
