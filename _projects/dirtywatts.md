@@ -40,10 +40,6 @@ But Dirtywatts is more than just an app – it's also an educational experience.
 
 ![Circuit board with a indicator light attached](\project-assets\dirtywatts\WallMountedVersion_o.jpg)
 
-## Dirtywatts at Govhack
-
-Dirtywatts was recently submitted to Govhack, a data science competition where teams have to create a proof of concept and a video in just 48 hours. We are excited to see how our project will be received by the judges and we hope to win the award for "Best Use of Open Data" for our innovative and impactful solution.
-
 ## Try Dirtywatts Today
 
 We are proud to have developed Dirtywatts and we believe that it can make a real difference in the fight against climate change. If you want to know more about the cleanliness of your electricity usage and take action to reduce your environmental impact, try Dirtywatts today and see the difference it can make.
