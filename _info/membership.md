@@ -22,7 +22,7 @@ To keep in touch with things going on, complete the membership form further belo
 {% include social-media.html includes="newsletter"%}
 
 ## Membership
-To be a Member of Questionable Research Labs and attend our groups you need only to sign-up. Yes that is all. [Here is the 2022 membership form](https://forms.gle/pecSy5FPEMsm8KuQ6).
+To be a Member of Questionable Research Labs and attend our groups you need only to sign-up. Yes that is all. [Here is the 2023 membership form](https://forms.gle/e5TYAou4PAFe3WkdA).
 To attend one or more of the groups you will need to let us know first so we can fit you in.
 
 One off events, workshops and general holiday activities will have a separate sign-up form. To attend these you should always use those forms so we know you are coming. 
