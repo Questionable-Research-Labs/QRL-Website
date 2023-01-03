@@ -5,25 +5,30 @@ layout: default
 date: "2022-05-16 11:22:00"
 ---
 
-## Weekly Groups Term 4
+## Weekly Groups Term 1
 
-This term we have THREE groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
+This term we have FOUR groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
+
+ - **Monday: Brain Lab**<br>
+   This group is about learning psychological skills that will help you with making the most of the interesting life you are about to lead.<br>
+   Led by Dr Odette Miller (Psychologist).<br>
+   Monday 5:00 to 6:30pm, Ages 10 to 14 (intermediate to early highschool). Limited to 12 participants.<br>
+   Add your name to [our Brain Lab list here](https://forms.gle/VeyBPPPV75chDdQAA) if you are interested in attending.<br><br>
 
 
  - **Tuesday: Science Lab**<br>
-   This term is all about AI (Artificial Intelligence).<br>
-   Lets play with them before they decide our fleshy lives are just too messy and unnecessary.<br> 
+   This term's topic is yet to be confirmed, but maybe Chemistry and Food (Food Technology)?<br>
+   Yum. This group is for those into science in all its fun and weird dimensions.<br> 
    We will also weave in other random topics as we go. Because why not.<br>
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
-   Add your name to [our Lab list here](https://forms.gle/1KK2GVqNNs7Qmevn6) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/NAdtGMuaCTZ5V3TL6) if you are wanting to attend.<br><br>
    
-
 
  - **Wednesday: Project Lab**<br>
    This time is for project work of any sort. We will be into electronics and robotics and any other making. 
    The time can also be used for film, audio, fabric, coding, design,... anything really.<br>
    It is a __DO IT__ time<br>
-   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/tqNYj32FjjFJrPZCA)<br><br>
+   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/bWX1fC4Zg47Dqaiz7)<br><br>
 
  - **Friday: Game Lab**<br>
    Playing games, inventing games, coding games, making games, and even more playing games<br>
@@ -31,21 +36,21 @@ This term we have THREE groups running. Other groups might spawn during the term
     Friday 3:15 to 5(ish) for 9 to 14yrs<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6:00(ish) to very late for 17 to Adult<br>
-    Add your name to [our Lab list here](https://forms.gle/ofDCF3HK2fmALjoG7) if you are wanting to attend.<br>
+    Add your name to [our Lab list here](https://forms.gle/3S42TGrn3NpRifKb9) if you are wanting to attend.<br>
     
 
 
 ## Weekend and Holiday Events
-- **October Holidays**<br>
--- Not Serious Days - Wednesday 5th and again on Wed 12th  8:30 to 5pm<br> 
+- **Summer Holidays**<br>
+-- Not Serious Days - Wednesday 11th, 18th and 25th  8:30 to 5pm<br> 
 This is a just for fun social day. Hangout in the Lab, play games, bring your computer/laptop.<br><br>
--- Serious Days - Friday 7th and again on Friday 14th  8:30 to 5pm<br> 
+-- Serious Days - Friday 13th, 20th and 27th  8:30 to 5pm<br> 
 These two days are __Project Days__. They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, or electronics or general making or designing or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
 
-- Here is the Holidays [I AM COMING](https://forms.gle/HtMkMEoG8KqZLgiF6) form.<br> 
+- Here is the Holidays [I AM COMING](https://forms.gle/uQ2i2PyHs6ayy3fy7) form.<br> 
 It is $35 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
 
-- **Terrible Ideas Hackathon**<br> (UoA Engineering Competition) - Sadly postponed to Feb 2023
+- **Terrible Ideas Hackathon**<br> (Held at the University of Auckland) - Weekend of March 4/5th 2023
 
 ## Come and Gone ##
  - **Day Of The Tread** (July Holiday - Art and Design) - 12/13th July
