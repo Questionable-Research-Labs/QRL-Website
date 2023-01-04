@@ -7,13 +7,7 @@ date: "2022-05-16 11:22:00"
 
 ## Weekly Groups Term 1
 
-This term we have FOUR groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
-
- - **Monday: Brain Lab**<br>
-   This group is about learning psychological skills that will help you with making the most of the interesting life you are about to lead.<br>
-   Led by Dr Odette Miller (Psychologist).<br>
-   Monday 5:00 to 6:30pm, Ages 10 to 14 (intermediate to early highschool). Limited to 12 participants.<br>
-   Add your name to [our Brain Lab list here](https://forms.gle/VeyBPPPV75chDdQAA) if you are interested in attending.<br><br>
+This term we have THREE groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
 
 
  - **Tuesday: Science Lab**<br>
