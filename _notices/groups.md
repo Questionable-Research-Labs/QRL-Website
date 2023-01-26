@@ -44,7 +44,9 @@ These two days are __Project Days__. They are for those who have things they wan
 - Here is the Holidays [I AM COMING](https://forms.gle/uQ2i2PyHs6ayy3fy7) form.<br> 
 It is $35 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
 
-- **Terrible Ideas Hackathon**<br> (Held at the University of Auckland) - Weekend of March 4/5th 2023
+- **Terrible Ideas Hackathon**<br> (Held at the University of Auckland) - Weekend of March 10/12th 2023
+Make your best half-baked terrible idea with friends in 46hrs. Nothing will go wrong. 
+[Terrible Ideas] (https://terriblehack.nz/) 
 
 ## Come and Gone ##
  - **Day Of The Tread** (July Holiday - Art and Design) - 12/13th July
