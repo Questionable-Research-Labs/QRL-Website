@@ -32,7 +32,7 @@ This term we have FOUR groups running. Other groups might spawn during the term 
 
  - **Friday: Game and Coding Lab**<br>
    Coding games, inventing games, playing games, making physical games, and even more playing games<br>
-   In the Game Lab it is ok to arrive late or leave early.
+   In the Game and Coding Lab it is ok to arrive late or leave early.
     Friday 3:15 to 5(ish) for 9 to 14yrs<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6:00(ish) to very late for 17 to Adult<br>
