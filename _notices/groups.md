@@ -27,7 +27,7 @@ This term we have FOUR groups running. Other groups might spawn during the term 
 
  - **Thursday: Analog Media Lab**<br>
    Over the term we will Make and Create physical props, models and artwork and then wind them into a story that will become a film. This will be like a “Weta Workshop” style art and making experience, with a touch more chaos, invention and experimentation.<br>
-   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/RF345AfB5NbovTam9)<br><br>
+   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/RF345AfB5NbovTam9)<br><br> 
 
 
  - **Friday: Game and Coding Lab**<br>
