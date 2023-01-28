@@ -7,12 +7,12 @@ date: "2022-05-16 11:22:00"
 
 ## Weekly Groups Term 1
 
-This term we have THREE groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
+This term we have FOUR groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
 
 
- - **Tuesday: Science Lab**<br>
-   This term's topic is yet to be confirmed, but maybe Chemistry and Food (Food Technology)?<br>
-   Yum. This group is for those into science in all its fun and weird dimensions.<br> 
+ - **Tuesday: Science Lab**<br> 
+   This term's topic is about Food Technology and Chemistry. Science and Cooking! It will be YUM with the posiblity of disgusting.<br>
+   This group is for those into science in all its fun and weird dimensions.<br> 
    We will also weave in other random topics as we go. Because why not.<br>
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
    Add your name to [our Lab list here](https://forms.gle/NAdtGMuaCTZ5V3TL6) if you are wanting to attend.<br><br>
@@ -24,8 +24,14 @@ This term we have THREE groups running. Other groups might spawn during the term
    It is a __DO IT__ time<br>
    Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/bWX1fC4Zg47Dqaiz7)<br><br>
 
- - **Friday: Game Lab**<br>
-   Playing games, inventing games, coding games, making games, and even more playing games<br>
+
+ - **Thursday: Analog Media Lab**<br>
+   Over the term we will Make and Create physical props, models and artwork and then wind them into a story that will become a film. This will be like a “Weta Workshop” style art and making experience, with a touch more chaos, invention and experimentation.<br>
+   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/RF345AfB5NbovTam9)<br><br>
+
+
+ - **Friday: Game and Coding Lab**<br>
+   Coding games, inventing games, playing games, making physical games, and even more playing games<br>
    In the Game Lab it is ok to arrive late or leave early.
     Friday 3:15 to 5(ish) for 9 to 14yrs<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
