@@ -1,12 +1,13 @@
 ---
 title: About
 author: Questionable Research Labs
-date: "2021-04-26 16:26:22"
+date: "2023-04-05 11:26:22"
 order: 1
 layout: default
 ---
 
-The Questionable Research Labs Charitable Trust began in 2015 as a Whangarei coding club running out of the Tikipunga Rugby Club. As it grew, it moved in 2016 to the Whangarei Library  and then to the Whangarei Club in Rust Ave under the name Technohackers, later renamed to Questionable Research Labs (QRL or the Labs). At the end of 2020, the Labs moved to a larger but still temporary space in Manaia House in Rathbone St. After a year in Manaia House, we had to move out due to renovations and are currently without a space.
+The Questionable Research Labs Charitable Trust began in 2015 as a Whangarei coding club. As it grew, it moved several times to larger spaces. The early name was the Technohackers Club before becoming Questionable Research Labs in 2020 (QRL or just the Labs). Currently the Labs run out of the old library at Tikipunga High School
+
 
 In the Labs, we PLAY with all things related to Science, Design and Engineering.
 
