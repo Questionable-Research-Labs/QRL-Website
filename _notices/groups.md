@@ -41,20 +41,18 @@ This term we have FOUR groups running. Other groups might spawn during the term 
 
 
 ## Weekend and Holiday Events
-- **Summer Holidays**<br>
--- Not Serious Days - Wednesday 11th, 18th and 25th  8:30 to 5pm<br> 
-This is a just for fun social day. Hangout in the Lab, play games, bring your computer/laptop.<br><br>
--- Serious Days - Friday 13th, 20th and 27th  8:30 to 5pm<br> 
-These two days are __Project Days__. They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, or electronics or general making or designing or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
+- **April Holidays**<br>
+-- Not Serious Days - Wednesday 12th and 19th  8:30 to 5pm<br> 
+This is a just for fun social day. Hangout in the Lab, play games, bring your computer/laptop and a Nerf gun if you have one.<br><br>
+-- Serious Days - Friday 14th and 21st 8:30 to 5pm<br> 
+These two days are __Project Days__ for our older members (14+). They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, video/film, electronics or general making or designing. Or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
 
-- Here is the Holidays [I AM COMING](https://forms.gle/uQ2i2PyHs6ayy3fy7) form.<br> 
+- Here is the Holidays [I AM COMING](https://forms.gle/QZ5W9rJFga5gwVPF6) form.<br> 
 It is $35 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
 
-- **Terrible Ideas Hackathon**<br> (Held at the University of Auckland) - Weekend of March 10/12th 2023<br>
-Make your best half-baked terrible idea with friends in 46hrs. Nothing will go wrong.<br>
-[Terrible Ideas Website](https://terriblehack.nz/) 
 
 ## Come and Gone ##
+ - **[Terrible Ideas Hack](https://terriblehack.nz/)** (Mad Creative Making) - 10/12th March 2023
  - **Day Of The Tread** (July Holiday - Art and Design) - 12/13th July
  - **KiwiJam** (National Game Development Competition) - 22nd - 24th July
  - **48HOURS** (Short Film Making Competition) - 12th - 14th August
