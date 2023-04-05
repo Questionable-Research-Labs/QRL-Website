@@ -5,28 +5,28 @@ layout: default
 date: "2022-05-16 11:22:00"
 ---
 
-## Weekly Groups Term 1
+## Weekly Groups Term 2
 
 This term we have FOUR groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
 
 
  - **Tuesday: Science Lab**<br> 
-   This term's topic is about Food Technology and Chemistry. Science and Cooking! It will be YUM with the posiblity of disgusting.<br>
-   This group is for those into science in all its fun and weird dimensions.<br> 
-   We will also weave in other random topics as we go. Because why not.<br>
+  This group is for those into science in all its fun and weird dimensions.<br>
+  Last term's topic was Cooking and Chemistry. THIS TERM it will be Botany - we will be looking at NZ trees and plants with our eyes on their uses, past and present (food, medicines, and for making).<br>
+  We will also weave in other random topics as we go. Because why not.<br>
+
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
    Add your name to [our Lab list here](https://forms.gle/NAdtGMuaCTZ5V3TL6) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Project Lab**<br>
-   This time is for project work of any sort. We will be into electronics and robotics and any other making. 
-   The time can also be used for film, audio, fabric, coding, design,... anything really.<br>
-   It is a __DO IT__ time<br>
-   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/bWX1fC4Zg47Dqaiz7)<br><br>
+  THIS TERM the Project Lab will be focusing on making robots for Sumo Bot style competitions. If you want to start learning about robots - making and coding creative messy creatures this will be for you. The project lab is also open for anyone to work on ANY other independent project they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
+  It is a __DO IT__ time<br>
+  Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/bWX1fC4Zg47Dqaiz7)<br><br>
 
 
  - **Thursday: Analog Media Lab**<br>
-   Over the term we will Make and Create physical props, models and artwork and then wind them into a story that will become a film. This will be like a “Weta Workshop” style art and making experience, with a touch more chaos, invention and experimentation.<br>
+   This coming terms plan is still to be invented. However we do know it will  be a film/video making and creating time. From physical props, models and artwork through to scripts and film work. We are all about creativity and experimentation.<br>
    Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/RF345AfB5NbovTam9)<br><br> 
 
 
