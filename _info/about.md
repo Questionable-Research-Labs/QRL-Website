@@ -41,14 +41,11 @@ The Labs are free to attend, as we want to make the space accessible to anyone.
 The Labs are fully volunteer-run by members of the community, and our volunteers have put in roughly 3,400 volunteer hours in 2021. 
 The Labs are self-funded, mostly by parents through a patronage model, and most of the gear has been donated by the community. 
 
-We are urgently looking for a new space at the moment. Ideally, it would be cheap, open and big (200m² or more, there is no ‘too big’), central or
-CBD-adjacent, a space where we can leave our setup rather than packing up after each group. 
-
 Links to more information about Questionable Research Labs:
 
 - The Labs in A Nutshell - YouTube Video. Written, filmed, directed and edited by the teens - [YouTube](https://www.youtube.com/watch?v=__JWwRtJX_E).
 - Talk to the Whangarei District Council meeting (Dec 2021). You can skip the first 4 minutes - [YouTube](https://www.youtube.com/watch?v=2cTfN2oHltM&list=PLiyGU_gv2kFn3se64k22cqLlYU83bpxJ6&index=51).
-- A recent Advocate Article (2022) - [NZ Herald](https://www.nzherald.co.nz/northern-advocate/news/whangarei-makers-and-breakers-homeless/RCSIWPGFDFBMGCWCES7E2T3FTM/).
+- A Advocate Article (2022) - [NZ Herald](https://www.nzherald.co.nz/northern-advocate/news/whangarei-makers-and-breakers-homeless/RCSIWPGFDFBMGCWCES7E2T3FTM/).
 - A video about the Kiwijam game development competition at Auckland University that shows some of our youth (2021) - [YouTube]((https://www.youtube.com/watch?v=puwGFUUpHK0)).
 - Auckland Uni Article that mentions our Whangarei youth (2020) - [University of Auckland CIE Newsroom](https://www.cie.auckland.ac.nz/newsroom/unleash-space-electrifies-gaming-hackathon/)
 - A video showing one of our youth teams projects at the “Terrible Ideas” hackathon (2021) and the finished terrible game - 
