@@ -16,7 +16,7 @@ This term we have FOUR groups running. Other groups might spawn during the term 
   We will also weave in other random topics as we go. Because why not.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
-   Add your name to [our Lab list here](https://forms.gle/gy6KfuoFhEPnUbcA9) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/jDTAn7t5uJna4ry4A) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Project Lab**<br>
