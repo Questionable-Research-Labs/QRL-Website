@@ -19,10 +19,10 @@ This term we have FOUR groups running. Other groups might spawn during the term 
    Add your name to [our Lab list here](https://forms.gle/jDTAn7t5uJna4ry4A) if you are wanting to attend.<br><br>
    
 
- - **Wednesday: Project Lab**<br>
-  THIS TERM the Project Lab will be focusing on making robots for Sumo Bot style competitions. If you want to start learning about robots - making and coding creative messy creatures this will be for you. The project lab is also open for anyone to work on ANY other independent project they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
+ - **Wednesday: Projects Lab**<br>
+  THIS TERM the Project Lab will be focusing on making ROBOTS for Sumo Bot style competitions. If you want to start learning about robots - making and coding creative messy creatures this will be for you. The project lab is also open for anyone to work on ANY other independent project they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
   It is a __DO IT__ time<br>
-  Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/bWX1fC4Zg47Dqaiz7)<br><br>
+  Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/WCXLAweUjfAFLZFd8)<br><br>
 
 
  - **Thursday: Analog Media Lab**<br>
