@@ -43,7 +43,7 @@ This term we have FOUR groups running. Other groups might spawn during the term 
   It is ok to arrive late or leave early. This is an informal time.
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
-  Add your name to [our Lab list here](https://forms.gle/Q2tKmWfdKdTCrcuy7) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/LoZAsPYptisvKi1d6) if you are wanting to attend.<br>
     
 
 
