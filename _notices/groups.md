@@ -35,8 +35,15 @@ This term we have FOUR groups running. Other groups might spawn during the term 
    In the Game and Coding Lab it is ok to arrive late or leave early.
     Friday 3:15 to 5(ish) for 9 to 14yrs<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
-    Friday 6:00(ish) to very late for 17 to Adult<br>
-    Add your name to [our Lab list here](https://forms.gle/3S42TGrn3NpRifKb9) if you are wanting to attend.<br>
+   Add your name to [our Lab list here](https://forms.gle/Q2tKmWfdKdTCrcuy7) if you are wanting to attend.<br>
+    
+
+ - **Friday: "Whatever" Lab**<br>
+  For 14+ This is our time to be Social, Create, Make and Break. People will be playing games (eg D&D), working on projects, and generally reinventing the world. The Labs are our playground and clever stuff will happen, disasters will be generated and averted in unequal proportions. <br>
+  It is ok to arrive late or leave early. This is an informal time.
+    Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
+    Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
+  Add your name to [our Lab list here](https://forms.gle/Q2tKmWfdKdTCrcuy7) if you are wanting to attend.<br>
     
 
 
