@@ -26,13 +26,13 @@ This term we have FOUR groups running. Other groups might spawn during the term 
 
 
  - **Thursday: Analog Media Lab**<br>
-   This group is all about exploring different art mediums which we will be using to create physical Models, Designs and Art. We can support you coming up with your own characters or cosplays and making their costumes. This group is into physical props, models and artwork through to scripts and film work. We are all about creativity and experimentation.<br>
+   This group is all about exploring different art mediums which we will be using to create physical Models, Designs and Art. We can support you coming up with your own characters or cosplays and making their costumes. We are into physical props, models and artwork through to scripts and film work. We are all about creativity and experimentation. Age 10+<br>
    Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/oaMf3HFVuAgopwri9)<br><br> 
 
 
  - **Friday: Game and Coding Lab**<br>
    Coding games, inventing games, playing games, making physical games, and even more playing games<br>
-   In the Game and Coding Lab it is ok to arrive late or leave early.
+   In the Game and Coding Lab it is ok to arrive late or leave early.<bt>
     Friday 3:15 to 5(ish) for 9 to 14yrs<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
    Add your name to [our Lab list here](https://forms.gle/Q2tKmWfdKdTCrcuy7) if you are wanting to attend.<br>
@@ -40,11 +40,16 @@ This term we have FOUR groups running. Other groups might spawn during the term 
 
  - **Friday: "Whatever" Lab**<br>
   For 14+ This is our time to be Social, Create, Make and Break. People will be playing games (eg D&D), working on projects, and generally reinventing the world. The Labs are our playground and clever stuff will happen, disasters will be generated and averted in unequal proportions. <br>
-  It is ok to arrive late or leave early. This is an informal time.
+  It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
   Add your name to [our Lab list here](https://forms.gle/LoZAsPYptisvKi1d6) if you are wanting to attend.<br>
     
+
+ - **Friday: Dungeons & Dragons**<br>
+  Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players welcome! Age 14+ <br>
+    Friday 6 to 8:30(ish)<br>
+  Add your name to [our Lab list here](https://forms.gle/TiWtC4hjbo7Si2Ky6) if you are wanting to attend.<br>
 
 
 ## Weekend and Holiday Events
