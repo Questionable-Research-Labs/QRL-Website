@@ -7,7 +7,7 @@ date: "2022-05-16 11:22:00"
 
 ## Weekly Groups Term 2
 
-This term we have FOUR groups running. Other groups might spawn during the term as we slowly ramp back up our activity. 
+This term we have six groups running. Other groups might spawn during the term. 
 
 
  - **Tuesday: Science Lab**<br> 
@@ -20,7 +20,7 @@ This term we have FOUR groups running. Other groups might spawn during the term 
    
 
  - **Wednesday: Projects Lab**<br>
-  THIS TERM the Project Lab will be focusing on making ROBOTS for Sumo Bot style competitions. If you want to start learning about robots - making and coding creative messy creatures this will be for you. The project lab is also open for anyone to work on ANY other independent project they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
+  THIS TERM the Project Lab will be focusing on making ROBOTS for Sumo Bot style competitions. If you want to start learning about robots - making and coding creative messy creatures this will be for you.<br>The project lab is also open for anyone to work on ANY other independent project they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
   It is a __DO IT__ time<br>
   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/WCXLAweUjfAFLZFd8)<br><br>
 
