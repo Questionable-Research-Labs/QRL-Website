@@ -8,6 +8,7 @@ date: "2022-05-16 11:22:00"
 ## Weekly Groups Term 2
 
 This term we have six groups running. Other groups might spawn during the term. 
+Further below there is also a list of up coming events.
 
 
  - **Tuesday: Science Lab**<br> 
@@ -35,7 +36,7 @@ This term we have six groups running. Other groups might spawn during the term.
    In the Game and Coding Lab it is ok to arrive late or leave early.<bt>
     Friday 3:15 to 5(ish) for 9 to 14yrs<br> 
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
-   Add your name to [our Lab list here](https://forms.gle/Q2tKmWfdKdTCrcuy7) if you are wanting to attend.<br>
+   Add your name to [our Lab list here](https://forms.gle/vGDbRxjWVSd3Qjgk9) if you are wanting to attend.<br>
     
 
  - **Friday: "Whatever" Lab**<br>
