@@ -26,8 +26,8 @@ This term we have FOUR groups running. Other groups might spawn during the term 
 
 
  - **Thursday: Analog Media Lab**<br>
-   This coming terms plan is still to be invented. However we do know it will  be a film/video making and creating time. From physical props, models and artwork through to scripts and film work. We are all about creativity and experimentation.<br>
-   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/RF345AfB5NbovTam9)<br><br> 
+   This group is all about exploring different art mediums which we will be using to create physical Models, Designs and Art. We can support you coming up with your own characters or cosplays and making their costumes. This group is into physical props, models and artwork through to scripts and film work. We are all about creativity and experimentation.<br>
+   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/oaMf3HFVuAgopwri9)<br><br> 
 
 
  - **Friday: Game and Coding Lab**<br>
