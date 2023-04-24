@@ -22,7 +22,7 @@ Further below there is also a list of up coming events.
 
  - **Wednesday: Robots & Projects Lab**<br>
   THIS TERM the we will be focusing on making ROBOTS for Sumo Bot style competitions. If you want to start learning about robots - making and coding creative messy creatures this will be for you.<br>The project lab is also open for anyone to work on ANY other independent project they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
-  It is a __DO IT__ time<br>
+  It is a __DO IT__ time<br> 
   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/WCXLAweUjfAFLZFd8)<br><br>
 
 
