@@ -1,5 +1,5 @@
 ---
-title: Groups and Events
+title: Groups
 author: Questionable Research Labs
 layout: default
 date: "2022-05-16 11:22:00"
