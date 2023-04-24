@@ -35,6 +35,6 @@ GovHack is an annual open government data competition held all over Australia an
 [https://govhack.org/](https://govhack.org/)<br><br>
 
 - **Space for Planet Earth Challenge** - 31 August<br>
-This is the deadline for submitting initial proposals of what you might do. After this there is support to help you with creating a full project idea for presenting early next year. Serious prizes.<br><br>
-[https://spacebase.co/challenges/space-challenge-2023/](https://spacebase.co/challenges/space-challenge-2023/)   
+This is the deadline for submitting initial proposals of what you might do. After this there is support to help you with creating a full project idea for presenting early next year. Serious prizes.<br>
+[https://spacebase.co/challenges/space-challenge-2023/](https://spacebase.co/challenges/space-challenge-2023/)<br><br>
 
