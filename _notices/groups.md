@@ -36,7 +36,7 @@ Further below there is also a list of up coming events.
    In the Game and Coding Lab it is ok to arrive late or leave early.<bt>
     Friday 3:15 to 5(ish) for 9 to 14yrs<br> 
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
-   Add your name to [our Lab list here](https://forms.gle/raYGDxvTPusxmLLV6) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/raYGDxvTPusxmLLV6) if you are wanting to attend. <br>
     
 
  - **Friday: "Whatever" Lab**<br>
