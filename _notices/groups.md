@@ -50,7 +50,7 @@ Further below there is also a list of up coming events.
  - **Friday: Dungeons & Dragons**<br>
   Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players welcome! Age 14+ <br>
     Friday 6 to 8:30(ish)<br>
-  Add your name to [our Lab list here](https://forms.gle/TiWtC4hjbo7Si2Ky6) if you are wanting to attend.<br><br>
+  Add your name to [our Lab list here](https://forms.gle/9ubihFzV4sJaLDts8) if you are wanting to attend.<br><br>
 
 
 ## Weekend and Holiday Events
