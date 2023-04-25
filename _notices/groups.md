@@ -33,10 +33,10 @@ Further below there is also a list of up coming events.
 
  - **Friday: Game and Coding Lab**<br>
   Coding games, inventing games, playing games, making physical games, and even more playing games<br>
-  In the Game and Coding Lab it is ok to arrive late or leave early.<bt>
+  In the Game and Coding Lab it is ok to arrive late or leave early.<br>
     Friday 3:15 to 5(ish) for 9 to 14yrs<br> 
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
-  Add your name to [our Lab list here](https://forms.gle/raYGDxvTPusxmLLV6) if you are wanting to attend. <br>
+  Add your name to [our Lab list here](https://forms.gle/raYGDxvTPusxmLLV6) if you are wanting to attend. <br><br>
     
 
  - **Friday: "Whatever" Lab**<br>
@@ -44,13 +44,13 @@ Further below there is also a list of up coming events.
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
-  Add your name to [our Lab list here](https://forms.gle/LoZAsPYptisvKi1d6) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/LoZAsPYptisvKi1d6) if you are wanting to attend.<br><br>
     
 
  - **Friday: Dungeons & Dragons**<br>
   Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players welcome! Age 14+ <br>
     Friday 6 to 8:30(ish)<br>
-  Add your name to [our Lab list here](https://forms.gle/TiWtC4hjbo7Si2Ky6) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/TiWtC4hjbo7Si2Ky6) if you are wanting to attend.<br><br>
 
 
 ## Weekend and Holiday Events
