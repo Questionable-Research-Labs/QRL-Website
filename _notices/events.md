@@ -11,10 +11,14 @@ The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
 
 - **SpaceBase Visit**  May 25th (Thursday 5:30pm) <br>
-This will be a talk about NZ’s Space Industry as well as climate change. 
+This will be a talk about NZ’s Space Industry (the sort of jobs you could get into) as well as climate change. 
 Importantly they will be talking to us about the *Space for Planet Earth Challenge 2023*
 [This challenge](https://spacebase.co/challenges/space-challenge-2023/) is about using satellite data, in combination with other data sources to identify locations of methane emissions on Earth. There is a category in this challenge for high school aged teams (along with University teams and professional teams).
 [Spacebase.co](https://spacebase.co/)<br><br>
+
+- **Armageddon Expo** - 3/4/5 of June<br>
+Lets again go down to this event as a swarm. Armageddon is a weird and interesting cultural experience. It is also an opportunity to dress up in cosplay. It is a long weekend and we will probably go down on Sunday - but plans are still to be made. We can either hire a bus (worked well last time) or as a collection of parents with cars.<br>
+[Armageddon Expo](https://www.armageddonexpo.com/)<br><br>
 
 - **Terrible Ideas Hackathon**  July 6th and 7th (Thursday/Friday)<br>
 This Northland High School TWO DAY team challenge in the first week of the holidays. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. More info to come.<br><br>
