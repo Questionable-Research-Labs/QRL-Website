@@ -12,7 +12,7 @@ As they get close we will add in a sign up link if needed (which will also have 
 
 - **Bush Walk** - Sunday 18th of June<br>
 Add your name to this form if you are interested in joining us for a bush walk where the goal is learning about our native bush and seeing what we can discover. We won't be going far but it will be slow as there is a lot to talk about. Through the bush near wetlands, along a stream up and for the more adventurous, up a valley to a ridge and then to a big view up the coast. Back down through farmland to the barn where we started. Afternoon tea at the top or back at the barn. If time we will head to a close beach for more looking and talking<br>
-[Bush Walk](https://forms.gle/1QEL7zAL8jALRgKa7)<br><br>
+[Bush Walk "I am coming" form](https://forms.gle/1QEL7zAL8jALRgKa7)<br><br>
 
 - **Terrible Ideas Hackathon**  July 6th and 7th (Thursday/Friday)<br>
 This Northland High School TWO DAY team challenge in the first week of the holidays. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. More info to come.<br><br>
