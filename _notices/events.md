@@ -47,4 +47,14 @@ Importantly they will be talking to us about the *Space for Planet Earth Challen
 
 - **Armageddon Expo** - 3/4/5 of June<br>
 Lets again go down to this event as a swarm. Armageddon is a weird and interesting cultural experience. It is also an opportunity to dress up in cosplay. It is a long weekend and we will probably go down on Sunday - but plans are still to be made. We can either hire a bus (worked well last time) or as a collection of parents with cars.<br>
-[Armageddon Expo](https://www.armageddonexpo.com/)<br><br>
+<br><br>
+
+- **Fire Frenzy Night** - Friday 9th June 5:30-8pm<br>
+Instead of running our Friday night group at the Labs, we will be visiting Fire Frenzy, a fire arts performance group, and everyone is invited to have a go (or simply watch, that is okay too). Younger Coding & Game Making Group: If you aren't planning to join us for Fire Frenzy, please make sure pick up happens by 5.30pm or earlier.  We will meet at the Labs in Tikipunga and share transport to the BMX track in Whangarei - or you can join us directly at the [Whangarei BMX Track:](https://goo.gl/maps/xmqNQhS9SeAyGhcU6). Everyone is welcome to join us. All ages & abilities. Free to come and watch.<br>
+If you want to try fire spinning, bring $5 in cash. Please wear cotton or wool clothing!<br>
+<br><br>
+
+- **BIOS creative innovation lab**  Sunday 11th June, 11am<br>
+This is a visit to the Whangarei Art Museum which has “BIOS: an art, biology and technology innovation lab produced by Northland creative studio AwhiWorld with ThoTho”. BIOS is a creative innovation lab set up to foster exploration and research at the intersection of art and technology and comprises various learning and experimentation zones, including areas dedicated to bio-matter experiments, mini-installations utilising 3D projection, and displays showcasing future fibre experiments.<br>
+Everyone is welcome to join us. Children under 11, please bring a grown-up. Meet: Whangarei Art Museum Main Entrance (@Town Basin)<br>
+<br><br>
