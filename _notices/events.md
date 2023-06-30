@@ -10,12 +10,6 @@ date: "2023-04-22 11:22:00"
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
 
-- **Bush Walk** - Sunday 18th of June<br>
-Add your name to this form if you are interested in joining us for a bush walk where the goal is learning about our native bush and seeing what we can discover. We won't be going far but it will be slow as there is a lot to talk about. Through the bush near wetlands, along a stream up and for the more adventurous, up a valley to a ridge and then to a big view up the coast. Back down through farmland to the barn where we started. Afternoon tea at the top or back at the barn. If time we will head to a close beach for more looking and talking<br>
-[Bush Walk "I am coming" form](https://forms.gle/1QEL7zAL8jALRgKa7)<br><br>
-
-- **Terrible Ideas Hackathon**  July 6th and 7th (Thursday/Friday)<br>
-This Northland High School TWO DAY team challenge in the first week of the holidays. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. More info to come.<br><br>
 
 - **Climate Action Film Competition** - Deadline 8th July
 This is about creating a five to seven-minute film that shares a story of people working to adapt to, or mitigate climate change. This can be started now. 8th July is the deadline.<br>
@@ -37,7 +31,15 @@ GovHack is an annual open government data competition held all over Australia an
 This is the deadline for submitting initial proposals of what you might do. After this there is support to help you with creating a full project idea for presenting early next year. Serious prizes.<br>
 [https://spacebase.co/challenges/space-challenge-2023/](https://spacebase.co/challenges/space-challenge-2023/)<br><br>
 
+- **Terrible Ideas Hackathon**  Dec 1st and 2nd (Sat/Sun)<br>
+This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br>
+
 ## COME AND GONE RECENTLY
+
+
+- **Bush Walk** - Sunday 18th of June<br>
+Add your name to this form if you are interested in joining us for a bush walk where the goal is learning about our native bush and seeing what we can discover. We won't be going far but it will be slow as there is a lot to talk about. Through the bush near wetlands, along a stream up and for the more adventurous, up a valley to a ridge and then to a big view up the coast. Back down through farmland to the barn where we started. Afternoon tea at the top or back at the barn. If time we will head to a close beach for more looking and talking<br>
+[Bush Walk "I am coming" form](https://forms.gle/1QEL7zAL8jALRgKa7)<br><br>
 
 - **SpaceBase Visit**  May 25th (Thursday 5:30pm) <br>
 This will be a talk about NZ’s Space Industry (the sort of jobs you could get into) as well as climate change. 
