@@ -16,7 +16,7 @@ This is about creating a five to seven-minute film that shares a story of people
 [More info here](https://northlandclimatechange.org/climateactionvideofestival/)<br><br>
 
 - **KiwiJam** - 21-23 July <br>
-A 48hr game making event. This for physical as well as digital games. There will likely be a Whangarei site this year so we will be able to have younger people involved. Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend.<br>
+A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend.<br>
 [Our Signup List](https://forms.gle/Bk2VsdGcw2isbomC8)<br>
 [https://kiwijam.org/](https://kiwijam.org/ ) <br><br>
 
