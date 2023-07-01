@@ -35,7 +35,7 @@ importantly socialising – it’s a social, fun, techy play space.
 When we are not locked down, our teens routinely head down to Auckland to participate in technology events aimed at university students and professionals.
 For one of those events they created ‘Zap Chess’ - a chess game with movable magnetised squares that zap the players if they don’t move their chess pieces quick enough.
  They designed it from scratch in a 3D programme, 3D-printed and lasercut all components and worked on the electrical engineering. They also take part in international 
- competitions like GovHack, a large Australian/ NZ competition, to build apps that use open government data for social good.
+ competitions like GovHack, a large Australian/ NZ competition, to build apps that use open government data for social good. In 2022 the teens won an international award for their Govhack project.
 
 The Labs are free to attend, as we want to make the space accessible to anyone.
 The Labs are fully volunteer-run by members of the community, and our volunteers have put in roughly 3,400 volunteer hours in 2021. 
