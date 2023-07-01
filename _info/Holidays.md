@@ -15,6 +15,6 @@ This is a just for fun social day. Hangout in the Lab, play games, bring your co
 Thursday 13th 8:30 to 5pm<br> 
 Serious days are __Project Days__ for our older members (13+). They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, video/film, electronics or general making or designing. Or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
 
-- Here is the Holidays [I AM COMING](https://forms.gle/VzKMKKqJveAXNxN88) form.<br> 
+- **Here is the Holidays [I AM COMING](https://forms.gle/VzKMKKqJveAXNxN88) form.**<br> 
 It is $35 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
 
