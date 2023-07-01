@@ -5,7 +5,7 @@ layout: default
 date: "2022-05-16 11:22:00"
 ---
 
-## Weekly Groups Term 2
+## Weekly Groups Term 3
 
 This term we have six groups running. Other groups might spawn during the term. 
 Further below there is also a list of up coming events.
@@ -13,15 +13,15 @@ Further below there is also a list of up coming events.
 
  - **Tuesday: Science Lab**<br> 
   This group is for those into science in all its fun and weird dimensions.<br>
-  Last term's topic was Cooking and Chemistry. THIS TERM it will be Botany - we will be looking at NZ trees and plants with our eyes on their uses, past and present (food, medicines, and for making).<br>
-  We will also weave in other random topics as we go. Because why not.<br>
+  THIS TERM hmmm I am not sure yet what theme we will pick this term? It might be time to look at engineering again? Or Magic or Music or Computer Science or Film and Photography or Rockets or… Whatever topic we look at we do it with our  brains turned on. There is science in everything when we look just under the surface.<br>
+  While we will have a main topic we will also weave in other random things that are interesting. Because why not.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
    Add your name to [our Lab list here](https://forms.gle/jDTAn7t5uJna4ry4A) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Robots & Projects Lab**<br>
-  THIS TERM the we will be focusing on making ROBOTS for Sumo Bot style competitions. If you want to start learning about robots - making and coding creative messy creatures this will be for you.<br>The project lab is also open for anyone to work on ANY other independent project they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
+  THIS TERM the we will be focusing on making ROBOTS for Sumo Bot style competitions. We started last term and we will continue down that path. If you want to start learning about robots - making and coding creative messy creatures this will be for you.<br>The project lab is also open for anyone to work on ANY other <i>independent project</I> they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
   It is a __DO IT__ time<br> 
   Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/WCXLAweUjfAFLZFd8)<br><br>
 
@@ -54,24 +54,18 @@ Further below there is also a list of up coming events.
 
 
 ## Weekend and Holiday Events
-- **April Holidays**<br>
--- Not Serious Days - Wednesday 12th and 19th  8:30 to 5pm<br> 
+- **July Holidays**<br>
+-- Not Serious Days - Wednesday 5th and 12th  8:30 to 5pm<br> 
 This is a just for fun social day. Hangout in the Lab, play games, bring your computer/laptop and a Nerf gun if you have one.<br><br>
--- Serious Days - Friday 14th and 21st 8:30 to 5pm<br> 
-These two days are __Project Days__ for our older members (14+). They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, video/film, electronics or general making or designing. Or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
+-- Serious Day - Thursday 13th 8:30 to 5pm<br> 
+These two days are __Project Days__ for our older members (13+). They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, video/film, electronics or general making or designing. Or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
 
-- Here is the Holidays [I AM COMING](https://forms.gle/QZ5W9rJFga5gwVPF6) form.<br> 
+- Here is the Holidays [I AM COMING](https://forms.gle/VzKMKKqJveAXNxN88) form.<br> 
 It is $35 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
 
 
-## Come and Gone ##
- - **[Terrible Ideas Hack](https://terriblehack.nz/)** (Mad Creative Making) - 10/12th March 2023
- - **Day Of The Tread** (July Holiday - Art and Design) - 12/13th July
- - **KiwiJam** (National Game Development Competition) - 22nd - 24th July
- - **48HOURS** (Short Film Making Competition) - 12th - 14th August
- - **GovHack** (Australiasian Data Science Competition) - 19th - 21nd August
-
-#### Sign up to our newsletter or follow us on Facebook to keep up to date!
-
+## Other things happening ##
+ - **[Events Page](https://questionable.org.nz/notices/events/)** See this page for a list.
+ #### Sign up to our newsletter or follow us on Facebook to keep up to date!
 
 {% include social-media.html %}
