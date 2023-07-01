@@ -13,7 +13,8 @@ Further below there is also a list of up coming events.
 
  - **Tuesday: Science Lab**<br> 
   This group is for those into science in all its fun and weird dimensions.<br>
-  THIS TERM hmmm I am not sure yet what theme we will pick this term? It might be time to look at engineering again? Or Magic or Music or Computer Science or Film and Photography or Rockets or… Whatever topic we look at we do it with our  brains turned on. There is science in everything when we look just under the surface.<br>
+  THIS TERM hmmm... I am not sure yet what theme we will pick this term? <br>
+  It might be time to look at engineering again? Or Magic or Music or Computer Science or Film and Photography or Rockets or… Whatever topic we look at we do it with our  brains turned on. There is science in everything when we look just under the surface.<br>
   While we will have a main topic we will also weave in other random things that are interesting. Because why not.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
