@@ -31,7 +31,7 @@ GovHack is an annual open government data competition held all over Australia an
 This is the deadline for submitting initial proposals of what you might do. After this there is support to help you with creating a full project idea for presenting early next year. Serious prizes.<br>
 [https://spacebase.co/challenges/space-challenge-2023/](https://spacebase.co/challenges/space-challenge-2023/)<br><br>
 
-- **Terrible Ideas Hackathon**  Dec 1st and 2nd (Sat/Sun)<br>
+- **Terrible Ideas Hackathon**  Dec 1st to 3rd (Friday evening then Sat/Sun)<br>
 This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br>
 
 ## COME AND GONE RECENTLY
