@@ -18,13 +18,13 @@ Further below there is also a list of up coming events.
   While we will have a main topic we will also weave in other random things that are interesting. Because why not.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
-   Add your name to [our Lab list here](https://forms.gle/1zCg2JfX4KfiwkEc8) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/oZ3nxy9wyJcTcUiG7) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Robots & Projects Lab**<br>
   THIS TERM the we will be focusing on making ROBOTS for Sumo Bot style competitions. We started last term and we will continue down that path. If you want to start learning about robots - making and coding creative messy creatures this will be for you.<br>The project lab is also open for anyone to work on ANY other <i>independent project</I> they like, from film, audio, fabric, coding, design, robotics,... anything really.<br>
   It is a __DO IT__ time<br> 
-  Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/i7WUUrKHFAvLRSYh9)<br><br>
+  Let us know you are coming by adding your name to [this Lab list here](https://forms.gle/X36yEUikNq8cwWKc7)<br><br>
 
 
  - **Thursday: Analog Media Lab**<br>
