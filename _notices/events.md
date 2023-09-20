@@ -17,7 +17,7 @@ A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Co
 The Labs have secured a showing of Mission Control MARS and a Q&A just for us!  Join us for this interactive high-stake mission. Only $5. [Details here](https://forms.gle/VNx3mwpx8FzK1om28)<br><br>
 
 - **Terrible Ideas Hackathon**  Dec 9th and 10th (Friday evening then Sat/Sun)<br>
-This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br>
+This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br><br><br>
 
 ## COME AND GONE RECENTLY
 
