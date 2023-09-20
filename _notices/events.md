@@ -2,13 +2,24 @@
 title: Events
 author: Questionable Research Labs
 layout: default
-date: "2023-04-22 11:22:00"
+date: "2023-09-20 10:22:00"
 ---
 
 ## Events on the Horizon
 
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
+
+- **Sandbox Fandom Festival**  Saturday 23rd Sept, Forum North<br>
+A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Comics, Music and more.  All things pop culture.  [More info and tickets here](https://www.sandboxfanfest.co.nz)<br><br>
+
+- **MARS - Mission Control**  Friday 6rh 12:45 - 2:30pm<br>
+The Labs have secured a showing of Mission Control MARS and a Q&A just for us!  Join us for this interactive high-stake mission. Only $5. [Details here](https://forms.gle/VNx3mwpx8FzK1om28)<br><br>
+
+- **Terrible Ideas Hackathon**  Dec 9th and 10th (Friday evening then Sat/Sun)<br>
+This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br>
+
+## COME AND GONE RECENTLY
 
 
 - **Climate Action Film Competition** - Deadline 8th July
@@ -26,16 +37,10 @@ The date is yet to be confirmed. But yes, let's enter again this year. Each year
 GovHack is an annual open government data competition held all over Australia and New Zealand. Last year our team won several prizes (cash and a trip to Melbourne red carpet awards). What will happen this year?<br>
 [https://govhack.org/](https://govhack.org/)<br><br>
 
+
 - **Space for Planet Earth Challenge** - 31 August<br>
 This is the deadline for submitting initial proposals of what you might do. After this there is support to help you with creating a full project idea for presenting early next year. Serious prizes.<br>
 [https://spacebase.co/challenges/space-challenge-2023/](https://spacebase.co/challenges/space-challenge-2023/)<br><br>
-
-- **Terrible Ideas Hackathon**  Dec 1st to 3rd (Friday evening then Sat/Sun)<br>
-This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br>
-
-## COME AND GONE RECENTLY
-
-
 - **Bush Walk** - Sunday 18th of June<br>
 Add your name to this form if you are interested in joining us for a bush walk where the goal is learning about our native bush and seeing what we can discover. We won't be going far but it will be slow as there is a lot to talk about. Through the bush near wetlands, along a stream up and for the more adventurous, up a valley to a ridge and then to a big view up the coast. Back down through farmland to the barn where we started. Afternoon tea at the top or back at the barn. If time we will head to a close beach for more looking and talking<br>
 [Bush Walk "I am coming" form](https://forms.gle/1QEL7zAL8jALRgKa7)<br><br>
