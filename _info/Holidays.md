@@ -11,7 +11,7 @@ date: "2023-09-20 09:22:00"
 
 <p align="center"><b>MARS - Mission Control</b></p>
 Friday the 6th,  12.45pm - 2.15pm
-The Labs have secured a showing of Mission Control MARS and a Q&A just for us!  Join us for this interactive high-stake mission. Only $5. [Details here](https://forms.gle/VNx3mwpx8FzK1om28)<br><br>
+The Labs have secured a showing of Mission Control MARS and a Q&A just for us! Join us for this interactive high-stake mission. Only $5. [Details here](https://forms.gle/VNx3mwpx8FzK1om28)<br><br>
 
 <p align="center"><b>Not Serious Days</b></p>
 Wednesday 27th and 4th  8:30 to 5pm<br> 
