@@ -58,24 +58,6 @@ Further below there is also a list of up coming events.
   Add your name to [our Lab list here](https://forms.gle/aWYbXev76AnSSg2K6) if you are wanting to attend.<br><br>
 
 
-## Weekend and Holiday Events
-- **Oct Holidays**<br> 
--- Not Serious Days - Wednesday 27thSept and 4th  8:30 to 5pm<br> 
-This is a just for fun social day. Hangout in the Lab, play games, bring your computer/laptop and a Nerf gun if you have one.<br><br>
--- Serious Days - Friday 29th 8:30 to 5pm<br> 
-These two days are __Project Days__ for our older members (14+). They are for those who have things they want to do/or have things they are working on, and enjoy doing it in a social environment. It might be coding, video/film, electronics or general making or designing. Or even school work. It doesn't really matter what you want to do. This is time to *do your thing* in a social environment.
-
-- Here is the Holidays [I AM COMING](https://forms.gle/VxWTtRo593iW6F7YA) form.<br> 
-It is $35 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
-
-
-## Come and Gone ##
- - **[Terrible Ideas Hack](https://terriblehack.nz/)** (Mad Creative Making) - 10/12th March 2023
- - **Day Of The Tread** (July Holiday - Art and Design) - 12/13th July
- - **KiwiJam** (National Game Development Competition) - 22nd - 24th July
- - **48HOURS** (Short Film Making Competition) - 12th - 14th August
- - **GovHack** (Australiasian Data Science Competition) - 19th - 21nd August
-
 #### Sign up to our newsletter or follow us on Facebook to keep up to date!
 
 
