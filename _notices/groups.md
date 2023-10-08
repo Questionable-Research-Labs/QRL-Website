@@ -59,7 +59,7 @@ Further below there is also a list of up coming events.
 
 
 ## Weekend and Holiday Events
-- **Oct Holidays**<br>
+- **Oct Holidays**<br> 
 -- Not Serious Days - Wednesday 27thSept and 4th  8:30 to 5pm<br> 
 This is a just for fun social day. Hangout in the Lab, play games, bring your computer/laptop and a Nerf gun if you have one.<br><br>
 -- Serious Days - Friday 29th 8:30 to 5pm<br> 
