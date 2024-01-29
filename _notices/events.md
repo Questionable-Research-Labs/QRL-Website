@@ -2,7 +2,7 @@
 title: Events
 author: Questionable Research Labs
 layout: default
-date: "2023-10-08 10:22:00"
+date: "2024-01-30 10:22:00"
 ---
 
 ## Events on the Horizon
@@ -10,10 +10,18 @@ date: "2023-10-08 10:22:00"
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
 
-- **Terrible Ideas Hackathon**  Dec 9th and 10th (Friday evening then Sat/Sun)<br>
-This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br><br>
+- **Goodbye to our Senior Lab Humanoids**  Feb 2nd or 3rd week - To be announced<br>
+ This is formal goodbye to our older members who are heading off to Uni and other places.<br><br> 
+
+- **Artbeat Whangarei**  Feb 24th - Town Basin<br>
+ Details to come - what are we going to do??? But let's do something in our questionably creative and subversive way.<br>
+ More info to come - but [here is the website](https://www.creativenorthland.com/artbeat/)
+
 
 ## COME AND GONE RECENTLY
+
+- **Terrible Ideas Hackathon**  Dec 9th and 10th (Friday evening then Sat/Sun)<br>
+This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br><br>
 
 - **MARS - Mission Control**  Friday 6rh 12:45 - 2:30pm<br>
 The Labs have secured a showing of Mission Control MARS and a Q&A just for us!  Join us for this interactive high-stake mission. Only $5. [Details here](https://forms.gle/VNx3mwpx8FzK1om28)<br><br>
