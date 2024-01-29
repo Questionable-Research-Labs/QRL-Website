@@ -14,8 +14,8 @@ As they get close we will add in a sign up link if needed (which will also have 
  This is formal goodbye to our older members who are heading off to Uni and other places.<br><br> 
 
 - **Artbeat Whangarei**  Feb 24th - Town Basin<br>
- Details to come - what are we going to do??? But let's do something in our questionably creative and subversive way.<br>
- More info to come - but [here is the website](https://www.creativenorthland.com/artbeat/)
+ Details to come - what are we going to do???<br>It will be something in our QRL creative and subversive style, I am sure.<br>
+ More info to come - [Here is the website](https://www.creativenorthland.com/artbeat/)<br><br> 
 
 
 ## COME AND GONE RECENTLY
