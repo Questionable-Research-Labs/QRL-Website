@@ -14,7 +14,7 @@ As they get close we will add in a sign up link if needed (which will also have 
  This is formal goodbye to our older members who are heading off to Uni and other places.<br><br> 
 
 - **Artbeat Whangarei**  Feb 24th - Town Basin<br>
- Details to come - what are we going to do???<br>It will be something in our QRL creative and subversive style, I am sure.<br>
+ We plan on having a table for pulling appart (recyling) technology and using the electonic junk to make creative interesting items<br>
  More info to come - [Here is the website](https://www.creativenorthland.com/artbeat/)<br><br> 
 
 
