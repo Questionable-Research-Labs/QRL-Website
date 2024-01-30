@@ -30,9 +30,10 @@ Further below there is also a list of up coming events.
   <br><br>
 
 
- - **Thursday:  To be anounced**<br>
-   This day is still be confirmed<br>
-   Previously this was the Analoge Media group - but we are still to decide on what is running on thursday. We will let you know later this week<br><br> 
+ - **Thursday:  Media Lab**  Starting 14th Feb for 4 weeks only<br><br>
+   Previously this was the Analoge Media group - but this term it is a 4 week experiment were we will try out some different ideas.<br>
+   This group is still all about exploring different all aspects of media, from film and script work to art and design. Join this experiment if that is your thing<br>
+   <br><br> 
 
 
  - **Friday: Coding and Robotics Lab** - Starting 9th Feb<br>
