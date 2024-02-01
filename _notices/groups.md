@@ -24,9 +24,11 @@ Further below there is also a list of up coming events.
    Add your name to [our Lab list here](https://forms.gle/aX8jhj56Mi2r3He59) if you are wanting to attend.<br><br>
    
 
- - **Wednesday: To be anounced**<br>
-   This day is still be confirmed. 
-   The robotics in this time will be moved to the Friday group as was happening then as well anyway<br>
+ - **Wednesday: Quest Speakers and also Adult Events**<br>
+   First of all, we will be using this time for a deversity of Guest Speakers as we are able to capture them.<br>
+   And secondly, later in the term we will start having events for people who have more paractice being alive than our ususal pretenders.<br>
+   Robotics was at this time, is now to be incoporated into the Friday group (as it was happening then as well anyway)<br>
+   Speakers and events will be anounced via the mailling list as they are organised.<br>
   <br><br>
 
 
