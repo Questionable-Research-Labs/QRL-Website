@@ -13,21 +13,22 @@ Further below there is also a list of up coming events.
 - **Monday: I Have A Dream Kids - Science Lab**<br> 
   This group is run in partnership with [I Have A Dream](https://ihaveadream.org.nz/)<br>
   It is a ten week blast through an eclectic collection of science topics<br>
-  Monday 3:15 to 5:30<br><br>
+  Monday 3:15 to 5:30 (IHAD kids only)<br><br>
 
 
  - **Tuesday: Science Lab** - Starting 30th May<br> 
    This group is for those into science in all its fun and weird dimensions.<br>
    This term term we head off into a world of magic, psychology and critical thinking<br>
-   Nothing will be ruled out<br>
+   Nothing will be ruled out!<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
-   Add your name to [our Lab list here](https://forms.gle/aX8jhj56Mi2r3He59) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/oRKhx1zKG38pyByB9) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Learning "Blender"** Starting 8th April<br><br>
- This group is a tutorial based session where we will be learning all about Blender. This software is used to create 3D models, art, motion graphics, animated films, visual effects etc. Maybe you would like to create objects and creatures to add to a game you are making in Roblox, Unity or Unreal. Or maybe you want to create models for 3D printing? Or creating creatures or props or worlds for your movie? This group might be for you.
- Add your name to [our Lab list here](https://forms.gle/aX8jhj56Mi2r3He59) if you are wanting to attend.<br><br>
+ This group is a tutorial based session where we will be learning all about Blender. This software is used to create 3D models, art, motion graphics, animated films, visual effects etc. Maybe you would like to create objects and creatures to add to a game you are making in Roblox, Unity or Unreal. Or maybe you want to create models for 3D printing? Or creating creatures or props or worlds for your movie? This group might be for you.<br>
+ Add your name to [our Lab list here](https://forms.gle/aX8jhj56Mi2r3He59) if you are wanting to attend.<br>
+ <br><br>
 
  - **Wednesday: Quest Speakers and also Adult Events**<br>
    First of all, we will be using this time for a diversity of Guest Speakers as we are able to capture them.<br>
@@ -49,7 +50,7 @@ Further below there is also a list of up coming events.
   In the Coding and Robotics Lab it is ok to arrive late or leave early.<br>
     Friday 3:15 to 5(ish) for 9 to 14yrs<br> 
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
-  Add your name to [our Lab list here](https://forms.gle/zvi6c1zWJL2P2Uw27) if you are wanting to attend. <br><br>
+  Add your name to [our Lab list here](https://forms.gle/E34ckR427ebuW7m39) if you are wanting to attend. <br><br>
     
 
  - **Friday: "Whatever" Lab**  - Starting 3rd April<br>
@@ -57,7 +58,7 @@ Further below there is also a list of up coming events.
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
-  Add your name to [our Lab list here](https://forms.gle/fyee1W3HkACaB58q8) if you are wanting to attend.<br><br>
+  Add your name to [our Lab list here](https://forms.gle/L5EWFEXv9PktUBnR8) if you are wanting to attend.<br><br>
     
 
  - **Friday: Dungeons & Dragons** - Starting 3rd April<br>
