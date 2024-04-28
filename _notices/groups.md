@@ -25,11 +25,14 @@ Further below there is also a list of up coming events.
    Add your name to [our Lab list here](https://forms.gle/aX8jhj56Mi2r3He59) if you are wanting to attend.<br><br>
    
 
+ - **Wednesday: Learning "Blender"** Starting 8th April<br><br>
+ This group is a tutorial based session where we will be learning all about Blender. This software is used to create 3D models, art, motion graphics, animated films, visual effects etc. Maybe you would like to create objects and creatures to add to a game you are making in Roblox, Unity or Unreal. Or maybe you want to create models for 3D printing? Or creating creatures or props or worlds for your movie? This group might be for you.
+ Add your name to [our Lab list here](https://forms.gle/aX8jhj56Mi2r3He59) if you are wanting to attend.<br><br>
+
  - **Wednesday: Quest Speakers and also Adult Events**<br>
-   First of all, we will be using this time for a deversity of Guest Speakers as we are able to capture them.<br>
-   And secondly, later in the term we will start having events for people who have more paractice being alive than our ususal pretenders.<br>
-   Robotics was at this time, is now to be incoporated into the Friday group (as it was happening then as well anyway)<br>
-   Speakers and events will be anounced via the mailling list as they are organised.<br>
+   First of all, we will be using this time for a diversity of Guest Speakers as we are able to capture them.<br>
+   And secondly, later in the term we plan to start having events for people who have more practice being alive than our usual pretenders.<br>
+   Speakers and events will be announced via the mailing list as they are organised.<br>
   <br><br>
 
 
@@ -49,7 +52,7 @@ Further below there is also a list of up coming events.
     
 
  - **Friday: "Whatever" Lab**  - Starting 3rd April<br>
-  For 14+ This is our time to be Social, Create, Make and Break. People will be playing games (eg D&D), working on projects, and generally reinventing the world. The Whaterver Lab is our playground for clever stuff. Disasters will be generated and averted in unequal proportions. <br>
+  For 14+ This is our time to be Social, Create, Make and Break. People will be playing games (eg D&D), working on projects, and generally reinventing the world. The Whatever Lab is our playground for clever stuff. Disasters will be generated and averted in unequal proportions. <br>
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
