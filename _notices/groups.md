@@ -36,10 +36,11 @@ Further below there is also a list of up coming events.
   <br><br>
 
 
- - **Thursday:  Media Lab**  Starting 2nd April<br><br>
+ - **Thursday:  Media Lab**  Starting 2nd April<br>
    We will continue experimenting with film techniques, story telling/scripting and editing.<br>
    This term we will also be getting involved in the 48Hours NZ short film competition.<br>
-   Join this film and media experiment if that is your thing. Here is the [lab attendance list](https://forms.gle/qkgJvLSP8qVoBhqD6)<br>
+   Join this film and media experiment if that is your thing.<br>
+   Here is the [lab attendance list](https://forms.gle/qkgJvLSP8qVoBhqD6)<br>
    <br><br> 
 
 
