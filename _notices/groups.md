@@ -25,8 +25,9 @@ Further below there is also a list of up coming events.
    Add your name to [our Lab list here](https://forms.gle/oRKhx1zKG38pyByB9) if you are wanting to attend.<br><br>
    
 
- - **Wednesday: Learning "Blender"** Starting 8th April<br><br>
+ - **Wednesday: Learning "Blender"** Starting 8th April<br>
  This group is a tutorial based session where we will be learning all about Blender. This software is used to create 3D models, art, motion graphics, animated films, visual effects etc. Maybe you would like to create objects and creatures to add to a game you are making in Roblox, Unity or Unreal. Or maybe you want to create models for 3D printing? Or creating creatures or props or worlds for your movie? This group might be for you.<br>
+ Wednesday 3:15 to 5(ish) - Ages 10 and up<br>
  Add your name to [our Lab list here](https://forms.gle/1QgCe7VKNu8QKnMj8) if you are wanting to attend.<br>
  <br><br>
 
