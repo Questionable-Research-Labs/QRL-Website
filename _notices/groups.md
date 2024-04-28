@@ -41,7 +41,7 @@ Further below there is also a list of up coming events.
    We will continue experimenting with film techniques, story telling/scripting and editing.<br>
    This term we will also be getting involved in the 48Hours NZ short film competition.<br>
    Join this film and media experiment if that is your thing.<br>
-   Here is the [lab attendance list](https://forms.gle/qkgJvLSP8qVoBhqD6)<br>
+   Here is the [lab attendance list](https://forms.gle/rohWMGD2r6RbjNny7)<br>
    <br><br> 
 
 
