@@ -10,15 +10,26 @@ date: "2024-01-30 10:22:00"
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
 
-- **Goodbye to our Senior Lab Humanoids**  Feb 2nd or 3rd week - To be announced<br>
+- **48hours** NZ Short Film Competition - 17-19th May<br>
+<b>YES</b>, let's enter again this year. Each year we get better and better at crazy fast film making.<br>
+Add yourself to [this sign-up form here](https://forms.gle/7imy7wqm4NDEmCxVA). Close to the event we will have a catch up to plan the weekend.<br>
+<br><br>
+
+- **KiwiJam** - 19-21 July <br>
+A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. 
+Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend.<br>
+<br><br>
+
+- **Sandbox Fandom Festival**  Saturday 27th July, Forum North<br>
+A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Comics, Music and more.  All things pop culture. [More info and tickets here](https://www.sandboxfanfest.co.nz)<br><br>
+
+## COME AND GONE RECENTLY
+- **Goodbye to our Senior Lab Humanoids**  Feb 2nd week<br>
  This is formal goodbye to our older members who are heading off to Uni and other places.<br><br> 
 
 - **Artbeat Whangarei**  Feb 24th - Town Basin<br>
  We plan on having a table for pulling appart (recyling) technology and using the electonic junk to make creative interesting items<br>
  More info to come - [Here is the website](https://www.creativenorthland.com/artbeat/)<br><br> 
-
-
-## COME AND GONE RECENTLY
 
 - **Terrible Ideas Hackathon**  Dec 9th and 10th (Friday evening then Sat/Sun)<br>
 This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br><br>
@@ -33,12 +44,7 @@ A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Co
 This is about creating a five to seven-minute film that shares a story of people working to adapt to, or mitigate climate change. This can be started now. 8th July is the deadline.<br>
 [More info here](https://northlandclimatechange.org/climateactionvideofestival/)<br><br>
 
-- **KiwiJam** - 21-23 July <br>
-A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend.<br>
-[Signup on the KiwiJam Website: https://kiwijam.org/](https://kiwijam.org/ ) <br><br>
 
-- **48hours** NZ Short Film Competition - Early Aug<br>
-The date is yet to be confirmed. But yes, let's enter again this year. Each year we get better and better. <br><br>
 
 - **Govhack** - 18—20 August
 GovHack is an annual open government data competition held all over Australia and New Zealand. Last year our team won several prizes (cash and a trip to Melbourne red carpet awards). What will happen this year?<br>
