@@ -11,7 +11,7 @@ date: "2024-07-01 08:22:00"
 <br>
 <p align="left"><b>Not Serious Day</b></p>
 Wednesday 10th - 8:30am to 5pm<br>
-This is a social day. Hang out and play games with friends. The lab is a our creative playground. Serious things might happen but that will be accidental. Lunch provided. Plenty of fruit and water available. <br><br>
+This is a social day. Hang out and play games with friends. The lab is our creative playground. Serious things might happen but that will be accidental. Lunch provided. Plenty of fruit and water available. <br><br>
 
 <p align="left"><b>Serious Day</b></p>
 Friday 12th - 8:30am to 5pm<br> 
@@ -23,5 +23,5 @@ I think the name says it all - this day will be a full on Minecraft game day. Th
 Warning: Limited places.  <br><br>
 
 **Here is the Holidays [I AM COMING](https://forms.gle/r7E6e7DX9fp7NF4c6) form.**<br> 
-It is $45 and lunch is included. If you can't afford it grab a sponsored slot (just ask).
+It is $45 and lunch is included. If you can't afford it, grab a sponsored slot (just ask).
 
