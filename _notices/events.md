@@ -19,24 +19,24 @@ Fast and frenzied game making - it is amazing what can be achieved by teams in a
 A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Comics, Music and more.  All things pop culture. [More info and tickets here](https://www.sandboxfanfest.co.nz)<br><br>
 
 - **Terrible Ideas Hackathon**  Aug 2nd - 4th (Friday evening then Sat/Sun)<br>
-This is a 46hr creative and messy innovation challange. It's about inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up GREAT terrible ideas now.<br><br><br>
+This is a 46hr creative and messy innovation challenge. It's about inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up GREAT terrible ideas now. A little more [info here](https://terriblehack.com/)<br><br><br>
 
 
 ## COME AND GONE RECENTLY
 
 - **48hours** NZ Short Film Competition - 17-19th May<br>
-<b>YES</b>, we entered again this year. With 48 hours to script/film/edit and submit - this years crazy fast film making was completed with 120 seconds to spare (phew!). The film was a TicTok style poke at information bubbles and misinformation, with this one being about two extreamly unlikely lovers on the run<br>
+<b>YES</b>, we entered again this year. With 48 hours to script/film/edit and submit - this years crazy fast film making was completed with 120 seconds to spare (phew!). The film was a TicTok style poke at information bubbles and misinformation, with this one being about two extremely unlikely lovers on the run<br>
 <br><br>
 
 - **Goodbye to our Senior Lab Humanoids**  Feb 2nd week<br>
  This is formal goodbye to our older members who are heading off to Uni and other places.<br><br> 
 
 - **Artbeat Whangarei**  Feb 24th - Town Basin<br>
- We plan on having a table for pulling appart (recyling) technology and using the electonic junk to make creative interesting items<br>
+ We plan on having a table for pulling pulling apart (recycling) technology and using the electronic junk to make creative interesting items<br>
  More info to come - [Here is the website](https://www.creativenorthland.com/artbeat/)<br><br> 
 
 - **Terrible Ideas Hackathon**  Dec 9th and 10th (Friday evening then Sat/Sun)<br>
-This Northland High School TWO DAY team challenge. This is a post exam's innovation challange. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br><br>
+This Northland High School TWO DAY team challenge. This is a post exam's innovation challenge. It's about creativity, inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up great terrible ideas now. [More info here](https://terriblehack.nz/).<br><br><br>
 
 - **MARS - Mission Control**  Friday 6rh 12:45 - 2:30pm<br>
 The Labs have secured a showing of Mission Control MARS and a Q&A just for us!  Join us for this interactive high-stake mission. Only $5. [Details here](https://forms.gle/VNx3mwpx8FzK1om28)<br><br>
