@@ -10,11 +10,6 @@ date: "2024-01-30 10:22:00"
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
 
-- **48hours** NZ Short Film Competition - 17-19th May<br>
-<b>YES</b>, let's enter again this year. Each year we get better and better at crazy fast film making.<br>
-Add yourself to [this sign-up form here](https://forms.gle/7imy7wqm4NDEmCxVA). Close to the event we will have a catch up to plan the weekend.<br>
-<br><br>
-
 - **KiwiJam** - 19-21 July <br>
 A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. 
 Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend.<br>
@@ -24,6 +19,11 @@ Fast and frenzied game making - it is amazing what can be achieved by teams in a
 A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Comics, Music and more.  All things pop culture. [More info and tickets here](https://www.sandboxfanfest.co.nz)<br><br>
 
 ## COME AND GONE RECENTLY
+
+- **48hours** NZ Short Film Competition - 17-19th May<br>
+<b>YES</b>, we entered again this year. With 48 hours to script/film/edit and submit - this years crazy fast film making was completed with 120 seconds to spare (phew!). The film was a TicTok style poke at information bubbles and misinformation, with this one being about two extreamly unlikely lovers on the run<br>
+<br><br>
+
 - **Goodbye to our Senior Lab Humanoids**  Feb 2nd week<br>
  This is formal goodbye to our older members who are heading off to Uni and other places.<br><br> 
 
