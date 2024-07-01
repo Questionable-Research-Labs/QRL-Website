@@ -18,6 +18,10 @@ Fast and frenzied game making - it is amazing what can be achieved by teams in a
 - **Sandbox Fandom Festival**  Saturday 27th July, Forum North<br>
 A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Comics, Music and more.  All things pop culture. [More info and tickets here](https://www.sandboxfanfest.co.nz)<br><br>
 
+- **Terrible Ideas Hackathon**  Aug 2nd - 4th (Friday evening then Sat/Sun)<br>
+This is a 46hr creative and messy innovation challange. It's about inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up GREAT terrible ideas now.<br><br><br>
+
+
 ## COME AND GONE RECENTLY
 
 - **48hours** NZ Short Film Competition - 17-19th May<br>
