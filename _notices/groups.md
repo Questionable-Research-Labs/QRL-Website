@@ -8,7 +8,7 @@ date: "2022-10-08 11:22:00"
 ## Weekly Groups Term 2
 
 This term we have six groups running. Other groups might spawn during the term. 
-Further below there is also a list of up coming events.
+Further below there is also a list of upcoming events.
 
 - **Monday: I Have A Dream Kids - Science Lab**<br> 
   This group is run in partnership with [I Have A Dream](https://ihaveadream.org.nz/)<br>
