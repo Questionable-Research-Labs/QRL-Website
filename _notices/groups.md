@@ -26,7 +26,7 @@ Further below there is also a list of upcoming events.
    
 
  - **Wednesday: Projects Lab** Starting 24th July<br>
- We are changing this group this term - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is serious time for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitily in serious mode. Whatever that is for you<br>
+ We are changing this group this term - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is "serious time" for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitely in serious mode. Whatever that is for you<br>
  Wednesday 3:15 to 5(ish) - Ages 10 and up<br>
  Add your name to [our Lab list here](https://forms.gle/WvtkeAHWAPQKeM916) if you are wanting to attend.<br>
  <br><br>
@@ -39,7 +39,7 @@ Further below there is also a list of upcoming events.
 
 
  - **Thursday:  Media Lab**  On Hold for the moment<br>
-   We are going to have a think about how we use this time so the group is on hold for just a few weeks. Perhaps (open to peoples thoughts) it would be a time for those who want to make films (last 2 terms were more about experimenting with techniques). Maybe its time to do some Vidos for YouTube etc  Shorts or Tutorials or Promotional or? We need to have a bit of a think<br>
+   We are going to have a think about how we use this time so the group is on hold for just a few weeks. Perhaps (open to people's thoughts) it would be a time for those who want to make films (last 2 terms were more about experimenting with techniques). Maybe its time to do some Videos for YouTube etc  Shorts or Tutorials or Promotional or? We need to have a bit of a think<br>
    <br>
    Till we kick this off, you might want to put ideas into this form [Media Lab Ideas](https://forms.gle/mRLrZjagBw7ZmiUJ8)<br>
    <br><br> 
@@ -62,7 +62,7 @@ Further below there is also a list of upcoming events.
     
 
  - **Friday: Dungeons & Dragons** - Starting 26th July<br>
-  Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players welcome! Age 14+ <br>
+  Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players are welcome! Age 14+ <br>
     Friday 6 to 8:30(ish)<br>
   Add your name to [our Lab list here](https://forms.gle/4ZE6BLueKbXnxhKT8) if you are wanting to attend.<br><br>
 
