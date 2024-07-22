@@ -5,7 +5,7 @@ layout: default
 date: "2022-10-08 11:22:00"
 ---
 
-## Weekly Groups Term 3
+## Weekly Groups Term 3 
 
 This term we have six groups running. Other groups might spawn during the term. 
 Further below there is also a list of upcoming events.
