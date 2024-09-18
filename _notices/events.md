@@ -2,7 +2,7 @@
 title: Events
 author: Questionable Research Labs
 layout: default
-date: "2024-01-30 10:22:00"
+date: "2024-09-18 10:22:00"
 ---
 
 ## Events on the Horizon
@@ -10,19 +10,27 @@ date: "2024-01-30 10:22:00"
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
 
+- **NGenious Game Jam** - 27-29th Sept <br>
+A Weekend Game Making Event. This for physical as well as digital games. Based at the NGEN Room 187 Lower Dent St. 
+Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend. There are two forms to fill in for this:<br>
+The first is our Lab's Form which has a bit more info on our plan [HERE](https://forms.gle/R5Rh2DVoc3XGScr67)<br>
+The second is the NGEN Room Event Form [HERE](https://forms.office.com/pages/responsepage.aspx?id=t0P5RuKSO0mXHdQbOQnlER8Unu6hmQRAhYDkJdux1C5URDRQVVZHRUhSWUpMNVZOWE9FQTE5OVhSVC4u&route=shorturl)
+<br><br>
+
+
+
+## COME AND GONE RECENTLY
+
 - **KiwiJam** - 19-21 July <br>
 A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. 
 Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend.<br>
 <br><br>
 
 - **Sandbox Fandom Festival**  Saturday 27th July, Forum North<br>
-A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Comics, Music and more.  All things pop culture. [More info and tickets here](https://www.sandboxfanfest.co.nz)<br><br>
+A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Comics, Music and more.  All things pop culture. [More info here](https://www.sandboxfanfest.co.nz)<br><br>
 
 - **Terrible Ideas Hackathon**  Aug 2nd - 4th (Friday evening then Sat/Sun)<br>
 This is a 46hr creative and messy innovation challenge. It's about inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up GREAT terrible ideas now. A little more [info here](https://terriblehack.com/)<br><br><br>
-
-
-## COME AND GONE RECENTLY
 
 - **48hours** NZ Short Film Competition - 17-19th May<br>
 <b>YES</b>, we entered again this year. With 48 hours to script/film/edit and submit - this years crazy fast film making was completed with 120 seconds to spare (phew!). The film was a TicTok style poke at information bubbles and misinformation, with this one being about two extremely unlikely lovers on the run<br>
