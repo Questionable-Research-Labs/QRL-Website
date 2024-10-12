@@ -18,7 +18,7 @@ Further below there is also a list of upcoming events.
 
  - **Tuesday: Science Lab** - Starting 15th Oct<br> 
    This group is for those into science in all its fun and weird dimensions.<br>
-   This term we head off into the world of <b>Architecture</b>. Not exactly science it is interesting! So lets have a look.<br>
+   This term we head off into the world of <b>Architecture</b>. While not exactly "science", it is interesting! So lets have a look. 
    As usual we might meander into other topics - nothing is ruled out.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
@@ -27,8 +27,8 @@ Further below there is also a list of upcoming events.
 
  - **Wednesday: Projects Lab and Media Lab** Starting 16th Oct<br>
 This term, Wednesday is two things:<br> 
-1/ Projects Lab - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is "serious time" for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitely in serious mode. Whatever that is for you<br>
-2/ Media Lab - Film and media... Techniques and Creating. We will have a chat in week 1 and make our plans.
+<b>1/ Projects Lab</b> - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is "serious time" for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitely in serious mode. Whatever that is for you<br>
+<b>2/ Media Lab</b> - Film and media... Techniques and Creating. We will have a chat in week 1 and make our plans.
 
 Wednesday 3:15 to 5(ish) - Ages 11 and up<br>
 Add your name to [our Lab list here](https://forms.gle/WvtkeAHWAPQKeM916) if you are wanting to attend.<br>
