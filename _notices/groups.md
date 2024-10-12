@@ -5,7 +5,7 @@ layout: default
 date: "2022-10-08 11:22:00"
 ---
 
-## Weekly Groups Term 3 
+## Weekly Groups Term 4 
 
 This term we have six groups running. Other groups might spawn during the term. 
 Further below there is also a list of upcoming events.
@@ -16,36 +16,25 @@ Further below there is also a list of upcoming events.
   Monday 3:15 to 5:30 (IHAD kids only)<br><br>
 
 
- - **Tuesday: Science Lab** - Starting 23th July<br> 
+ - **Tuesday: Science Lab** - Starting 15th Oct<br> 
    This group is for those into science in all its fun and weird dimensions.<br>
-   This term term we head off into a world of magic, psychology and critical thinking<br>
-   Nothing will be ruled out!<br>
+   This term we head off into the world of <b>Architecture</b>. Not exactly science it is interesting! So lets have a look.<br>
+   As usual we might meander into other topics - nothing is ruled out.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
    Add your name to [our Lab list here](https://forms.gle/HDzwY3ZyKe9djX6R7) if you are wanting to attend.<br><br>
    
 
- - **Wednesday: Projects Lab** Starting 24th July<br>
- We are changing this group this term - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is "serious time" for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitely in serious mode. Whatever that is for you<br>
- Wednesday 3:15 to 5(ish) - Ages 10 and up<br>
- Add your name to [our Lab list here](https://forms.gle/WvtkeAHWAPQKeM916) if you are wanting to attend.<br>
+ - **Wednesday: Projects Lab and Media Lab** Starting 16th Oct<br>
+This term, Wednesday is two things:<br> 
+1/ Projects Lab - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is "serious time" for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitely in serious mode. Whatever that is for you<br>
+2/ Media Lab - Film and media... Techniques and Creating. We will have a chat in week 1 and make our plans.
+
+Wednesday 3:15 to 5(ish) - Ages 11 and up<br>
+Add your name to [our Lab list here](https://forms.gle/WvtkeAHWAPQKeM916) if you are wanting to attend.<br>
  <br><br>
 
- - **Wednesday: Quest Speakers and also Adult Events**<br>
-   Will be using this time for a diversity of Guest Speakers as we are able to capture them.<br>
-   And secondly, later in the term we plan to start having events for people who have more practice being alive than our usual pretenders.<br>
-   Speakers and events will be announced via the mailing list as they are organised.<br>
-  <br><br>
-
-
- - **Thursday:  Media Lab**  On Hold for the moment<br>
-   We are going to have a think about how we use this time so the group is on hold for just a few weeks. Perhaps (open to people's thoughts) it would be a time for those who want to make films (last 2 terms were more about experimenting with techniques). Maybe its time to do some Videos for YouTube etc  Shorts or Tutorials or Promotional or? We need to have a bit of a think<br>
-   <br>
-   Till we kick this off, you might want to put ideas into this form [Media Lab Ideas](https://forms.gle/mRLrZjagBw7ZmiUJ8)<br>
-   <br><br> 
-
-
- - **Friday: Coding and Robotics Lab** - Starting 26th July<br>
+ - **Friday: Coding and Robotics Lab** - Starting 18th Oct<br>
   Coding, building robots, inventing games, playing games, this is our tech playground day<br>
   In the Coding and Robotics Lab it is ok to arrive late or leave early.<br>
     Friday 3:15 to 5(ish) for 9 to 14yrs<br> 
@@ -53,7 +42,7 @@ Further below there is also a list of upcoming events.
   Add your name to [our Lab list here](https://forms.gle/wq3jb5phK5Lqg1179) if you are wanting to attend. <br><br>
     
 
- - **Friday: "Whatever" Lab**  - Starting 26 July<br>
+ - **Friday: "Whatever" Lab**  - Starting 18th Oct<br>
   For 14+ This is our time to be Social, Create, Make and Break. People will be playing games (eg D&D), working on projects, and generally reinventing the world. The Whatever Lab is our playground for clever stuff. Disasters will be generated and averted in unequal proportions. <br>
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
@@ -61,13 +50,13 @@ Further below there is also a list of upcoming events.
   Add your name to [our Lab list here](https://forms.gle/ngga5WgJB4i77Joc9) if you are wanting to attend.<br><br>
     
 
- - **Friday: Dungeons & Dragons** - Starting 26th July<br>
+ - **Friday: Dungeons & Dragons** - Starting 18th Oct<br>
   Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players are welcome! Age 14+ <br>
     Friday 6 to 8:30(ish)<br>
   Add your name to [our Lab list here](https://forms.gle/4ZE6BLueKbXnxhKT8) if you are wanting to attend.<br><br>
 
 
-#### Sign up to our newsletter or follow us on Facebook to keep up to date!
+
 
 
 {% include social-media.html %}
