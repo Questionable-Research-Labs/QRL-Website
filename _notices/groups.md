@@ -22,7 +22,7 @@ Further below there is also a list of upcoming events.
    As usual we might meander into other topics - nothing is ruled out.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-17<br>
-   Add your name to [our Lab list here](https://forms.gle/HDzwY3ZyKe9djX6R7) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/mxciTiSNXt52HyGX9) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Projects Lab and Media Lab** Starting 16th Oct<br>
@@ -39,7 +39,7 @@ Add your name to [our Lab list here](https://forms.gle/WvtkeAHWAPQKeM916) if you
   In the Coding and Robotics Lab it is ok to arrive late or leave early.<br>
     Friday 3:15 to 5(ish) for 9 to 14yrs<br> 
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
-  Add your name to [our Lab list here](https://forms.gle/wq3jb5phK5Lqg1179) if you are wanting to attend. <br><br>
+  Add your name to [our Lab list here](https://forms.gle/yaf5NheWCUJuQx6Z7) if you are wanting to attend. <br><br>
     
 
  - **Friday: "Whatever" Lab**  - Starting 18th Oct<br>
@@ -47,7 +47,7 @@ Add your name to [our Lab list here](https://forms.gle/WvtkeAHWAPQKeM916) if you
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
-  Add your name to [our Lab list here](https://forms.gle/ngga5WgJB4i77Joc9) if you are wanting to attend.<br><br>
+  Add your name to [our Lab list here](https://forms.gle/wfhX3gEAHGmhfczG8) if you are wanting to attend.<br><br>
     
 
  - **Friday: Dungeons & Dragons** - Starting 18th Oct<br>
