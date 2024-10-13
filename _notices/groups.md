@@ -26,14 +26,14 @@ Further below there is also a list of upcoming events.
    
 
  - **Wednesday: Projects Lab and Media Lab** Starting 16th Oct<br>
-This term, Wednesday 3:15 to 5(ish) is two things for those aged 11+:<br> 
+  This term, Wednesday 3:15 to 5(ish) is two things for those aged 11+:<br> 
 
-  <b>1/ Projects Lab</b> - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is "serious time" for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitely in serious mode. Whatever that is for you<br>
-  Add your name to [our Lab list here](https://forms.gle/zB2E7cvzsXsWVs5A7) if you are wanting to attend.<br>
+    <b>1/ Projects Lab</b> - it is a time where you can work on projects or be learning Blender or Unity or Roblox game development or any other thing. It is "serious time" for those that need more time in the Lab to get stuff done. Even homework. It is not serious till 4pm then we will be most definitely in serious mode. Whatever that is for you<br>
+    Add your name to [our Lab list here](https://forms.gle/zB2E7cvzsXsWVs5A7) if you are wanting to attend.<br>
  <br>
 
-  <b>2/ Media Lab</b> - Film and media... Techniques and Creating. We will have a chat in week 1 and make our plans.<br>
-  Add your name to [our Lab list here](https://forms.gle/JyS7hfH2tGFMaqrr6) if you are wanting to attend.<br>
+    <b>2/ Media Lab</b> - Film and media... Techniques and Creating. We will have a chat in week 1 and make our plans.<br>
+    Add your name to [our Lab list here](https://forms.gle/JyS7hfH2tGFMaqrr6) if you are wanting to attend.<br>
  <br><br>
 
 
@@ -56,7 +56,7 @@ This term, Wednesday 3:15 to 5(ish) is two things for those aged 11+:<br>
  - **Friday: Dungeons & Dragons** - Starting 18th Oct<br>
   Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players are welcome! Age 14+ <br>
     Friday 6 to 8:30(ish)<br>
-  Add your name to [our Lab list here](https://forms.gle/4ZE6BLueKbXnxhKT8) if you are wanting to attend.<br><br>
+  Add your name to [our Lab list here](https://forms.gle/fQ5AurLTCZvmx3QGA) if you are wanting to attend.<br><br>
 
 
 
