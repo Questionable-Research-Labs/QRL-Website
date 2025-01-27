@@ -52,13 +52,13 @@ Further below there is also a list of upcoming events.
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
-  Add your name to [our Lab list here](https://forms.gle/wfhX3gEAHGmhfczG8) if you are wanting to attend.<br><br>
+  Add your name to [our Lab list here](https://forms.gle/9LUbMVmLVaAtKdsVA) if you are wanting to attend.<br><br>
     
 
  - **Friday: Dungeons & Dragons** - Starting 14th Feb<br>
   Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Our Dungeon Master, Connor, will create characters with you so you can embark on epic adventures together. Beginners and experienced players are welcome! Age 14+ <br>
     Friday 6 to 8:30(ish)<br>
-  Add your name to [our Lab list here](https://forms.gle/fQ5AurLTCZvmx3QGA) if you are wanting to attend.<br><br>
+  Add your name to [our Lab list here](https://forms.gle/o8Lsw65XP2cobWMm7) if you are wanting to attend.<br><br>
 
 
 
