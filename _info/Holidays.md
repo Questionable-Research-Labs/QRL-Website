@@ -1,13 +1,17 @@
 ---
-title: Oct Holidays
+title: Holidays
 author: Questionable Research Labs
 layout: default
 date: "2024-09-18 08:22:00"
 ---
 
+## April Holiday's ##
+<br>
+**We haven't decided on our April Holiday open days yet**
+<br>Below is the Oct Holiday as an example of the probable plan as a likely indicator.
+<br><br>
 
-
-## Oct Holiday's ##
+## Last Holiday's ##
 <br>
 **Here is the Holidays [I AM COMING](https://forms.gle/oPE4pw2b71p6KwBbA) form.**<br> 
 It is $45 and lunch is included. If you can't afford it, grab a sponsored slot (just ask).
