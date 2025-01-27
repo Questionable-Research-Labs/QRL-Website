@@ -9,17 +9,14 @@ date: "2024-09-18 10:22:00"
 
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
+**Nothing here for term 1 yet**
+
+## COME AND GONE RECENTLY
 
 - **NGenious Game Jam** - 27-29th Sept <br>
 A Weekend Game Making Event. This for physical as well as digital games. Based at the NGEN Room 187 Lower Dent St. 
 Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend. There are two forms to fill in for this:<br>
-The first is our Lab's Form which has a bit more info on our plan [HERE](https://forms.gle/R5Rh2DVoc3XGScr67)<br>
-The second is the NGEN Room Event Form [HERE](https://forms.office.com/pages/responsepage.aspx?id=t0P5RuKSO0mXHdQbOQnlER8Unu6hmQRAhYDkJdux1C5URDRQVVZHRUhSWUpMNVZOWE9FQTE5OVhSVC4u&route=shorturl)
 <br><br>
-
-
-
-## COME AND GONE RECENTLY
 
 - **KiwiJam** - 19-21 July <br>
 A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. 
