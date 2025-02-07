@@ -17,7 +17,7 @@ Group Attendance is Free<br>
 *   Some Events might have a cost - but if cost is a barrier there are sponsors, just ask.<br>
 
 ## Membership
-To be a Member of Questionable Research Labs and attend our groups you need only to sign-up. Yes that is all. **[Here is the 2024 membership form](https://forms.gle/aHMwXxhgSFpzTNQe7)**.
+To be a Member of Questionable Research Labs and attend our groups you need only to sign-up. Yes that is all. **[Here is the 2025 membership form](https://forms.gle/8jpkXU1mMq7fUTsB6)**.
 To attend one or more of the groups you will need to let us know first so we can fit you in. See the [Groups Page](https://questionable.org.nz/notices/groups/) for the links to the "I would like to come" forms.
 
 One off events, workshops and general holiday activities will have a separate sign-up form. To attend these you should always use those forms so we know you are coming. 
