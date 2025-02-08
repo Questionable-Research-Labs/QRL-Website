@@ -18,7 +18,7 @@ Further below there is also a list of upcoming events.
 
  - **Tuesday: Science Lab** - Starting 11th Feb<br> 
    This group is for those into science in all its fun and weird dimensions.<br>
-   This term we head off into the world of <b>Architecture</b>. While not exactly "science", it is interesting! So lets have a look. 
+   This term we will look at Games (the Science of Games). We will play good games, THINK about games and experiment with games. We will go DEEP into why games are games. There is science in everything. We will also play terrible, horrible games, because?… well it is the Questionable Research Labs! 
    As usual we might meander into other topics - nothing is ruled out.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-15<br>
