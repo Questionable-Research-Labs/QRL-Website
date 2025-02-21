@@ -52,7 +52,7 @@ Further below there is also a list of upcoming events.
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 3:15 to 8:30(ish) for 14 to 17yrs<br>
     Friday 6 to 8:30 or sometimes to very late for 17 to Adult<br>
-  Add your name to [our Lab list here](https://forms.gle/9LUbMVmLVaAtKdsVA) if you are wanting to attend.<br><br>
+  Add your name to [our Lab list here](https://docs.google.com/forms/d/e/1FAIpQLSd5TRtcL7E1Uje5UaooWGTHKiq6bVBCTBPFYDKgOjcD3cehgg/viewform?usp=sharing) if you are wanting to attend.<br><br>
     
 
  - **Friday: Dungeons & Dragons** - Starting 14th Feb<br>
