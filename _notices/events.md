@@ -20,7 +20,7 @@ Fast and frenzied game making - it is amazing what can be achieved by teams in a
 
 - **KiwiJam** - 19-21 July <br>
 A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. 
-Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend.<br>
+Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend. <br>
 <br><br>
 
 - **Sandbox Fandom Festival**  Saturday 27th July, Forum North<br>
