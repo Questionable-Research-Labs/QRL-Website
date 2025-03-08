@@ -25,7 +25,8 @@ One off events, workshops and general holiday activities will have a separate si
 ## Patrons
 Please become a patron to support what we do. Patrons set up a regular, repeating deposit via online banking. We suggest $5 to $15 per week. Smaller amounts are most welcome and naturally larger amounts are VERY appreciated. Being a patron is about supporting the development of a clever, creative, entrepreneurial culture in Northland. It is all about growing our Northland community in a positive way.
 Here is the account number: `38-9023-0603067-00`
-Use something in the reference that identifies you.
+The account name is: Questionable Research Labs Trust
+And use something in the reference that identifies you.
 
 We are a registered charity and at the years end we will provide a donation receipt for claiming back your tax. 
 
