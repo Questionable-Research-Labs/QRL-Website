@@ -13,7 +13,7 @@ It is $45 and lunch is included. If you can't afford it, grab a sponsored slot (
 
 <p align="left"><b>Computer Science Day</b></p>
 Wednesday 17th - 8:30am to 5pm<br>
-This is a social day interspersed with computer science related sessions. We will be covering a range of topics such as AI, Coding, Hardware, etc. The goal is to enjoy the day with friends and a relaxed dose of structured learning and challenges. It is suited to those who are into technology and like to think about the universe.<br><br>
+This is a social day interspersed with computer science related sessions. We will be covering a range of topics such as AI, Coding, Hardware, etc. The goal is to enjoy the day with friends and a relaxed dose of structured learning and challenges. It is suited to those who are into technology and like to think about the universe. Run by Elijah and Kevin<br><br>
 
 <p align="left"><b>Not Serious Day</b></p>
 Thursday 18th - 8:30am to 5pm<br> 
