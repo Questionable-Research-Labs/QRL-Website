@@ -25,7 +25,7 @@ I think the name says it all - this day will be a full on Minecraft game day. Th
 Warning: Limited places.  <br><br>
 
 
-<p align="left"><b>Serious Day 2</b></p>
+<p align="left"><b>Serious Day</b></p>
 Thursday 24th - 8:30am to 5pm<br> 
 This day is for any of our experienced members who are working on projects or tutorials or generally able to do their own thing whatever that is, in our social environment. Film work, electronics, coding, general making, designing, creating or... even school work. It doesn't really matter what you want to do, but independently doing your thing (with friends) is what the serious days are about.<br><br>
 
