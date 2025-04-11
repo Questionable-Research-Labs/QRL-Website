@@ -85,4 +85,6 @@ If you want to try fire spinning, bring $5 in cash. Please wear cotton or wool c
 - **BIOS creative innovation lab**  Sunday 11th June, 11am<br>
 This is a visit to the Whangarei Art Museum which has “BIOS: an art, biology and technology innovation lab produced by Northland creative studio AwhiWorld with ThoTho”. BIOS is a creative innovation lab set up to foster exploration and research at the intersection of art and technology and comprises various learning and experimentation zones, including areas dedicated to bio-matter experiments, mini-installations utilising 3D projection, and displays showcasing future fibre experiments.<br>
 Everyone is welcome to join us. Children under 11, please bring a grown-up. Meet: Whangarei Art Museum Main Entrance (@Town Basin)<br>
-<br><br>
+<br><br><br><br><br><br>
+- **RPG Paper Maker**  Guides<br>
+[CLICK HERE](https://goodharvest.notion.site/RPG-Paper-Maker-course-1d05bd8c2b08805ca7d0f4b27fa73368?pvs=74).
