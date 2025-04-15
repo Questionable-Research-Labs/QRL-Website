@@ -88,3 +88,6 @@ Everyone is welcome to join us. Children under 11, please bring a grown-up. Meet
 <br><br><br><br><br><br>
 - **RPG Paper Maker**  Guides<br>
 [CLICK HERE](https://goodharvest.notion.site/RPG-Paper-Maker-course-1d05bd8c2b08805ca7d0f4b27fa73368?pvs=74).
+<br><br><br><br><br><br>
+- **Computer Science Day Notes**<br>
+[CLICK HERE](https://docs.google.com/document/d/1u1mszLmki5Eo5NDS79gXtkmoEu1UN5awmFRYU92oH-U/edit?usp=drive_link).
