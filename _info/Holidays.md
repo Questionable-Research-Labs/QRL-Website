@@ -13,7 +13,7 @@ Each day is $46 and lunch is included. If you can't afford it, grab a sponsored 
 
 <p align="left"><b>CONTENT CREATORS LAB</b></p>
 Wednesday 2nd and Thursday 3rd  - 8:30am to 5pm Age 12+<br>
-These two days are about the process of creating content - developing ideas, filming, editing and posting. We will look at the good, the bad and the ugly and consider how to get the views. At the end of Day 2 you will have created and uploaded video content to your own Channel. If your after fame and fortune then your probably doomed. But come along! Learn and have fun with friends anyway.<br><br>
+These two days are about the process of creating content - developing ideas, filming, editing and posting. We will look at the good, the bad and the ugly and consider how to get the views. At the end of Day 2 you will have created and uploaded video content to your own Channel. If you're after fame and fortune then you're probably doomed. But come along! Learn and have fun with friends anyway.<br><br>
 
 <p align="left"><b>MINECRAFT GAME DAY</b></p>
 Wednesday 9th - 8:30am to 5pm  Age 9+<br> 
