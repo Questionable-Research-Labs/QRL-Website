@@ -7,7 +7,8 @@ date: "2024-09-18 08:22:00"
 
 ## July Holiday's ##
 <br>
-**Here is the Holidays [I AM COMING](https://forms.gle/wKmw33jqrARpBHzC9) form.**<br> 
+**SORRY the Holiday Events in the Lab Have Been CANCELLED**<br>
+Here is the Holidays [I AM COMING](https://forms.gle/wKmw33jqrARpBHzC9) form.<br> 
 Each day is $46 and lunch is included. If you can't afford it, grab a sponsored slot (just ask).
 <br><br>
 
