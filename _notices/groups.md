@@ -5,6 +5,11 @@ layout: default
 date: "2025-01-24 11:22:00"
 ---
 
+## IMPORTANT - We will not be running groups this team (Term 3) 
+Sorry to say but we need to move out of our existing building (within Tikipunga High School) as the building is going to be repurposed as temporary classrooms.
+<br>We need to find another location, ideally a dedicated space close to the CBD for easier access, before we can continue.<br>
+It is sad news. 
+
 ## Weekly Groups Term 2 
 
 This term we have six groups running. Other groups might spawn during the term. 
