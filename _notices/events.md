@@ -9,7 +9,8 @@ date: "2024-09-18 10:22:00"
 
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
-**Nothing here for term 1 yet**
+**Nothing confirmed yet for term 1 2026**
+<br>
 
 ## COME AND GONE RECENTLY
 
@@ -29,7 +30,7 @@ A Northland celebration of everything geek. Arts, Technology, Games, Cosplay, Co
 - **Terrible Ideas Hackathon**  Aug 2nd - 4th (Friday evening then Sat/Sun)<br>
 This is a 46hr creative and messy innovation challenge. It's about inventiveness, silliness and cleverness.  And excessive use of duct tape and hot glue. Start dreaming up GREAT terrible ideas now. A little more [info here](https://terriblehack.com/)<br><br><br>
 
-- **48hours** NZ Short Film Competition - 17-19th May<br>
+- **48hours** NZ Short Film Competition - 17-19th Aug<br>
 <b>YES</b>, we entered again this year. With 48 hours to script/film/edit and submit - this years crazy fast film making was completed with 120 seconds to spare (phew!). The film was a TicTok style poke at information bubbles and misinformation, with this one being about two extremely unlikely lovers on the run<br>
 <br><br>
 
