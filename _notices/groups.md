@@ -9,7 +9,7 @@ date: "2025-01-24 11:22:00"
 ## Weekly Groups Term 1 2026 
 
 In  2026 Term 1 we have five groups running. Other groups might spawn during the term. 
-Starting in 2026 *you need a membership number* before adding yourself to a waiting list. If you signed up previously, could you do it again in our new system (sorry!).
+Starting in 2026 you need a *membership number* before adding yourself to a waiting list. If you signed up previously, could you do it again in our new system (sorry!).
 <!-- - **Monday: Music Lab**<br> 
   For the creation of beats and general muscial inventivness. This group is full for now.<br>
   Monday 3:15 to 5:30 (THS teens only)<br><br> -->
