@@ -44,7 +44,7 @@ Starting in 2026 you need a *membership number* before adding yourself to a wait
   Coding, building robots, inventing games, playing games, this is our tech playground day<br>
   In the Coding and Robotics Lab it is ok to arrive late or leave early.<br>
     Friday 3:15 to 5(ish) for 9 to 17yrs<br> 
-  Add your name to [our Lab waiting list here](hhttps://forms.gle/f7WPsUx3ZmA7SCyj9) if you are wanting to attend. <br>
+  Add your name to [our Lab waiting list here](https://forms.gle/f7WPsUx3ZmA7SCyj9) if you are wanting to attend. <br>
     
 
  - **Friday: "Whatever" Lab**<br>
