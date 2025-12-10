@@ -7,7 +7,7 @@ date: "2025-09-18 08:22:00"
 
 ## Summer Holiday's 2026##
 <br>
-Here is the Holidays [I AM COMING](https://forms.gle/eio4rAA5ZLWw9VFi9) form.<br> 
+Here is the Holidays [I AM COMING](https://forms.gle/J9jY3veUY5ASfT6M8) form.<br> 
 Each day is $55 and lunch is included. If you can't afford it, grab a sponsored slot (just ask).
 <br><br>
 
@@ -29,6 +29,6 @@ DATE TO BE CONFIRMED - It will be a couple of Fridays - 8:30am to 5pm<br>
 This is much like the Projects Group - it is a day for independently working on projects - whatever that is for you. A Social, create, make and break day. People will be coding, playing games, working on robotics and electronics, and generally reinventing the world. Do your thing. <br><br>
 
 
-**Here is the Holidays [I AM COMING](https://forms.gle/eio4rAA5ZLWw9VFi9) form.**<br> 
+**Here is the Holidays [I AM COMING](https://forms.gle/J9jY3veUY5ASfT6M8) form.**<br> 
 
 
