@@ -1,12 +1,13 @@
 ---
 title: About
 author: Questionable Research Labs
-date: "2023-04-05 11:26:22"
+date: "2026-01-27 11:26:22"
 order: 1
 layout: default
 ---
 
-The Questionable Research Labs Charitable Trust began in 2015 as a Whangarei coding club. As it grew, it moved several times to larger spaces. The early name was the Technohackers Club before becoming Questionable Research Labs in 2020 (QRL or just the Labs). Currently the Labs run out of the old library at Tikipunga High School
+Questionable Research Labs (QRL) is a Whangārei-based charitable trust providing a purposeful and challenging environment for curious young minds. Founded in 2015 as a local coding club, we have grown into a vibrant community hub where young people play with all things related to Science, Design, and Engineering.<br>
+Currently the Labs run out of "The Woodshed" 44A Riverside Drive in the Whangarei Town Basin.<br><br>
 
 
 In the Labs, we PLAY with all things related to Science, Design and Engineering.
@@ -23,23 +24,13 @@ To provide a purposeful environment to expand and challenge the world of curious
 
 ---
 
-During 2021, around 100 active children and youth members aged between 8 and 18 attended five after school groups and two evening groups (specifically for teens): 
-the Girls Labs Groups, a Science and Tech Group, the Robotics Group, the Coding Group, the teen Questionable Projects Group and a Game Night. Roughly 4.600 
-attendances have been logged for 2021. Adult and teen weekend day and multi day events, as well as holiday programmes, are also run with between 5 and 30 
-participants each, depending on the event. 
+Our teens routinely head down to Auckland to participate in technology events aimed at university students and professionals.
+For one of those events they created a Virtual Reality horror game with haptic feedback via muscle stimulating electrodes. In another they created ‘Zap Chess’ - a chess game with movable magnetised squares that zap the players if they don’t move their chess pieces quick enough. They have also taken part in international competitions like GovHack, a large Australian/ NZ competition, to build apps that use open government data for social good. In 2022 the teens won an international award for their project.
 
-In the lab you will find the members working on projects ranging from motorizing a 3 seater couch, testing and reviewing pulse oximeters, building a 
-countertop vaccine certificate scanning kiosk, working on autonomous robots, playing games, designing and printing things on the 3D printers, and 
-importantly socialising – it’s a social, fun, techy play space.
-
-When we are not locked down, our teens routinely head down to Auckland to participate in technology events aimed at university students and professionals.
-For one of those events they created ‘Zap Chess’ - a chess game with movable magnetised squares that zap the players if they don’t move their chess pieces quick enough.
- They designed it from scratch in a 3D programme, 3D-printed and lasercut all components and worked on the electrical engineering. They also take part in international 
- competitions like GovHack, a large Australian/ NZ competition, to build apps that use open government data for social good. In 2022 the teens won an international award for their Govhack project.
 
 The Labs are free to attend, as we want to make the space accessible to anyone.
 The Labs are fully volunteer-run by members of the community, and our volunteers have put in roughly 3,400 volunteer hours in 2021. 
-The Labs are self-funded, mostly by parents through a patronage model, and most of the gear has been donated by the community. 
+The Labs are self-funded, mostly by parents through a patronage model with equipment donated by the community. 
 
 Links to more information about Questionable Research Labs:
 
