@@ -23,7 +23,7 @@ Starting in 2026 you need a *membership number* before adding yourself to a wait
    There is science in *everything*.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-15<br>
-   Add your name to [our Lab waiting list here](https://forms.gle/xztcneKiDRbHZTqC7) if you are wanting to attend.<br><br>
+   Add your name to [our Lab waiting list here](https://forms.gle/xztcneKiDRbHZTqC7) if you are wanting to attend. The group is full at the moment but we might be able to increase our numbers a little in a few weeks<br><br>
    
 
  - **Wednesday: Projects Lab**<br>
@@ -44,7 +44,7 @@ Starting in 2026 you need a *membership number* before adding yourself to a wait
   Coding, building robots, inventing games, playing games, this is our tech playground day<br>
   In the Coding and Robotics Lab it is ok to arrive late or leave early.<br>
     Friday 3:15 to 5(ish) for 9 to 17yrs<br> 
-  Add your name to [our Lab waiting list here](https://forms.gle/f7WPsUx3ZmA7SCyj9) if you are wanting to attend. <br>
+  Add your name to [our Lab waiting list here](https://forms.gle/f7WPsUx3ZmA7SCyj9) if you are wanting to attend. The group is full at the moment but we might be able to increase our numbers a little in a few weeks<br>
     
 
  - **Friday: "Whatever" Lab**<br>
