@@ -51,13 +51,13 @@ Starting in 2026 you need a *membership number* before adding yourself to a wait
   For those 13+ This is our time to be Social, Create, Make and Break. People will be coding, playing games (eg D&D), working on projects, and generally reinventing the world. The <i>Whatever Lab</i> is our playground for clever stuff. Disasters will be generated and averted in unequal proportions. <br>
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 5:00 to 8:30(ish) for 13+yrs<br>
-  Add your name to [our Lab waiting list here](https://forms.gle/eTzhAKL6YeDdUWy47) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/eTzhAKL6YeDdUWy47) if you are wanting to attend.<br>
   Note that if you are staying late, we put in $10 each and get a shared takeaway dinner. You don't need to do this but it is a good option<br><br>    
 
  - **Friday: Dungeons & Dragons**<br>
   Do you want to play Dungeons & Dragons with a group of likeminded people? Explore Neverwinter, Deepwater and other amazing locations full of adventure in a term-long campaign. Embark on epic adventures together. Beginners and experienced players are welcome! Ages 13+ <br>
     Friday 5:30 to 8:30(ish)<br>
-  Add your name to [our Lab waiting list here](https://forms.gle/CrE824mrGGfZfCJ3A) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/CrE824mrGGfZfCJ3A) if you are wanting to attend.<br>
   Note that if you are staying late, we put in $10 each and get a shared takeaway dinner. You don't need to do this but it is a good option<br><br>
 
 
