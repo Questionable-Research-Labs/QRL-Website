@@ -5,8 +5,9 @@ layout: default
 date: "2025-09-18 08:22:00"
 ---
 
-## Summer Holiday's 2026##
+## April Holiday's 2026##
 <br>
+## I AM DOING THIS RIGHT NOW - CHECK AGAIN LATER IN THE DAY HOUR##<br><br><br>
 Here is the Holidays [I AM COMING](https://forms.gle/J9jY3veUY5ASfT6M8) form.<br> 
 Each day is $55 and lunch is included. If you can't afford it, grab a sponsored slot (just ask).
 <br><br>
