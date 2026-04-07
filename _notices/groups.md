@@ -6,7 +6,7 @@ date: "2025-04-06 11:22:00"
 ---
 
 
-## Weekly Groups Term 2 2026 
+## Weekly Groups Term 2 - 2026 
 
 In  2026 Term 2 we have five groups running. Other groups might spawn during the term.<br>
 All groups are starting in the first week after the April Holidays<br>
@@ -18,7 +18,7 @@ Starting in 2026 you need a *membership number* before adding yourself to a wait
 
  - **Tuesday: Science Lab**<br> 
    This group is for those into science in all its fun and weird dimensions.<br>
-   In Term 2 we will be looking at ##SPACE##. The science lab is a terrible, horrible group, full of thinking, questions and chaos. Yes, frequent chaos.
+   In Term 2 we will be looking at <b>SPACE</b>. The science lab is a terrible, horrible group, full of thinking, questions and chaos. Yes, frequent chaos.
    As usual we have a plan,but we will meander into other topics - nothing is ruled out.<br>
    There is science in *everything*.<br>
 
