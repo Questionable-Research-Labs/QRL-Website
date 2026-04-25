@@ -2,17 +2,23 @@
 title: Events
 author: Questionable Research Labs
 layout: default
-date: "2024-09-18 10:22:00"
+date: "2026-03-18 10:22:00"
 ---
 
 ## Events on the Horizon
 
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
-**Nothing confirmed yet for term 1 2026**
+- **MINECRAFT GAME DAY** - Sunday 3rd May<br>
+Join us for a day of Minecraft mayhem in the Labs!!<br>
+This social day of playing Minecraft with friends is **completely unnecessary fun!** <br>
+[Here is the sign-up form](https://forms.gle/tBgycVDPK7715wwz9).<br><br>
+
+
+
 <br>
 
-## COME AND GONE RECENTLY
+## COME AND GONE
 
 - **NGenious Game Jam** - 27-29th Sept <br>
 A Weekend Game Making Event. This for physical as well as digital games. Based at the NGEN Room 187 Lower Dent St. 
