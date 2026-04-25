@@ -9,12 +9,22 @@ date: "2026-03-18 10:22:00"
 
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
+
 - **MINECRAFT GAME DAY** - Sunday 3rd May<br>
 Join us for a day of Minecraft mayhem in the Labs!!<br>
 This social day of playing Minecraft with friends is **completely unnecessary fun!** <br>
 [Here is the sign-up form](https://forms.gle/tBgycVDPK7715wwz9).<br><br>
 
+- **Parents Evening** - Thursday 17th May 6pm-7:30pm<br>
+This is a chance to hear about/think about AI, Education and future work.<br>
+The building will be open after 5pm. Feel free to come and chat while you wait, but we will start at 6pm. <br>
+There is no sign-up for this - just come along.<br><br>
 
+- **NZ 48-hour Short Film Competition** - Friday 31st July to Sunday 2nd Aug<br>
+We will be entering a team (at least one) in the [48Hours](https://www.48hours.co.nz/) competition.<br>
+It is one FULL weekend challenge where we create a script, film, edit and collapse. Along the way there is drama, disaster and cool things that happen. The timeline is tight and it is always a race to get it submitted by Sunday afternoon. This is VERY worthwhile getting involved. It is ok not knowing how you might contribute - there are so many things that need to happen - writing, making props, creating lighting, music and sound effects through to the things you could expect like acting, camera work and editing.<br>
+Keep the date - we will have a sign-up form when we are closer to the event.
+<br><br>
 
 <br>
 
