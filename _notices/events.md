@@ -10,15 +10,21 @@ date: "2026-03-18 10:22:00"
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
 
-- **MINECRAFT GAME DAY** - Sunday 3rd May<br>
-Join us for a day of Minecraft mayhem in the Labs!!<br>
-This social day of playing Minecraft with friends is **completely unnecessary fun!** <br>
-[Here is the sign-up form](https://forms.gle/tBgycVDPK7715wwz9).<br><br>
 
 - **Parents Evening** - Thursday 17th May 6pm-7:30pm<br>
 This is a chance to hear about/think about AI, Education and future work.<br>
 The building will be open after 5pm. Feel free to come and chat while you wait, but we will start at 6pm. <br>
 There is no sign-up for this - just come along.<br><br>
+
+- **MINECRAFT GAME DAY** - Sunday ?? June (to be confirmed)<br>
+Join us for our next day of Minecraft mayhem in the Labs!!<br>
+This social day of playing Minecraft with friends is **completely unnecessary fun!** <br>
+<br><br>
+
+- **KiwiJam** - 24-26 July <br>
+A 48hr game making event for physical as well as digital games. We will be taking a group down to Auckland University to compete against the professionals and Uni Students in this fast and frenzied game making. This will be an epic weekend. <br>
+<br><br>
+
 
 - **NZ 48-hour Short Film Competition** - Friday 31st July to Sunday 2nd Aug<br>
 We will be entering a team (at least one) in the [48Hours](https://www.48hours.co.nz/) competition.<br>
@@ -30,14 +36,19 @@ Keep the date - we will have a sign-up form when we are closer to the event.
 
 ## COME AND GONE
 
+- **MINECRAFT GAME DAY** - Sunday 3rd May<br>
+Join us for a day of Minecraft mayhem in the Labs!!<br>
+This social day of playing Minecraft with friends is **completely unnecessary fun!** <br>
+<br><br>
+
 - **NGenious Game Jam** - 27-29th Sept <br>
 A Weekend Game Making Event. This for physical as well as digital games. Based at the NGEN Room 187 Lower Dent St. 
-Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend. There are two forms to fill in for this:<br>
+Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend. <br>
 <br><br>
 
 - **KiwiJam** - 19-21 July <br>
 A 48hr game making event. This for physical as well as digital games. There will be a Whangarei site (in the Labs) this year so we will be able to have younger people involved. 
-Fast and frenzied game making - it is amazing what can be achieved by teams in a weekend. <br>
+<br>
 <br><br>
 
 - **Sandbox Fandom Festival**  Saturday 27th July, Forum North<br>
