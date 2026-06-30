@@ -7,7 +7,7 @@ date: "2025-09-18 08:22:00"
 
 ## July Holiday's 2026##
 <br>
-Here is the July Holidays [I AM COMING](https://forms.gle/8jweqy6vEpeEzEpe8) Form.<br> 
+Here is the July Holidays [I AM COMING](https://forms.gle/8jweqy6vEpeEzEpe8) Form.<br>
 The full days are $55 and lunch is included. If you can't afford it, grab a sponsored slot (just ask).
 <br><br>
 

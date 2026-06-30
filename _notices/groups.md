@@ -6,7 +6,7 @@ date: "2025-04-06 11:22:00"
 ---
 
 
-## Weekly Groups Term 2 - 2026 
+## Weekly Groups Term 2 - 2026  (Term 3 Signups Coming Soon)
 
 In  2026 Term 2 we have five groups running. Other groups might spawn during the term.<br>
 All groups are starting in the first week after the April Holidays<br>
