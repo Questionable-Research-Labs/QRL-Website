@@ -29,7 +29,7 @@ You need a *membership number* before adding yourself to a waiting list. If you 
  - **Wednesday: Projects Lab**<br>
   This term, Wednesday 3:15 to 5(ish) is the lab is open for anyone to use if you are doing a thing. Your thing. Ages 13+:<br> 
     This is Open Lab time - it is your time where you can work on projects whatever that happens to be. It is "serious time" for those want more time in the Lab to get stuff done. Whatever that is for you. Even homework.<br>
-    Add your name to [our Lab list here](https://forms.gle/ziMckUKSx3pe1Jyr6) if you will be their regularly.  If you are just casually dropping in, thats ok, but email or text Kevin first.<br>
+    Add your name to [our Lab list here](https://forms.gle/ZLsMfMcoTWknJbRE6) if you will be their regularly.  If you are just casually dropping in, thats ok, but email or text Kevin first.<br>
  <br><br>
 
  <!-- - **Wednesday: Research Lab**<br>
@@ -44,14 +44,14 @@ You need a *membership number* before adding yourself to a waiting list. If you 
   Coding, building robots, inventing games, playing games, this is our tech playground day<br>
   In the Coding and Robotics Lab it is ok to arrive upto 3:55pm. At this time we go into serious mode till about 5pm.<br>
     Friday 3:15 to 5(ish) for 9 to 17yrs<br> 
-  Add your name to [our Lab waiting list here](https://forms.gle/MbT9F6WnNvS6eqmDA) if you are wanting to attend. <br>
+  Add your name to [our Lab waiting list here](https://forms.gle/BZvE1nv1XU19cNVo9) if you are wanting to attend. <br>
     
 
  - **Friday: "Whatever" Lab**<br>
   For those 13+ This is our time to be Social, Create, Make and Break. People will be coding, playing games (eg D&D), working on projects, and generally reinventing the world. The <i>Whatever Lab</i> is our playground for clever stuff. Disasters will be generated and averted in unequal proportions. <br>
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 5:00 to 8:30(ish) for 13+yrs<br>
-  Add your name to [our Lab list here](https://forms.gle/qu7YowrNsoPjC6QX8) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/j5mUHMjF1VwjZsDx9) if you are wanting to attend.<br>
   Note that if you are staying late and would like dinner, we put in $10 each and get a shared takeaways. You don't need to do this but it is a good option<br><br>    
 
  - **Friday: Dungeons & Dragons**<br>
