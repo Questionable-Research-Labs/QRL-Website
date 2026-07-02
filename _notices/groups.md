@@ -23,7 +23,7 @@ You need a *membership number* before adding yourself to a waiting list. If you 
    There is science in *everything*.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-15<br>
-   Add your name to [our Lab waiting list here](https://forms.gle/99UERndoHU6owYbY6) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/99UERndoHU6owYbY6) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Projects Lab**<br>
@@ -44,7 +44,7 @@ You need a *membership number* before adding yourself to a waiting list. If you 
   Coding, building robots, inventing games, playing games, this is our tech playground day<br>
   In the Coding and Robotics Lab it is ok to arrive upto 3:55pm. At this time we go into serious mode till about 5pm.<br>
     Friday 3:15 to 5(ish) for 9 to 17yrs<br> 
-  Add your name to [our Lab waiting list here](https://forms.gle/BZvE1nv1XU19cNVo9) if you are wanting to attend. <br>
+  Add your name to [our Lab list here](https://forms.gle/BZvE1nv1XU19cNVo9) if you are wanting to attend. <br>
     
 
  - **Friday: "Whatever" Lab**<br>
