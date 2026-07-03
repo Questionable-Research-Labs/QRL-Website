@@ -18,7 +18,7 @@ This is a social day. Hang out and play games with friends. The lab is a our cre
 
 <p align="left"><b>SERIOUS Day</b></p>
 Friday 10th - 8:30am to 5pm <br>
-It is time to work on whatever it is you want to do in a social environment. People will be coding, playing games, working on robotics and electronics, and generally reinventing the world. Do your thing. 
+Oops sorry this is Matariki - so this day is cancelled. 
 <br><br>   
 
 <p align="left"><b>Non-Digital Game Day</b></p>
