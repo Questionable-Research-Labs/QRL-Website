@@ -9,17 +9,22 @@ date: "2026-07-18 10:22:00"
 
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
+- **Brew a Beer, Distill a Gin, and make a Cheese Day** - Sunday 20th Sept<br>
+As you might expect this is an Adults. Join us in the lab to taste and learn and chat!! <br>
+More info to come, this is just a heads up. <br>
+<br><br>
+
+
+
+<br>
+
+## COME AND GONE
 
 - **MINECRAFT GAME DAY** - Sunday 16th Aug<br>
 Join us for a day of Minecraft mayhem in the Labs!!<br>
 This a wildly social day of playing Minecraft with friends is **completely unnecessary fun!** <br>
 [Here is the sign up form](https://forms.gle/coMi2J6WrjqCKvJ78)
 <br><br>
-
-
-<br>
-
-## COME AND GONE
 
 - **KiwiJam** - 24-26 July <br>
 A 48hr game making event for physical as well as digital games. We will be taking a group down to Auckland University to compete against the professionals and Uni Students in this fast and frenzied game making. This will be an epic weekend. <br>
