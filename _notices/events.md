@@ -9,8 +9,8 @@ date: "2026-07-18 10:22:00"
 
 The following is a list of events coming up. Listed in Date order.<br>
 As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
-- **Brew a Beer, Distill a Gin, and make a Cheese Day** - Sunday 20th Sept<br>
-As you might expect this is an Adults. Join us in the lab to taste and learn and chat!! <br>
+- **Brew a Beer, distill a Gin, and make a Cheese Day** - Sunday 20th Sept<br>
+Being an Adult is tricky - but this day is not. Join us in the lab to taste and learn and chat!! <br>
 More info to come, this is just a heads up. <br>
 <br><br>
 
