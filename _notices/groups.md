@@ -5,10 +5,6 @@ layout: default
 date: "2025-04-06 11:22:00"
 ---
 
-## Briar-Rose Link
-[Survey Link](https://docs.google.com/forms/d/e/1FAIpQLScyCsD-KSIx1QNq1KDoJMs5K638ObNQnsZzXyGlIuZCZEo0_w/viewform?usp=publish-editor)  
-
-<br><br>
 ## Weekly Groups Term 3 - 2026  
 
 In  2026 Term 3 we have five groups running. Other groups might spawn during the term.<br>
@@ -49,6 +45,10 @@ You need a *membership number* before adding yourself to a waiting list. If you 
     Friday 3:15 to 5(ish) for 9 to 17yrs<br> 
   Add your name to [our Lab list here](https://forms.gle/BZvE1nv1XU19cNVo9) if you are wanting to attend. <br>
     
+ - **Friday: Film and Media Lab**<br>
+  This group is all about exploring different all aspects of media, from film and camera work to scripts and editing.<br>
+    Friday 6 to 7:30(ish) for 13+yrs<br> 
+  Add your name to [our Lab list here](https://forms.gle/cPT3dAGMoGYfX9YS8) if you are wanting to attend. <br>
 
  - **Friday: "Whatever" Lab**<br>
   For those 13+ This is our time to be Social, Create, Make and Break. People will be coding, playing games (eg D&D), working on projects, and generally reinventing the world. The <i>Whatever Lab</i> is our playground for clever stuff. Disasters will be generated and averted in unequal proportions. <br>
