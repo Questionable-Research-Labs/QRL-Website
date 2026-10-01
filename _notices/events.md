@@ -8,17 +8,21 @@ date: "2026-07-18 10:22:00"
 ## Events on the Horizon
 
 The following is a list of events coming up. Listed in Date order.<br>
-As they get close we will add in a sign up link if needed (which will also have more information)<br><br>
-- **Brew a Beer, distill a Gin, and make a Cheese Day** - Sunday 20th Sept<br>
-Being an Adult is tricky - but this day is not. Join us in the lab to taste and learn and chat!! <br>
-More info to come, this is just a heads up. <br>
-<br><br>
 
-
+- **KiwiHack** - Friday 9th to Saturday 10th Oct<br>
+This is a 24hr hackathon at Manukau Institute of Technology. We will have two teams going down to make something random and interesting<br>
+It's a chance to make a prototype of some crazy idea at speed. It's teamwork in a pressure cooker with the clock ticking.<br>
+24 hours will go by Very Very fast. <br>
+[Here is a link to more info }(https://nova.kiwihacks.org/auckland)
+<br>
 
 <br>
 
 ## COME AND GONE
+
+- **Brew a Beer, Distill a Gin, and make a Cheese Day** - Sunday 20th Sept<br>
+Being an Adult is tricky - but this day is not. Join us in the lab to taste and learn and chat!! <br>
+<br><br>
 
 - **MINECRAFT GAME DAY** - Sunday 16th Aug<br>
 Join us for a day of Minecraft mayhem in the Labs!!<br>
