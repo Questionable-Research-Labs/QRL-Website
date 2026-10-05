@@ -13,7 +13,7 @@ The following is a list of events coming up. Listed in Date order.<br>
 This is a 24hr hackathon at Manukau Institute of Technology. We will have two teams going down to make something random and interesting<br>
 It's a chance to make a prototype of some crazy idea at speed. It's teamwork in a pressure cooker with the clock ticking.<br>
 24 hours will go by Very Very fast. <br>
-[Here is a link to more info }(https://nova.kiwihacks.org/auckland)
+[Here is a link to more info](https://nova.kiwihacks.org/auckland)
 <br>
 
 <br>
