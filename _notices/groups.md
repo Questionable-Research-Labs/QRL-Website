@@ -45,22 +45,22 @@ You need a *membership number* before adding yourself to a waiting list. If you 
     Friday 3:15 to 5(ish) for 9 to 17yrs<br> 
   Add your name to [our Lab list here](https://forms.gle/LZfL3LUfkPPKnHJ3A) if you are wanting to attend. <br>
     
- - **Friday: Film and Media Lab**<br>
+ <!-- - **Friday: Film and Media Lab**<br>
   This group is all about exploring different all aspects of media, from film and camera work to scripts and editing.<br>
     Friday 6 to 7:30(ish) for 13+yrs<br> 
-  Add your name to [our Lab list here](https://forms.gle/cPT3dAGMoGYfX9YS8) if you are wanting to attend. <br>
+  Add your name to [our Lab list here](https://forms.gle/cPT3dAGMoGYfX9YS8) if you are wanting to attend. <br> -->
 
  - **Friday: "Whatever" Lab**<br>
   For those 13+ This is our time to be Social, Create, Make and Break. People will be coding, playing games (eg D&D), working on projects, and generally reinventing the world. The <i>Whatever Lab</i> is our playground for clever stuff. Disasters will be generated and averted in unequal proportions. <br>
   It is ok to arrive late or leave early. This is an informal time.<br>
     Friday 5:00 to 8:30(ish) for 13+yrs<br>
-  Add your name to [our Lab list here](https://forms.gle/j5mUHMjF1VwjZsDx9) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/LsPiF4an7N85eaQj8) if you are wanting to attend.<br>
   Note that if you are staying late and would like dinner, we put in $10 each and get a shared takeaways. You don't need to do this but it is a good option<br><br>    
 
  - **Friday: Dungeons & Dragons**<br>
   Do you want to play Dungeons & Dragons with a group of likeminded people? Embark on epic adventures together. Beginners and experienced players are welcome! As we have enough people to create a new group we will do that. Currently there is a younger group and and older group. A new older group will form when there is enough interest - add your name to the list if interested in that<br>
     Friday 5:30 to 8:30(ish)<br>
-  Add your name to [our Lab list here](https://forms.gle/eU5vsDinbexxTZAe7) if you are wanting to attend.<br>
+  Add your name to [our Lab list here](https://forms.gle/nSqX3SSUrmqRfGUMA) if you are wanting to attend.<br>
   Note that if you are staying late, we put in $10 each and get a shared takeaway dinner. You don't need to do this but it is a good option<br><br>
 
 
