@@ -5,10 +5,10 @@ layout: default
 date: "2025-04-06 11:22:00"
 ---
 
-## Weekly Groups Term 3 - 2026  
+## Weekly Groups Term 4 - 2026  
 
-In  2026 Term 3 we have five groups running. Other groups might spawn during the term.<br>
-All groups are starting in the first week after the July Holidays<br>
+In  2026 Term 4 we have five groups running. Other groups might spawn during the term.<br>
+All groups are starting in the first week after the Holidays<br>
 You need a *membership number* before adding yourself to a waiting list. If you signed up previously it would have been emailed to you.<br><br>
 <!-- - **Monday: Music Lab**<br> 
   For the creation of beats and general muscial inventivness. This group is full for now.<br>
@@ -17,12 +17,12 @@ You need a *membership number* before adding yourself to a waiting list. If you 
 
  - **Tuesday: Science Lab**<br> 
    This group is for those into science in all its fun and weird dimensions.<br>
-   The Term 3 topic is not yet decided (last term it was Space). The science lab is a terrible, horrible group, full of thinking, questions and chaos. Yes, frequent chaos.
+   The Term 3 topic is not yet decided (last term it was Electricity). The science lab is a terrible, horrible group, full of thinking, questions and chaos. Yes, frequent chaos.
    As usual we have a plan,but we will meander into other topics - nothing is ruled out.<br>
    There is science in *everything*.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-15<br>
-   Add your name to [our Lab list here](https://forms.gle/99UERndoHU6owYbY6) if you are wanting to attend.<br><br>
+   Add your name to [our Lab list here](https://forms.gle/5uADs8ZjVyEYKQZH7) if you are wanting to attend.<br><br>
    
 
  - **Wednesday: Projects Lab**<br>
@@ -43,7 +43,7 @@ You need a *membership number* before adding yourself to a waiting list. If you 
   Coding, building robots, inventing games, playing games, this is our tech playground day<br>
   In the Coding and Robotics Lab it is ok to arrive upto 3:55pm. At this time we go into serious mode till about 5pm.<br>
     Friday 3:15 to 5(ish) for 9 to 17yrs<br> 
-  Add your name to [our Lab list here](https://forms.gle/BZvE1nv1XU19cNVo9) if you are wanting to attend. <br>
+  Add your name to [our Lab list here](https://forms.gle/LZfL3LUfkPPKnHJ3A) if you are wanting to attend. <br>
     
  - **Friday: Film and Media Lab**<br>
   This group is all about exploring different all aspects of media, from film and camera work to scripts and editing.<br>
