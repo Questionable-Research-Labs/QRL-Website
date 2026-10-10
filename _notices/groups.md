@@ -9,7 +9,7 @@ date: "2025-04-06 11:22:00"
 
 In  2026 Term 4 we have five groups running. Other groups might spawn during the term.<br>
 All groups are starting in the first week after the Holidays<br>
-You need a *membership number* before adding yourself to a waiting list. If you signed up previously it would have been emailed to you.<br><br>
+You need a *membership number* before adding yourself to a list. If you signed up previously it would have been emailed to you.<br><br>
 <!-- - **Monday: Music Lab**<br> 
   For the creation of beats and general muscial inventivness. This group is full for now.<br>
   Monday 3:15 to 5:30 (THS teens only)<br><br> -->
