@@ -28,7 +28,7 @@ You need a *membership number* before adding yourself to a waiting list. If you 
  - **Wednesday: Projects Lab**<br>
   This term, Wednesday 3:15 to 5(ish) is the lab is open for anyone to use if you are doing a thing. Your thing. Ages 13+:<br> 
     This is Open Lab time - it is your time where you can work on projects whatever that happens to be. It is "serious time" for those want more time in the Lab to get stuff done. Whatever that is for you. Even homework.<br>
-    Add your name to [our Lab list here](https://forms.gle/ZLsMfMcoTWknJbRE6) if you will be their regularly.  If you are just casually dropping in, thats ok, but email or text Kevin first.<br>
+    Add your name to [our Lab list here](https://forms.gle/xmDCwGJ4SuAVWEw4A) if you will be their regularly.  If you are just casually dropping in, thats ok, but email or text Kevin first.<br>
  <br><br>
 
  <!-- - **Wednesday: Research Lab**<br>
