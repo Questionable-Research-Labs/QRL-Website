@@ -17,8 +17,8 @@ You need a *membership number* before adding yourself to a waiting list. If you 
 
  - **Tuesday: Science Lab**<br> 
    This group is for those into science in all its fun and weird dimensions.<br>
-   The Term 3 topic is not yet decided (last term it was Electricity). The science lab is a terrible, horrible group, full of thinking, questions and chaos. Yes, frequent chaos.
-   As usual we have a plan,but we will meander into other topics - nothing is ruled out.<br>
+   The Term 4 topic is Problems, Paradoxes and Puzzles. It will be thinking about thinking with challenges and games. And chaos.
+   As usual we have a plan, but we will meander into other topics - nothing is ruled out.<br>
    There is science in *everything*.<br>
 
    Tuesday 3:15 to 5:30 (it is ok to arrive up to 4pm) - Ages 9-15<br>
